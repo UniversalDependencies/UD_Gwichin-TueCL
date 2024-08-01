@@ -12,3 +12,9 @@
 9	geh’an	geh’an	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
 10	.	_	PUNCT	_	_	3	punct	_	_
 
+# sent_id = 
+# text_en = I am hungry. 
+1	Shizhìt	_	ADP	_	_	2	obl	_	Gloss=inside me|MSeg=shi-zhìt
+2	gwìłts’ìk	_	VERB	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	2	punct	_	_
+
