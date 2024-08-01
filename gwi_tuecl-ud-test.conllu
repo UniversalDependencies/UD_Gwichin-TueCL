@@ -1,4 +1,4 @@
-# sent_id = 
+# sent_id = 1
 # text = Shinee’ok shidink’ee vintł’ihihtin, vadzaih eenjit naazhrii yindhan geh’an.
 # text_en = I'm giving my neighbor my gun because he wants to hunt for caribou.
 1	Shinee’ok	vinee’ok	NOUN	_	_	3	iobj	_	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
@@ -12,9 +12,22 @@
 9	geh’an	geh’an	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
 10	.	_	PUNCT	_	_	3	punct	_	_
 
-# sent_id = 
+# sent_id = 2
 # text_en = I am hungry. 
 1	Shizhìt	_	ADP	_	_	2	obl	_	Gloss=inside me|MSeg=shi-zhìt
 2	gwìłts’ìk	_	VERB	_	_	0	root	_	_
 3	.	_	PUNCT	_	_	2	punct	_	_
 
+# sent_id = 3
+# text_en = Mary is hungry. 
+1	Mary	_	PROPN	_	_	3	obl	_	Gloss=Mary
+2	vizhìt	_	ADP	_	_	1	case	_	Gloss=inside her|MSeg=vi-zhìt
+3	gwìłts’ìk	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 4
+# text_en = Sit with me. 
+# this is a stative verb 
+1	Shàa	_	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa
+2	dhindìi	_	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi
+3	.	_	PUNCT	_	_	2	punct	_	_
