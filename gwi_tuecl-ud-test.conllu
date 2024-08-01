@@ -1,14 +1,14 @@
 # sent_id = 
-# text = Shinee'ok shidink'ee vintł'ihihtin, vadzaih eenjit naazhrii yindhan geh'àn.
+# text = Shinee’ok shidink’ee vintł’ihihtin, vadzaih eenjit naazhrii yindhan geh’an.
 # text_en = I'm giving my neighbor my gun because he wants to hunt for caribou.
-1	Shinee'ok	vinee'ok	NOUN	_	_	3	iobj	_	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
-2	shidink'ee	dink'ee	NOUN	_	_	3	obj	_	Gloss=my gun|MSeg=shï-dink'ee|MGloss=1SG.POSS-gun
-3	vintł'ihihtin	_	VERB	_	_	0	root	_	MSeg=vï-ntłï-hï-ih-tin|MGloss=3SG.POSS-palm-FUT-1SG+Ø-position.LRO|SpaceAfter=No
+1	Shinee’ok	vinee’ok	NOUN	_	_	3	iobj	_	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
+2	shidink’ee	dink’ee	NOUN	_	_	3	obj	_	Gloss=my gun|MSeg=shï-dink'ee|MGloss=1SG.POSS-gun
+3	vintł’ihihtin	_	VERB	_	_	0	root	_	MSeg=vï-ntłï-hï-ih-tin|MGloss=3SG.POSS-palm-FUT-1SG+Ø-position.LRO|SpaceAfter=No
 4	,	_	PUNCT	_	_	8	punct	_	_
 5	vadzaih	vadzaih	NOUN	_	_	7	obl	_	Gloss=caribou
 6	eenjit	eenjit	ADP	_	_	5	case	_	Gloss=for
 7	naazhrii	naazhrii	VERB	_	_	8	ccomp	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IPV-hunt
 8	yindhan	yiyindhan	VERB	_	_	3	advcl	_	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3.O-3SG.PFV+Ø-want
-9	geh'àn	geh'an	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
+9	geh’an	geh’an	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
 10	.	_	PUNCT	_	_	3	punct	_	_
 
