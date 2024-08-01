@@ -29,6 +29,6 @@
 # sent_id = 4
 # text_en = Sit with me. 
 # this is a stative verb 
-1	Shàa	_	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa
+1	Shàa	_	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa
 2	dhindìi	_	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi
 3	.	_	PUNCT	_	_	2	punct	_	_
