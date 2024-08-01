@@ -9,14 +9,14 @@
 6	eenjit	eenjit	ADP	_	_	5	case	_	Gloss=for
 7	naazhrii	naazhrii	VERB	_	_	8	ccomp	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IPV-hunt
 8	yindhan	yiyindhan	VERB	_	_	3	advcl	_	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3.O-3SG.PFV+Ø-want
-9	geh’àn	geh’àn	SCONJ	_	_	8	mark	_	Gloss=because
+9	geh’àn	geh’àn	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
 10	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 2
 # text = Shizhìt gwìłts’ìk.
 # text_en = I am hungry.
 1	Shizhìt	_	ADP	_	_	2	obl	_	Gloss=inside me|MSeg=shi-zhìt
-2	gwìłts’ìk	_	VERB	_	_	0	root	_	_
+2	gwìłts’ìk	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 3
@@ -24,7 +24,7 @@
 # text_en = Mary is hungry. 
 1	Mary	_	PROPN	_	_	3	obl	_	Gloss=Mary
 2	vizhìt	_	ADP	_	_	1	case	_	Gloss=inside her|MSeg=vi-zhìt
-3	gwìłts’ìk	_	VERB	_	_	0	root	_	_
+3	gwìłts’ìk	_	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 4
@@ -32,6 +32,6 @@
 # text_en = Sit with me. 
 # this is a stative verb 
 1	Shàa	_	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa
-2	dhindìi	_	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi
+2	dhindìi	_	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
