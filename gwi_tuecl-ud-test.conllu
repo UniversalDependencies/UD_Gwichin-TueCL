@@ -1450,7 +1450,7 @@
 # text = Tr’iinin nąįį chiitąįį tseegii’in.
 # text_en = The children are playing outside.
 1	Tr’iinin	tr'iinin	NOUN	_	_	4	nsubj	_	Gloss=children
-2	nąįį	nąįį	PART	_	_	1	dep:plural	_	Gloss=PL
+2	nąįį	nąįį	PART	_	_	1	dep	_	Gloss=PL
 3	chiitąįį	chiitąįį	ADV	_	_	4	advmod	_	Gloss=outside
 4	tseegii’in	tsee'in	VERB	_	_	0	root	_	Gloss=they are playing|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
