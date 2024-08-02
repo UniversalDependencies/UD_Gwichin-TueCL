@@ -291,7 +291,7 @@
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 48
-# text = Tr’ąąh’in.
+# text = Tr’ąąh’in.
 # text_en = We see it.
 1	Tr’ąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=we see it|MSeg=trï-nï-ąh-’in|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
@@ -309,7 +309,7 @@
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 51
-# text = Dinjik gąąh’in.
+# text = Dinjik gąąh’in.
 # text_en = They see the moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
 2	gąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=They see|MSeg=gï-nï-ah-'in|SpaceAfter=No
@@ -322,26 +322,26 @@
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 53
-# text = Hąąh’yaa.
+# text = Hąąh’yaa.
 # text_en = You will see it.
 1	Hąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=you will see it|MSeg=hï-nï-ąh-’yaa|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 54
-# text = Yahąąh’yaa.
+# text = Yahąąh’yaa.
 # text_en = He will see it.
 1	Yahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=he will see it|MSeg=yï-hï-nï-ah-’yaa|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 55
-# text = Dinjik hąąh’yaa.
+# text = Dinjik hąąh’yaa.
 # text_en = She will see a moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
 2	hąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=she will see|MSeg=hï-nï-ah-'yaa|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 56
-# text = Tr'ahąąh’yaa.
+# text = Tr'ahąąh’yaa.
 # text_en = We will see it.
 1	Tr'ahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=we will see it|MSeg=tr'ï-hï-nï-ah-’yaa|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
@@ -353,13 +353,13 @@
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 58
-# text = Yahąąh’yaa.
+# text = Yahąąh’yaa.
 # text_en = They will see it.
 1	Yahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=they will see it|MSeg=gï-yï-hï-nï-ah-’yaa|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 59
-# text = Dinjik gahąąh’yaa.
+# text = Dinjik gahąąh’yaa.
 # text_en = They will see a moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
 2	gahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=they will see|MSeg=gï-hï-nï-ah-'yaa|SpaceAfter=No
@@ -898,7 +898,7 @@
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 145
-# text = Ąhtsii.
+# text = Ąhtsii.
 # text_en = You are making it.
 1	Ąhtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you are making it|MSeg=ąh-tsii|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
@@ -948,7 +948,7 @@
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 153
-# text = Hąhtsyaa.
+# text = Hąhtsyaa.
 # text_en = You will make it.
 1	Hąhtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=you will make it|MSeg=hï-ąh-tsyaa|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
@@ -1160,7 +1160,7 @@
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 188
-# text = Dhąhts’ik.
+# text = Dhąhts’ik.
 # text_en = You are sick. 
 1	Dhąhts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=you are sick|MSeg=dhï-ąh-ts’ik|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
@@ -1478,14 +1478,14 @@
 4	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 231
-# text = Vakǫ̀ nàanaii.
+# text = Vakǫ̀ nàanaii.
 # text_en = He dropped his hot ember.
 1	Vakǫ̀	kǫ’	NOUN	_	_	2	obj	_	Gloss=his hot ember
 2	nàanaii	_	VERB	_	_	0	root	_	Gloss=he dropped|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 232
-# text = Yagha’ tr’injaa ląįį tsal ahchyaa.
+# text = Yagha’ tr’injaa ląįį tsal ahchyaa.
 # text_en = That woman carries a little dog.
 1	Yagha’	yagha’	DET	_	_	2	det	_	Gloss=that one
 2	tr’injaa	tr’injaa	NOUN	_	_	5	nsubj	_	Gloss=woman
@@ -1536,7 +1536,7 @@
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 238
-# text = Làraa dęhtł’yaa ch’ìhłak neehałchaa.
+# text = Làraa dęhtł’yaa ch’ìhłak neehałchaa.
 # text_en = I will carry a $1 bill.
 1	Làraa	laraa	NOUN	_	_	2	compound	_	Gloss=money
 2	dęhtł’yaa	dęhtły'aa	NOUN	_	_	4	obj	_	Gloss=paper
@@ -1558,7 +1558,7 @@
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 240
-# text = Tł’yah trihchoo zhìt dhałdlii.
+# text = Tł’yah trihchoo zhìt dhałdlii.
 # text_en = I have the rope sitting in the boat. 
 1	Tł’yah	tły'ah	NOUN	_	_	4	obj	_	Gloss=rope
 2	trihchoo	trihchoo	NOUN	_	_	4	obl	_	Gloss=boat
@@ -1567,7 +1567,7 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 241
-# text = Thał zhrąįį zhidhin’yùu dąį’, thah zhrąįį chan nantsuu jì’ gwiheezyàa.
+# text = Thał zhrąįį zhidhin’yùu dąį’, thah zhrąįį chan nantsuu jì’ gwiheezyàa.
 # text_en = When you're wearing black pants, it'll be good if you wear a black belt too. 
 1	Thał	thał	NOUN	_	_	3	obj	_	Gloss=pants
 2	zhrąįį	zhrąįį	ADJ	_	_	1	amod	_	Gloss=black
@@ -1595,7 +1595,7 @@
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 243
-# text = Izhik Gwichyaa Zhee gòo’ąįį.
+# text = Izhik Gwichyaa Zhee gòo’ąįį.
 # text_en = Fort Yukon is situated [right there].
 1	Izhik	_	ADV	_	_	4	advmod	_	_
 2	Gwichyaa	_	PROPN	_	_	3	flat	_	_
@@ -1611,7 +1611,7 @@
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 245
-# text = Kwaiitryah k'eejit nihk'eh'àn nakhwantł’eenlii.
+# text = Kwaiitryah k'eejit nihk'eh'àn nakhwantł’eenlii.
 # text_en = He gave new mocassions to each of us. 
 1	Kwaiitryah	_	NOUN	_	_	4	obj	_	_
 2	k'eejit	_	ADJ	_	_	1	amod	_	_
@@ -1620,7 +1620,7 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 246
-# text = K’ì khàneiintin.
+# text = K’ì khàneiintin.
 # text_en = He... took the arrow out [of the wound].
 1	K’ì	_	NOUN	_	_	2	obj	_	_
 2	khàneiintin	_	VERB	_	_	0	root	_	_|SpaceAfter=No
@@ -1657,7 +1657,7 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 250
-# text = Aii zhoh tsi’ chyąąhkhaa.
+# text = Aii zhoh tsi’ chyąąhkhaa.
 # text_en = She threw that wolf’s tail on the fire.
 1	Aii	_	DET	_	_	3	det	_	Gloss=that
 2	zhoh	_	NOUN	_	_	3	compound	_	Gloss=wolf
@@ -1666,7 +1666,7 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 251
-# text = Shinee’ok shidink’ee vintł’ihihtin, vadzaih eenjit naazhrii yindhan geh’àn.
+# text = Shinee’ok shidink’ee vintł’ihihtin, vadzaih eenjit naazhrii yindhan geh’àn.
 # text_en = I’m giving my neighbor my gun because he wants to hunt for caribou.
 1	Shinee’ok	vinee'ok	NOUN	_	_	3	iobj	_	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
 2	shidink’ee	dink'ee	NOUN	_	_	3	obj	_	Gloss=my gun|MSeg=shï-dink'ee|MGloss=1SG.POSS-gun
@@ -1730,7 +1730,7 @@
 15	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 255
-# text = Gwiizhik t'ee shįį, Alice, Tabitha nąįį hàa łąįį ghwàa hàa oodàk tr’ahàajil.
+# text = Gwiizhik t'ee shįį, Alice, Tabitha nąįį hàa łąįį ghwàa hàa oodàk tr’ahàajil.
 # text_en = At the same time now Alice, Tabitha and I went up with our pack dogs.
 1	Gwiizhik	gwiizhik	ADV	_	_	14	advmod	_	Gloss=while
 2	t'ee	t'ee	X	_	_	1	dep	_	_
@@ -1984,7 +1984,7 @@
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 288
-# text = Vikì’ kal gwànlii ts’ą̀’ ts’èh dhaa yindhàn.
+# text = Vikì’ kal gwànlii ts’ą̀’ ts’èh dhaa yindhàn.
 # text_en = He is bald so he wants a warm hat.
 1	Vikì’	viki'	NOUN	_	_	0	root	_	Gloss=his head
 2	kal	kal	ADJ	_	_	1	amod	_	Gloss=bald
@@ -1996,7 +1996,7 @@
 8	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 289
-# text = Naathài’ gwànlii kwàa.
+# text = Naathài’ gwànlii kwàa.
 # text_en = You lost some (obvious) weight.
 1	Naathài’	_	NOUN	_	_	0	root	_	_
 2	gwànlii	_	VERB	_	_	1	expl	_	_
@@ -2027,7 +2027,7 @@
 3	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 293
-# text = Daatsoo aii Neegǫǫ vizhit gwiłts’ik yàandàii.
+# text = Daatsoo aii Neegǫǫ vizhit gwiłts’ik yàandàii.
 # text_en = Mouse knows that Fox is hungry.
 1	Daatsoo	_	NOUN	_	_	6	nsubj	_	Gloss=mouse
 2	aii	_	SCONJ	_	_	5	mark	_	Gloss=that
@@ -2048,7 +2048,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 295
-# text = Nagaii haa k’eech’ąąhkaii?
+# text = Nagaii haa k’eech’ąąhkaii?
 # text_en = Do you sew with beads? 
 1	Nagaii	_	NOUN	_	_	3	obl	_	_
 2	haa	_	ADP	_	_	1	case	_	_
@@ -2074,7 +2074,7 @@
 7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 298
-# text = Zhat dą̀į’ Jim Dodson neech’ahąąht’ee gàa oondàk Vashrą̀įį K’ǫǫ gwalàràa kwaa ts’à’ zhat gwąąhi’in kwaa.
+# text = Zhat dą̀į’ Jim Dodson neech’ahąąht’ee gàa oondàk Vashrą̀įį K’ǫǫ gwalàràa kwaa ts’à’ zhat gwąąhi’in kwaa.
 # text_en = At that time, Jim Dodson was flying, but up at Arctic Village there was no money, so he didn't come there. 
 1	Zhat	_	ADV	_	_	5	advmod	_	_
 2	dą̀į’	_	ADV	_	_	5	advmod	_	_
@@ -2094,7 +2094,7 @@
 16	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 299
-# text = Geetàk ddhah kak tthaa lęįį gwànlii.
+# text = Geetàk ddhah kak tthaa lęįį gwànlii.
 # text_en = Sometimes there are a lot of ground squirrels on the mountain. 
 1	Geetàk	geetàk	ADV	_	_	6	advmod	_	Gloss=sometimes
 2	ddhah	ddhah	NOUN	_	_	6	obl	_	Gloss=mountain
@@ -2105,7 +2105,7 @@
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 300
-# text = Vatthài’ gwànlii kwaa ts’ą̀’ gwinzii vigweech’ìn.
+# text = Vatthài’ gwànlii kwaa ts’ą̀’ gwinzii vigweech’ìn.
 # text_en = S/he is not that heavy and looks very good. 
 1	Vatthài’	_	NOUN	_	_	2	nsubj	_	_
 2	gwànlii	_	VERB	_	_	0	root	_	_
@@ -2116,7 +2116,7 @@
 7	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 301
-# text = Ch'anjaa nilii gàa vatth’àn tth’ąįį nizii ts’ą̀’ nint’ą̀įį.
+# text = Ch'anjaa nilii gàa vatth’àn tth’ąįį nizii ts’ą̀’ nint’ą̀įį.
 # text_en = S/he is old but her/his legs are still (good and) strong.
 1	Ch'anjaa	_	NOUN	_	_	0	root	_	_
 2	nilii	_	AUX	_	_	1	cop	_	_
@@ -2129,7 +2129,7 @@
 9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 302
-# text = Ninleetth'àk iłts’ik geh’àn k’èech’aahkaii kwaa.
+# text = Ninleetth'àk iłts’ik geh’àn k’èech’aahkaii kwaa.
 # text_en = You don’t sew because your fingers hurt. 
 1	Ninleetth'àk	_	NOUN	_	_	2	nsubj	_	_
 2	iłts’ik	_	VERB	_	_	4	advcl	_	_
@@ -2139,7 +2139,7 @@
 6	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 303
-# text = Ch’at’oh zhìt dats’an ghòo łyâa nitsii.
+# text = Ch’at’oh zhìt dats’an ghòo łyâa nitsii.
 # text_en = The duck eggs in the nest are really big.
 1	Ch’at’oh	_	NOUN	_	_	4	nmod	_	_
 2	zhìt	_	ADP	_	_	1	case	_	_
@@ -2150,7 +2150,7 @@
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 304
-# text = Dlak zhêh gwakat dìltł’ee ts’ą̀’ k’igwaaną̀įį.
+# text = Dlak zhêh gwakat dìltł’ee ts’ą̀’ k’igwaaną̀įį.
 # text_en = The squirrel jumped on the house and disappeared.  
 1	Dlak	_	NOUN	_	_	4	nsubj	_	_
 2	zhêh	_	NOUN	_	_	4	obl	_	_
@@ -2161,7 +2161,7 @@
 7	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 305
-# text = Shitsii vagwàndak eet’ihthàn.
+# text = Shitsii vagwàndak eet’ihthàn.
 # text_en = I like stories of my grandfather.
 1	Shitsii	_	NOUN	_	_	2	nmod	_	_
 2	vagwàndak	_	NOUN	_	_	3	obj	_	_
@@ -2169,7 +2169,7 @@
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 306
-# text = Vits’ee veenjit natsal ts’à’ vidzee daatsik.
+# text = Vits’ee veenjit natsal ts’à’ vidzee daatsik.
 # text_en = His/her hat is too small for him/her so s/he has red ears.
 1	Vits’ee	ts'ee	NOUN	_	_	3	nsubj	_	Gloss=his/her hat|MSeg=vï-ts'ee|Variant=vits'eh
 2	veenjit	eenjit	ADP	_	_	3	obl	_	Gloss=for him/her|MSeg=vï-eenjit
@@ -2180,7 +2180,7 @@
 7	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 307
-# text = Nan daatràt ts’ą̀’ nàljat.
+# text = Nan daatràt ts’ą̀’ nàljat.
 # text_en = There is an earthquake and I’m scared. 
 1	Nan	_	NOUN	_	_	2	nsubj	_	Gloss=earth
 2	daatràt	_	VERB	_	_	0	root	_	Gloss=it is trembling
@@ -2189,7 +2189,7 @@
 5	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 308
-# text = Gwintsàl dinjii zhuh k’yàa ch’îihtth’ak ts’ą̀’ jidìi eegìnkhii gàashandàii.
+# text = Gwintsàl dinjii zhuh k’yàa ch’îihtth’ak ts’ą̀’ jidìi eegìnkhii gàashandàii.
 # text_en = I understand the Gwich’in language a little, so I know what you are talking about.
 1	Gwintsàl	gwintsal	ADV	_	_	5	advmod	_	Gloss=a little
 2	dinjii	dinjii	PROPN	_	_	4	flat	_	Gloss=man
@@ -2203,7 +2203,7 @@
 10	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 309
-# text = Kǫ’ ts’ą̀’ vadzaih tsìk keech’ahch’yàa.
+# text = Kǫ’ ts’ą̀’ vadzaih tsìk keech’ahch’yàa.
 # text_en = S/he is cooking caribou ribs to the fire.
 1	Kǫ’	kǫ’	NOUN	_	_	5	obl	_	Gloss=fire
 2	ts’ą̀’	ts’ą̀’	ADP	_	_	1	case	_	Gloss=to
@@ -2232,7 +2232,7 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 312
-# text = Ch'iitąįį gwiink’oo dąį’, gwiyehdak ik naltsuu ts’à’ ts’eh nal’ąįį.
+# text = Ch'iitąįį gwiink’oo dąį’, gwiyehdak ik naltsuu ts’à’ ts’eh nal’ąįį.
 # text_en = When it's cold outside, I wear a jacket and a hat.
 1	Ch'iitąįį	ch'iitąįį	ADV	_	_	2	advmod	_	Gloss=outside
 2	gwiink’oo	gwiink’oo	VERB	_	_	7	advcl	_	Gloss=it's cold|MSeg=gwï-in-k'oo|MGloss=AR-3SG.PFV.Ø-cold
@@ -2247,7 +2247,7 @@
 11	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 313
-# text = Gishreiin'ąįį dąį’, tł’oo ts’eh neenaal’ąįį geet’ihthan.
+# text = Gishreiin'ąįį dąį’, tł’oo ts’eh neenaal’ąįį geet’ihthan.
 # text_en = When it’s sunny, I like to wear a grass hat. 
 1	Gishreiin'ąįį	_	VERB	_	_	7	advcl	_	Gloss=it’s sunny|MSeg=gï-shree#ïn-'ąįį|MGloss=THEM-INC.sun-3SG.PFV.Ø-compact.in_position
 2	dąį’	dąį’	ADV	_	_	1	advmod	_	Gloss=when
