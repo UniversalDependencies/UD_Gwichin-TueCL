@@ -1456,12 +1456,12 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 228
-# text = She’ii vigwitr’it gwanlįį.
+# text = Shee’ii vigwitr’it gwanlįį.
 # text_en = My uncle has a lot of work to do.
-1	She’ii	vee'ii	NOUN	_	_	2	nmod:poss	_	Gloss=my uncle|MSeg=
-2	vigwitr’it	gwitr'it	NOUN	_	_	0	root	_	Gloss=his work
-3	gwanlįį	gwanlįį	AUX	_	_	2	expl	_	_|SpaceAfter=No
-4	.	_	PUNCT	_	_	2	punct	_	_
+1	Shee’ii	vee'ii	NOUN	_	_	2	nmod	_	Gloss=my uncle|MSeg=sh-ee’ii|MGloss=1SG.POSS-uncle
+2	vigwitr’it	gwitr'it	NOUN	_	_	3	nsubj	_	Gloss=his work|MSeg=vï-gwitr’it|MGloss=3SG.POSS-work
+3	gwanlįį	gwanlįį	VERB	_	_	0	root	_	Gloss=there-is|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 229
 # text = Gaanahaldaii.
@@ -1506,7 +1506,7 @@
 # text_en = The mother is carrying her child.
 1	Ch'ahan	vahan	NOUN	_	_	3	nsubj	_	Gloss=mother
 2	digii	gii	NOUN	_	_	3	obj	_	Gloss=her own child
-3	ahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she is carrying||SpaceAfter=No
+3	ahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she is carrying|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 235
@@ -1528,7 +1528,7 @@
 # text = Gwiink’oo dąį’, naadoo ts’eh naraa’ąįį.
 # text_en = When it’s cold, we wear pom pom hats.
 1	Gwiink’oo	gwiink'oo	VERB	_	_	6	advcl	_	Gloss=it is cold|MSeg=gwï-in-k'oo|MGloss=AR-3SG.PFV+Ø-cold
-2	dąį’	dąį’	ADV	_	_	1	advmod	_	Gloss=when
+2	dąį’	dąį’	ADV	_	_	1	advmod	_	Gloss=when|SpaceAfter=No
 3	,	_	PUNCT	_	_	1	punct	_	_
 4	naadoo	_	NOUN	_	_	5	compound	_	Gloss=pom pom
 5	ts’eh	ts’eh	NOUN	_	_	6	obj	_	Gloss=hat
@@ -1547,7 +1547,7 @@
 # sent_id = 239
 # text = Ohtsuu, vadzaih dhaa ohtsuu giizhit nilii iłdlii.
 # text_en = She kept meat inside of a caribou skin bag.  
-1	Ohtsuu	ohtsuu	NOUN	_	_	3	reparandum	_	Gloss=bag
+1	Ohtsuu	ohtsuu	NOUN	_	_	3	reparandum	_	Gloss=bag|SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	vadzaih	vadzaih	NOUN	_	_	4	compound	_	Gloss=caribou
 4	dhaa	dhaa	NOUN	_	_	5	compound	_	Gloss=skin
@@ -1572,7 +1572,7 @@
 1	Thał	thał	NOUN	_	_	3	obj	_	Gloss=pants
 2	zhrąįį	zhrąįį	ADJ	_	_	1	amod	_	Gloss=black
 3	zhidhin’yùu	_	VERB	_	_	11	advcl	_	Gloss=|MSeg=zhi#-dhï-in-’yùu|MGloss=INC.in#CNJ-2SG.IMPFV+Ø-step
-4	dąį’	dąį’	ADV	_	_	3	advmod	_	Gloss=when
+4	dąį’	dąį’	ADV	_	_	3	advmod	_	Gloss=when|SpaceAfter=No
 5	,	_	PUNCT	_	_	3	punct	_	_
 6	thah	thah	NOUN	_	_	9	obj	_	Gloss=belt
 7	zhrąįį	zhrąįį	ADJ	_	_	6	amod	_	Gloss=black
@@ -1598,16 +1598,16 @@
 # text = Izhik Gwichyaa Zhee gòo’ąįį.
 # text_en = Fort Yukon is situated [right there].
 1	Izhik	_	ADV	_	_	4	advmod	_	_
-2	Gwichyaa	_	PROPN	_	_	3	flat	_	_
+2	Gwichyaa	_	PROPN	_	_	3	compound	_	_
 3	Zhee	_	PROPN	_	_	4	nsubj	_	_
-4	gòo’ąįį	_	VERB	_	_	0	root	_	_|SpaceAfter=No
+4	gòo’ąįį	_	VERB	_	_	0	root	_	SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 244
 # text = Ah nirinlii.
 # text_en = We put down spruce boughs.
 1	Ah	_	NOUN	_	_	2	obj	_	_
-2	nirinlii	_	VERB	_	_	0	root	_	_|SpaceAfter=No
+2	nirinlii	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 245
@@ -1670,7 +1670,7 @@
 # text_en = I’m giving my neighbor my gun because he wants to hunt for caribou.
 1	Shinee’ok	vinee'ok	NOUN	_	_	3	iobj	_	Gloss=my neighbor|MSeg=shï-nee'ok|MGloss=1SG.POSS-neighbor
 2	shidink’ee	dink'ee	NOUN	_	_	3	obj	_	Gloss=my gun|MSeg=shï-dink'ee|MGloss=1SG.POSS-gun
-3	vintł’ihihtin	_	VERB	_	_	0	root	_	MSeg=vï-ntłï-hih-Ø-tin|MGloss=3SG.POSS-palm-1SG.FUT-Ø-position stick-like|SpaceAfter=Yes
+3	vintł’ihihtin	_	VERB	_	_	0	root	_	MSeg=vï-ntłï-hih-Ø-tin|MGloss=3SG.POSS-palm-1SG.FUT-Ø-position stick-like|SpaceAfter=No
 4	,	_	PUNCT	_	_	8	punct	_	_
 5	vadzaih	vadzaih	NOUN	_	_	7	obl	_	Gloss=caribou
 6	eenjit	eenjit	ADP	_	_	5	case	_	Gloss=for
@@ -1701,7 +1701,7 @@
 # text = Izhik shin 1938 oondàk ddhah tee gwaraa’yà’ kwaa.
 # text_en = That summer of 1938 we did not spend among the mountains. 
 1	Izhik	_	DET	_	_	2	det	_	Gloss=that
-2	shin	_	NOUN	_	_	7	advmod	_	Gloss=summer
+2	shin	_	NOUN	_	_	7	obl:tmod	_	Gloss=summer
 3	1938	_	NUM	_	_	2	nummod	_	Gloss=1938
 4	oondàk	_	ADV	_	_	7	advmod	_	Gloss=upland
 5	ddhah	_	NOUN	_	_	7	obl	_	Gloss=mountain
@@ -1716,15 +1716,15 @@
 1	April	_	PROPN	_	_	14	obl	_	Gloss=April
 2	1938	_	NUM	_	_	1	nummod	_	Gloss=1938
 3	gwiizhik	_	ADV	_	_	1	case	_	Gloss=during
-4	Bishop	_	PROPN	_	_	6	flat	_	Gloss=Bishop
-5	Trimble	_	PROPN	_	_	6	flat	_	Gloss=Trimble
-6	Rowe	_	PROPN	_	_	14	nsubj	_	Gloss=Rowe
-7	,	_	PUNCT	_	_	9	punct	_	_
-8	Dr.	_	PROPN	_	_	9	flat	_	Gloss=Dr.
-9	Burke	_	PROPN	_	_	6	conj	_	Gloss=Burke
-10	hàa	_	CCONJ	_	_	9	cc	_	Gloss=and
-11	Vashrą̀įį̨	_	PROPN	_	_	12	flat	_	Gloss=Arctic Village
-12	K’ǫǫ	_	PROPN	_	_	13	obl	_	Gloss=Artic Village
+4	Bishop	_	PROPN	_	_	14	nsubj	_	Gloss=Bishop
+5	Trimble	_	PROPN	_	_	4	flat	_	Gloss=Trimble
+6	Rowe	_	PROPN	_	_	4	flat	_	Gloss=Rowe|SpaceAfter=No
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	Dr.	_	PROPN	_	_	4	conj	_	Gloss=Dr.
+9	Burke	_	PROPN	_	_	8	flat	_	Gloss=Burke
+10	hàa	_	CCONJ	_	_	8	cc	_	Gloss=and
+11	Vashrą̀įį̨	_	PROPN	_	_	13	obl	_	Gloss=Arctic Village
+12	K’ǫǫ	_	PROPN	_	_	11	flat	_	Gloss=Artic Village
 13	nirihee’àl	_	VERB	_	_	14	ccomp	_	Gloss=we would go
 14	ginyaa	_	VERB	_	_	0	root	_	Gloss=they said|SpaceAfter=No
 15	.	_	PUNCT	_	_	14	punct	_	_
@@ -1734,12 +1734,12 @@
 # text_en = At the same time now Alice, Tabitha and I went up with our pack dogs.
 1	Gwiizhik	gwiizhik	ADV	_	_	14	advmod	_	Gloss=while
 2	t'ee	t'ee	X	_	_	1	dep	_	_
-3	shįį	shįį	PRON	_	_	14	nsubj	_	Gloss=I
+3	shįį	shįį	PRON	_	_	14	nsubj	_	Gloss=I|SpaceAfter=No
 4	,	_	PUNCT	_	_	5	punct	_	_
-5	Alice	Alice	PROPN	_	_	3	conj	_	Gloss=Alice
+5	Alice	Alice	PROPN	_	_	3	conj	_	Gloss=Alice|SpaceAfter=No
 6	,	_	PUNCT	_	_	7	punct	_	_
 7	Tabitha	Tabitha	PROPN	_	_	3	conj	_	Gloss=Tabitha
-8	nąįį	nąįį	PART	_	_	3	dep:plural:nąįį	_	Gloss=plural
+8	nąįį	nąįį	PART	_	_	3	dep	_	Gloss=plural
 9	hàa	hàa	ADP	_	_	7	cc	_	Gloss=and
 10	łąįį	łąįį	NOUN	_	_	11	compound	_	Gloss=dog
 11	ghwàa	ghwàa	NOUN	_	_	14	obl	_	Gloss=pack
@@ -1774,7 +1774,7 @@
 # sent_id = 259
 # text = Gwichyaa Zheh gwats’an ihłìi.
 # text_en = I am from Fort Yukon.
-1	Gwichyaa	_	PROPN	_	_	2	flat	_	_
+1	Gwichyaa	_	PROPN	_	_	2	compound	_	_
 2	Zheh	zheh	NOUN	_	_	4	obl	_	Gloss=Fort Yukon
 3	gwats’an	gwats’an	ADP	_	_	2	case	_	Gloss=from
 4	ihłìi	nilii	VERB	_	_	0	root	_	Gloss=I am|ih-łìi|SpaceAfter=No
@@ -1821,7 +1821,7 @@
 # sent_id = 265
 # text = Gwichyaa Zheh gwihch’ìi.
 # text_en = I live in Fort Yukon.
-1	Gwichyaa	_	PROPN	_	_	2	flat	_	_
+1	Gwichyaa	_	PROPN	_	_	2	compound	_	_
 2	Zheh	zheh	NOUN	_	_	3	obj	_	Gloss=Fort Yukon
 3	gwihch’ìi	gwich’ìi	VERB	_	_	0	root	_	Gloss=I live (somewhere)|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1857,7 +1857,7 @@
 # sent_id = 270
 # text = Àąhą’, neenahąąl’yàa.
 # text_en = Yes, I’ll see you.
-1	Àąhą’	_	ADV	_	_	3	advmod	_	Gloss=yes
+1	Àąhą’	_	INTJ	_	_	3	discourse	_	Gloss=yes|SpaceAfter=No
 2	,	_	PUNCT	_	_	3	punct	_	_
 3	neenahąąl’yàa	_	VERB	_	_	0	root	_	Gloss=I’ll see you.|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1865,9 +1865,9 @@
 # sent_id = 271
 # text = Vashrąįįk’oo gwats’an nilìi.
 # text_en = She is from Arctic Village., He is from Arctic Village
-1	Vashrąįįk’oo	_	PROPN	_	_	0	root	_	Gloss=Arctic Village
+1	Vashrąįįk’oo	_	PROPN	_	_	3	obl	_	Gloss=Arctic Village
 2	gwats’an	_	ADP	_	_	1	case	_	Gloss=from
-3	nilìi	_	VERB	_	_	1	cop	_	Gloss=she is, he is|SpaceAfter=No
+3	nilìi	_	VERB	_	_	0	root	_	Gloss=she is, he is|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 272
@@ -1986,9 +1986,9 @@
 # sent_id = 288
 # text = Vikì’ kal gwànlii ts’ą̀’ ts’èh dhaa yindhàn.
 # text_en = He is bald so he wants a warm hat.
-1	Vikì’	viki'	NOUN	_	_	0	root	_	Gloss=his head
+1	Vikì’	viki'	NOUN	_	_	3	nsubj	_	Gloss=his head
 2	kal	kal	ADJ	_	_	1	amod	_	Gloss=bald
-3	gwànlii	_	VERB	_	_	1	expl	_	Gloss=???
+3	gwànlii	_	VERB	_	_	0	root	_	Gloss=???
 4	ts’ą̀’	ts’ą̀’	CCONJ	_	_	7	cc	_	Gloss=and so
 5	ts’èh	ts’èh	NOUN	_	_	7	obj	_	Gloss=hat
 6	dhaa	dhaa	ADJ	_	_	5	amod	_	Gloss=warm
@@ -1998,31 +1998,31 @@
 # sent_id = 289
 # text = Naathài’ gwànlii kwàa.
 # text_en = You lost some (obvious) weight.
-1	Naathài’	_	NOUN	_	_	0	root	_	_
-2	gwànlii	_	VERB	_	_	1	expl	_	_
-3	kwàa	kwàa	ADV	_	_	1	advmod	_	_|SpaceAfter=No
-4	.	_	PUNCT	_	_	1	punct	_	_
+1	Naathài’	_	NOUN	_	_	2	nsubj	_	_
+2	gwànlii	_	VERB	_	_	0	root	_	_
+3	kwàa	kwàa	ADV	_	_	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 290
 # text = Shigii dǫǫ gwanlįį.
 # text_en = I have four children.
-1	Shigii	gii	NOUN	_	_	0	root	_	Gloss=my children|MSeg=shï-gii
+1	Shigii	gii	NOUN	_	_	3	nsubj	_	Gloss=my children|MSeg=shï-gii
 2	dǫǫ	dǫǫ	NUM	_	_	1	nummod	_	Gloss=four
-3	gwanlįį	_	AUX	_	_	1	expl	_	Gloss=?|MSeg=?|SpaceAfter=No
-4	.	_	PUNCT	_	_	1	punct	_	_
+3	gwanlįį	_	VERB	_	_	0	root	_	Gloss=?|MSeg=?|SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 291
 # text = Shįį shidęhtły’aa gwanlįį.
 # text_en = I have lots of books. 
-1	Shįį	shįį	PRON	_	_	2	nsubj	_	Gloss=I
-2	shidęhtły’aa	dęhtłly’aa	NOUN	_	_	0	root	_	Gloss=my books|MSeg=shï-dęhtły’aa
-3	gwanlįį	_	VERB	_	_	2	expl	_	Gloss=I have?|SpaceAfter=No
+1	Shįį	shįį	PRON	_	_	2	nmod	_	Gloss=I
+2	shidęhtły’aa	dęhtłly’aa	NOUN	_	_	3	nsubj	_	Gloss=my books|MSeg=shï-dęhtły’aa
+3	gwanlįį	_	VERB	_	_	0	root	_	Gloss=I have?|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 292
 # text = Shidęhtłly’aa kwaa.
 # text_en = I don’t have any books. 
-1	Shidęhtłly’aa	dęhtłly’aa	NOUN	_	_	0	root	_	Gloss=my books||MSeg=shï-dęhtły’aa
+1	Shidęhtłly’aa	dęhtłly’aa	NOUN	_	_	0	root	_	Gloss=my books|MSeg=shï-dęhtły’aa
 2	kwaa	kwaa	PART	_	_	1	advmod	_	Gloss=not|SpaceAfter=No
 3	.	_	PUNCT	_	_	1	punct	_	_
 
@@ -2031,7 +2031,7 @@
 # text_en = Mouse knows that Fox is hungry.
 1	Daatsoo	_	NOUN	_	_	6	nsubj	_	Gloss=mouse
 2	aii	_	SCONJ	_	_	5	mark	_	Gloss=that
-3	Neegǫǫ	_	NOUN	_	_	5	obl:adp	_	Gloss=Fox
+3	Neegǫǫ	_	NOUN	_	_	5	obl	_	Gloss=Fox
 4	vizhit	_	ADP	_	_	3	case	_	Gloss=inside him
 5	gwiłts’ik	_	VERB	_	_	6	ccomp	_	Gloss=he is hungry
 6	yàandàii	_	VERB	_	_	0	root	_	Gloss=he knows|SpaceAfter=No
@@ -2044,7 +2044,7 @@
 2	tsal	tsal	ADJ	_	_	1	nmod	_	_
 3	veenjit	eenjit	ADP	_	_	1	case	_	_
 4	kwaiitryah	kwaiitryah	NOUN	_	_	5	obj	_	_
-5	ałtsii	yahtsii	VERB	_	_	0	root	_	_|SpaceAfter=No
+5	ałtsii	yahtsii	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 295
@@ -2052,14 +2052,14 @@
 # text_en = Do you sew with beads? 
 1	Nagaii	_	NOUN	_	_	3	obl	_	_
 2	haa	_	ADP	_	_	1	case	_	_
-3	k’eech’ąąhkaii	_	VERB	_	_	0	root	_	_|SpaceAfter=No
+3	k’eech’ąąhkaii	_	VERB	_	_	0	root	_	SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 296
 # text = K’eech’aałkaii geet’ihthan.
 # text_en = I love to sew. 
 1	K’eech’aałkaii	_	VERB	_	_	2	ccomp	_	_
-2	geet’ihthan	_	VERB	_	_	0	root	_	_|SpaceAfter=No
+2	geet’ihthan	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 297
@@ -2068,9 +2068,9 @@
 1	Nanjat	_	VERB	_	_	0	root	_	_
 2	kwaa	_	PART	_	_	1	advmod	_	_
 3	ts’a’	_	CCONJ	_	_	4	cc	_	_
-4	neenichii	_	VERB	_	_	1	conj	_	_
+4	neenichii	_	VERB	_	_	1	conj	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	6	punct	_	_
-6	beebii	_	NOUN	_	_	1	vocative	_	_|SpaceAfter=No
+6	beebii	_	NOUN	_	_	1	vocative	_	SpaceAfter=No
 7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 298
@@ -2090,7 +2090,7 @@
 12	ts’à’	_	CCONJ	_	_	14	cc	_	_
 13	zhat	_	ADV	_	_	14	advmod	_	_
 14	gwąąhi’in	_	VERB	_	_	5	conj	_	_
-15	kwaa	_	PART	_	_	14	advmod	_	_|SpaceAfter=No
+15	kwaa	_	PART	_	_	14	advmod	_	SpaceAfter=No
 16	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 299
@@ -2112,7 +2112,7 @@
 3	kwaa	_	PART	_	_	2	advmod	_	_
 4	ts’ą̀’	_	CCONJ	_	_	6	cc	_	_
 5	gwinzii	_	ADV	_	_	6	advmod	_	_
-6	vigweech’ìn	_	VERB	_	_	2	conj	_	_|SpaceAfter=No
+6	vigweech’ìn	_	VERB	_	_	2	conj	_	SpaceAfter=No
 7	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 301
@@ -2125,7 +2125,7 @@
 5	tth’ąįį	_	ADV	_	_	6	advmod	_	_
 6	nizii	_	VERB	_	_	1	conj	_	_
 7	ts’ą̀’	_	CCONJ	_	_	8	cc	_	_
-8	nint’ą̀įį	_	VERB	_	_	6	conj	_	_|SpaceAfter=No
+8	nint’ą̀įį	_	VERB	_	_	6	conj	_	SpaceAfter=No
 9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 302
@@ -2135,7 +2135,7 @@
 2	iłts’ik	_	VERB	_	_	4	advcl	_	_
 3	geh’àn	_	SCONJ	_	_	2	mark	_	_
 4	k’èech’aahkaii	_	VERB	_	_	0	root	_	_
-5	kwaa	_	PART	_	_	4	advmod	_	_|SpaceAfter=No
+5	kwaa	_	PART	_	_	4	advmod	_	SpaceAfter=No
 6	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 303
@@ -2146,7 +2146,7 @@
 3	dats’an	_	NOUN	_	_	4	compound	_	_
 4	ghòo	_	NOUN	_	_	6	nsubj	_	_
 5	łyâa	_	ADV	_	_	6	advmod	_	_
-6	nitsii	_	VERB	_	_	0	root	_	_|SpaceAfter=No
+6	nitsii	_	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 304
@@ -2157,7 +2157,7 @@
 3	gwakat	_	ADP	_	_	2	case	_	_
 4	dìltł’ee	_	VERB	_	_	0	root	_	_
 5	ts’ą̀’	_	CCONJ	_	_	6	cc	_	_
-6	k’igwaaną̀įį	_	VERB	_	_	4	conj	_	_|SpaceAfter=No
+6	k’igwaaną̀įį	_	VERB	_	_	4	conj	_	SpaceAfter=No
 7	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 305
@@ -2165,7 +2165,7 @@
 # text_en = I like stories of my grandfather.
 1	Shitsii	_	NOUN	_	_	2	nmod	_	_
 2	vagwàndak	_	NOUN	_	_	3	obj	_	_
-3	eet’ihthàn	_	VERB	_	_	0	root	_	_|SpaceAfter=No
+3	eet’ihthàn	_	VERB	_	_	0	root	_	SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 306
@@ -2192,13 +2192,13 @@
 # text = Gwintsàl dinjii zhuh k’yàa ch’îihtth’ak ts’ą̀’ jidìi eegìnkhii gàashandàii.
 # text_en = I understand the Gwich’in language a little, so I know what you are talking about.
 1	Gwintsàl	gwintsal	ADV	_	_	5	advmod	_	Gloss=a little
-2	dinjii	dinjii	PROPN	_	_	4	flat	_	Gloss=man
-3	zhuh	zhuh	PROPN	_	_	4	flat	_	Gloss=native
-4	k’yàa	_	PROPN	_	_	5	obj	_	Gloss=
+2	dinjii	dinjii	PROPN	_	_	5	obj	_	Gloss=man
+3	zhuh	zhuh	PROPN	_	_	2	flat	_	Gloss=native
+4	k’yàa	_	PROPN	_	_	2	flat	_	Gloss=
 5	ch’îihtth’ak	_	VERB	_	_	0	root	_	Gloss=I understand
 6	ts’ą̀’	ts’ą̀’	CCONJ	_	_	9	cc	_	Gloss=and
 7	jidìi	jidìi	PRON	_	_	9	obj	_	Gloss=what
-8	eegìnkhii	_	VERB	_	_	7	acl:relcl	_	Gloss=you are talking about|MSeg=ee-g-ìn-khii
+8	eegìnkhii	_	VERB	_	_	7	acl	_	Gloss=you are talking about|MSeg=ee-g-ìn-khii
 9	gàashandàii	_	VERB	_	_	5	conj	_	Gloss=I know|MSeg=gwï-àa-shï-ndàii|MGloss=AR-COM-1SG.IPFV.D-know|SpaceAfter=No
 10	.	_	PUNCT	_	_	5	punct	_	_
 
@@ -2236,7 +2236,7 @@
 # text_en = When it's cold outside, I wear a jacket and a hat.
 1	Ch'iitąįį	ch'iitąįį	ADV	_	_	2	advmod	_	Gloss=outside
 2	gwiink’oo	gwiink’oo	VERB	_	_	7	advcl	_	Gloss=it's cold|MSeg=gwï-in-k'oo|MGloss=AR-3SG.PFV.Ø-cold
-3	dąį’	dąį’	ADV	_	_	2	advmod	_	Gloss=when
+3	dąį’	dąį’	ADV	_	_	2	advmod	_	Gloss=when|SpaceAfter=No
 4	,	_	PUNCT	_	_	2	punct	_	_
 5	gwiyehdak	gwiyehdak	NOUN	_	_	6	compound	_	Gloss=jacket
 6	ik	ik	NOUN	_	_	7	obj	_	Gloss=
@@ -2250,7 +2250,7 @@
 # text = Gishreiin'ąįį dąį’, tł’oo ts’eh neenaal’ąįį geet’ihthan.
 # text_en = When it’s sunny, I like to wear a grass hat. 
 1	Gishreiin'ąįį	_	VERB	_	_	7	advcl	_	Gloss=it’s sunny|MSeg=gï-shree#ïn-'ąįį|MGloss=THEM-INC.sun-3SG.PFV.Ø-compact.in_position
-2	dąį’	dąį’	ADV	_	_	1	advmod	_	Gloss=when
+2	dąį’	dąį’	ADV	_	_	1	advmod	_	Gloss=when|SpaceAfter=No
 3	,	_	PUNCT	_	_	1	punct	_	_
 4	tł’oo	tł’oo	NOUN	_	_	5	compound	_	Gloss=grass
 5	ts’eh	ts’eh	NOUN	_	_	6	obj	_	Gloss=hat
