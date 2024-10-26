@@ -36,6 +36,6 @@ Features: not available
 Relations: manual native
 Contributors: Andrews, Matthew; Çöltekin, Çağrı
 Contributing: here
-Contact: matthew.andrews@student.uni-tuebingen.de; cagri.coeltekin@uni-tuebingen.de
+Contact: matthew.andrews@student.uni-tuebingen.de, cagri.coeltekin@uni-tuebingen.de
 ===============================================================================
 </pre>
