@@ -709,21 +709,21 @@
 # text = Dak tr'aa'èe.
 # text_en = We are lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	tr'aa'èe	_	VERB	_	_	0	root	_	|SpaceAfter=No
+2	tr'aa'èe	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 115
 # text = Dak oo'èe.
 # text_en = You guys are lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	oo'èe	_	VERB	_	_	0	root	_	|SpaceAfter=No
+2	oo'èe	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 116
 # text = Dak gaa'èe.
 # text_en = They are lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	gaa'èe	_	VERB	_	_	0	root	_	|SpaceAfter=No
+2	gaa'èe	_	VERB	_	_	0	root	_	SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 117
@@ -1685,8 +1685,8 @@
 1	Gwatthàn	ootthàn	ADV	_	_	3	advmod	_	Gloss=toward a short distance downland, or towards the river
 2	gwilin	gwilin	ADV	_	_	3	advmod	_	Gloss=many times
 3	trą̀ą̀hàa	niihaa	VERB	_	_	0	root	_	Gloss=we camped for the night
-4	gohch’it	gohch'it dèe	ADV	_	_	13	advmod	_	Gloss=finally
-5	dèe	_	PART	_	_	4	fixed	_	Gloss=PART
+4	gohch’it	gohch'it	ADV	_	_	13	advmod	_	Gloss=finally
+5	dèe	dèe	PART	_	_	4	fixed	_	Gloss=PART
 6	shaghoii	vaghwaii	NOUN	_	_	9	nmod	_	Gloss=my brother-in-law
 7	Philip	Philip	PROPN	_	_	6	appos	_	Gloss=Phillip
 8	Peter	Peter	PROPN	_	_	7	flat	_	Gloss=Peter
@@ -1725,7 +1725,7 @@
 10	hàa	hàa	CCONJ	_	_	8	cc	_	Gloss=and
 11	Vashrą̀įį̨	Vashrą̀įį̨	PROPN	_	_	13	obl	_	Gloss=Arctic Village
 12	K’ǫǫ	K’ǫǫ	PROPN	_	_	11	flat	_	Gloss=Artic Village
-13	nirihee’àl	nirihee'àl 	VERB	_	_	14	ccomp	_	Gloss=we would go
+13	nirihee’àl	nirihee'àl	VERB	_	_	14	ccomp	_	Gloss=we would go
 14	ginyaa	t'inyaa	VERB	_	_	0	root	_	Gloss=they said|SpaceAfter=No
 15	.	_	PUNCT	_	_	14	punct	_	_
 
@@ -2052,13 +2052,13 @@
 # text_en = Do you sew with beads? 
 1	Nagaii	nagaii	NOUN	_	_	3	obl	_	Gloss=beads
 2	haa	haa	ADP	_	_	1	case	_	Gloss=with
-3	k’eech’ąąhkaii	k'èech'aahkaii 	VERB	_	_	0	root	_	Gloss=you sew|SpaceAfter=No
+3	k’eech’ąąhkaii	k'èech'aahkaii	VERB	_	_	0	root	_	Gloss=you sew|SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 296
 # text = K’eech’aałkaii geet’ihthan.
 # text_en = I love to sew. 
-1	K’eech’aałkaii	k'èech'aahkaii 	VERB	_	_	2	ccomp	_	Gloss=I sew
+1	K’eech’aałkaii	k'èech'aahkaii	VERB	_	_	2	ccomp	_	Gloss=I sew
 2	geet’ihthan	geet'indhan	VERB	_	_	0	root	_	Gloss=I love to|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
