@@ -32,10 +32,10 @@ Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
-Features: manual native
+Features: not available
 Relations: manual native
-Contributors: Andrews, Kirk; Çöltekin, Çağrı
+Contributors: Andrews, Matthew; Çöltekin, Çağrı
 Contributing: here
-Contact: cagri.coeltekin@uni-tuebingen.de
+Contact: matthew.andrews@student.uni-tuebingen.de; cagri.coeltekin@uni-tuebingen.de
 ===============================================================================
 </pre>
