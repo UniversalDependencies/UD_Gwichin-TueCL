@@ -2119,7 +2119,7 @@
 # text = Ch'anjaa nilii gàa vatth’àn tth’ąįį nizii ts’ą̀’ nint’ą̀įį.
 # text_en = S/he is old but her/his legs are still (good and) strong.
 1	Ch'anjaa	_	NOUN	_	_	0	root	_	_
-2	nilii	_	AUX	_	_	1	cop	_	_
+2	nilii	_	VERB	_	_	1	cop	_	_
 3	gàa	_	CCONJ	_	_	6	cc	_	_
 4	vatth’àn	_	NOUN	_	_	6	nsubj	_	_
 5	tth’ąįį	_	ADV	_	_	6	advmod	_	_
