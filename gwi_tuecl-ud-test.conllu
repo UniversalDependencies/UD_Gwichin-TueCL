@@ -2006,7 +2006,7 @@
 # sent_id = 290
 # text = Shigii dǫǫ gwanlįį.
 # text_en = I have four children.
-1	Shigii	gii	NOUN	_	_	3	nsubj	_	Gloss=my children|MSeg=shï-gii
+1	Shigii	vigii	NOUN	_	_	3	nsubj	_	Gloss=my children|MSeg=shï-gii
 2	dǫǫ	dǫǫ	NUM	_	_	1	nummod	_	Gloss=four
 3	gwanlįį	gwanlįį	VERB	_	_	0	root	_	Gloss=there is much|MSeg=?|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -2118,54 +2118,54 @@
 # sent_id = 301
 # text = Ch'anjaa nilii gàa vatth’àn tth’ąįį nizii ts’ą̀’ nint’ą̀įį.
 # text_en = S/he is old but her/his legs are still (good and) strong.
-1	Ch'anjaa	_	NOUN	_	_	0	root	_	_
-2	nilii	_	VERB	_	_	1	cop	_	_
-3	gàa	_	CCONJ	_	_	6	cc	_	_
-4	vatth’àn	_	NOUN	_	_	6	nsubj	_	_
-5	tth’ąįį	_	ADV	_	_	6	advmod	_	_
-6	nizii	_	VERB	_	_	1	conj	_	_
-7	ts’ą̀’	_	CCONJ	_	_	8	cc	_	_
-8	nint’ą̀įį	_	VERB	_	_	6	conj	_	SpaceAfter=No
-9	.	_	PUNCT	_	_	1	punct	_	_
+1	Ch'anjaa	ch'anjaa	NOUN	_	_	2	obj	_	Gloss=elder; adult; older person
+2	nilii	nilii	VERB	_	_	0	root	_	Gloss=s/he is
+3	gàa	gàa	CCONJ	_	_	6	cc	_	Gloss=but
+4	vatth’àn	vatth’àn	NOUN	_	_	6	nsubj	_	Gloss=his/her/its leg
+5	tth’ąįį	tth’ąįį	ADV	_	_	6	advmod	_	Gloss=more
+6	nizii	nizii	VERB	_	_	2	conj	_	Gloss=s/he/it is good
+7	ts’ą̀’	ts’ą̀’	CCONJ	_	_	8	cc	_	Gloss=and
+8	nint’ą̀įį	nint’ą̀įį	VERB	_	_	6	conj	_	Gloss=it is strong|SpaceAfter=No
+9	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 302
 # text = Ninleetth'àk iłts’ik geh’àn k’èech’aahkaii kwaa.
 # text_en = You don’t sew because your fingers hurt. 
-1	Ninleetth'àk	_	NOUN	_	_	2	nsubj	_	_
-2	iłts’ik	_	VERB	_	_	4	advcl	_	_
-3	geh’àn	_	SCONJ	_	_	2	mark	_	_
-4	k’èech’aahkaii	_	VERB	_	_	0	root	_	_
-5	kwaa	_	PART	_	_	4	advmod	_	SpaceAfter=No
+1	Ninleetth'àk	vinleetth'àk	NOUN	_	_	2	nsubj	_	Gloss=your fingers
+2	iłts’ik	iłts’ik	VERB	_	_	4	advcl	_	Gloss=s/he/it is sick
+3	geh’àn	geh’àn	SCONJ	_	_	2	mark	_	Gloss=because
+4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew
+5	kwaa	kwaa	PART	_	_	4	advmod	_	Gloss=no|SpaceAfter=No
 6	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 303
 # text = Ch’at’oh zhìt dats’an ghòo łyâa nitsii.
 # text_en = The duck eggs in the nest are really big.
-1	Ch’at’oh	_	NOUN	_	_	4	nmod	_	_
-2	zhìt	_	ADP	_	_	1	case	_	_
-3	dats’an	_	NOUN	_	_	4	compound	_	_
-4	ghòo	_	NOUN	_	_	6	nsubj	_	_
-5	łyâa	_	ADV	_	_	6	advmod	_	_
-6	nitsii	_	VERB	_	_	0	root	_	SpaceAfter=No
+1	Ch’at’oh	ch’at’oh	NOUN	_	_	4	nmod	_	Gloss=nest
+2	zhìt	zhìt	ADP	_	_	1	case	_	Gloss=in
+3	dats’an	dats’an	NOUN	_	_	4	compound	_	Gloss=duck
+4	ghòo	ghòo	NOUN	_	_	6	nsubj	_	Gloss=egg
+5	łyâa	łyâa	ADV	_	_	6	advmod	_	Gloss=really
+6	nitsii	nitsii	VERB	_	_	0	root	_	Gloss=s/he/it is big|SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 304
 # text = Dlak zhêh gwakat dìltł’ee ts’ą̀’ k’igwaaną̀įį.
 # text_en = The squirrel jumped on the house and disappeared.  
-1	Dlak	_	NOUN	_	_	4	nsubj	_	_
-2	zhêh	_	NOUN	_	_	4	obl	_	_
-3	gwakat	_	ADP	_	_	2	case	_	_
-4	dìltł’ee	_	VERB	_	_	0	root	_	_
-5	ts’ą̀’	_	CCONJ	_	_	6	cc	_	_
-6	k’igwaaną̀įį	_	VERB	_	_	4	conj	_	SpaceAfter=No
+1	Dlak	dlak	NOUN	_	_	4	nsubj	_	Gloss=squirrel
+2	zhêh	zhêh	NOUN	_	_	4	obl	_	Gloss=house
+3	gwakat	gwakat	ADP	_	_	2	case	_	Gloss=on
+4	dìltł’ee	_	VERB	_	_	0	root	_	Gloss=jumped
+5	ts’ą̀’	ts’ą̀’	CCONJ	_	_	6	cc	_	Gloss=and
+6	k’igwaaną̀įį	k’igwaaną̀įį	VERB	_	_	4	conj	_	Gloss=it disappeared|SpaceAfter=No
 7	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 305
 # text = Shitsii vagwàndak eet’ihthàn.
 # text_en = I like stories of my grandfather.
-1	Shitsii	_	NOUN	_	_	2	nmod	_	_
-2	vagwàndak	_	NOUN	_	_	3	obj	_	_
-3	eet’ihthàn	_	VERB	_	_	0	root	_	SpaceAfter=No
+1	Shitsii	vitsii	NOUN	_	_	2	nmod	_	Gloss=my grandfather
+2	vagwàndak	gwàndak	NOUN	_	_	3	obj	_	Gloss=his story
+3	eet’ihthàn	eet'indhan	VERB	_	_	0	root	_	Gloss=I like|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 306
@@ -2182,10 +2182,10 @@
 # sent_id = 307
 # text = Nan daatràt ts’ą̀’ nàljat.
 # text_en = There is an earthquake and I’m scared. 
-1	Nan	_	NOUN	_	_	2	nsubj	_	Gloss=earth
-2	daatràt	_	VERB	_	_	0	root	_	Gloss=it is trembling
-3	ts’ą̀’	_	CCONJ	_	_	4	cc	_	Gloss=and
-4	nàljat	_	VERB	_	_	2	conj	_	Gloss=I am scared|MSeg=nï-al-jat|SpaceAfter=No
+1	Nan	nan	NOUN	_	_	2	nsubj	_	Gloss=earth
+2	daatràt	daatràt	VERB	_	_	0	root	_	Gloss=it is trembling
+3	ts’ą̀’	ts’ą̀’	CCONJ	_	_	4	cc	_	Gloss=and
+4	nàljat	nàljat	VERB	_	_	2	conj	_	Gloss=I am scared|MSeg=nï-al-jat|SpaceAfter=No
 5	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 308
@@ -2209,7 +2209,7 @@
 2	ts’ą̀’	ts’ą̀’	ADP	_	_	1	case	_	Gloss=to
 3	vadzaih	vadzaih	NOUN	_	_	4	compound	_	Gloss=caribou
 4	tsìk	vitsik	NOUN	_	_	5	obj	_	Gloss=rib
-5	keech’ahch’yàa	_	VERB	_	_	0	root	_	Gloss=she is cooking|SpaceAfter=No
+5	keech’ahch’yàa	vikeech’ahch’yàa	VERB	_	_	0	root	_	Gloss=she is cooking|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 310
@@ -2240,16 +2240,16 @@
 4	,	_	PUNCT	_	_	2	punct	_	_
 5	gwiyehdak	gwiyehdak	NOUN	_	_	6	compound	_	Gloss=jacket
 6	ik	ik	NOUN	_	_	7	obj	_	Gloss=
-7	naltsuu	_	VERB	_	_	0	root	_	Gloss=I wear clothlike|MSeg=n-al-tsuu|MGloss=CNJ-1SG.IPFV.L-clothlike.in_position
+7	naltsuu	naatsùu	VERB	_	_	0	root	_	Gloss=I wear upper garments|MSeg=n-al-tsuu|MGloss=CNJ-1SG.IPFV.L-clothlike.in_position
 8	ts’à’	ts’à’	CCONJ	_	_	10	cc	_	Gloss=and
 9	ts’eh	ts’eh	NOUN	_	_	10	obj	_	Gloss=hat
-10	nal’ąįį	_	VERB	_	_	7	conj	_	Gloss=I wear compact|MSeg=n-al-’ąįį|MGloss=CNJ-1SG.IPFV.L-compact.in_position|SpaceAfter=No
+10	nal’ąįį	niyaa'aii	VERB	_	_	7	conj	_	Gloss=I wear compact|MSeg=n-al-’ąįį|MGloss=CNJ-1SG.IPFV.L-compact.in_position|SpaceAfter=No
 11	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 313
 # text = Gishreiin'ąįį dąį’, tł’oo ts’eh neenaal’ąįį geet’ihthan.
-# text_en = When it’s sunny, I like to wear a grass hat. 
-1	Gishreiin'ąįį	_	VERB	_	_	7	advcl	_	Gloss=it’s sunny|MSeg=gï-shree#ïn-'ąįį|MGloss=THEM-INC.sun-3SG.PFV.Ø-compact.in_position
+# text_en = When it’s sunny, I like to wear a grass hat.
+1	Gishreiin'ąįį	gishreiin'ąįį	VERB	_	_	7	advcl	_	Gloss=it’s sunny|MSeg=gï-shree#ïn-'ąįį|MGloss=THEM-INC.sun-3SG.PFV.Ø-compact.in_position
 2	dąį’	dąį’	ADV	_	_	1	advmod	_	Gloss=when|SpaceAfter=No
 3	,	_	PUNCT	_	_	1	punct	_	_
 4	tł’oo	tł’oo	NOUN	_	_	5	compound	_	Gloss=grass
