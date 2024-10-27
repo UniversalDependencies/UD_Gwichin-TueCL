@@ -2129,12 +2129,12 @@
 9	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 302
-# text = Ninleetth'àk iłts’ik geh’àn k’èech’aahkaii kwaa.
+# text = Ninleetth'àk iłts’ik geh’àn k’èech’ąąhkaii kwaa.
 # text_en = You don’t sew because your fingers hurt. 
 1	Ninleetth'àk	vinleetth'àk	NOUN	_	_	2	nsubj	_	Gloss=your fingers
 2	iłts’ik	iłts’ik	VERB	_	_	4	advcl	_	Gloss=s/he/it is sick
 3	geh’àn	geh’àn	SCONJ	_	_	2	mark	_	Gloss=because
-4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew
+4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew
 5	kwaa	kwaa	PART	_	_	4	advmod	_	Gloss=no|SpaceAfter=No
 6	.	_	PUNCT	_	_	4	punct	_	_
 
