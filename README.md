@@ -10,11 +10,21 @@
 
 # Acknowledgments
 
-...
+I want to thank the native Gwich'in speakers and the Doyon Foundation whose materials I've used to learn the Gwich'in language. I'd also like to thank Michael Krauss and Siri Tuttle who inspired my interest in Athabascan languages.
 
 ## References
 
-* (citation)
+* Alaska Native Language Archive. n.d. Gwich’in collection - Alaska Native Language Archive (ANLA). Accessed: 15-Oct-2024.
+* Matthew Andrews. 2023. Dictionary projects. Accessed: 15-Oct-2024.
+* John Busch. 2000. Finding your way through a story: Direction terms in Gwich’in narrative. Research paper (M.A. in Anthropology), University of Alaska Fairbanks. Accessed: 15-Oct-2024. 42 pp. in English with some Gwich’in vocabulary.
+* Scott T Bushey. 2021. Western Gwich’in Classificatory Verbs. University of Alaska Fairbanks.
+* Doyon Foundation. n.d. Doyon languages online. Accessed: 15-Oct-2024.
+* Gwich’in Social and Cultural Institute. n.d.a. Gwich’in language store. Accessed: 15-Oct-2024.
+* Gwich’in Social and Cultural Institute. n.d.b. Gwich’in online dictionary. Accessed: 15-Oct-2024.
+* Patrick Marlow and Lillian Garnett. 1996. Beginning Athabaskan Gwich’in ANL142. https://www.uaf.edu/anla/record.php? identifier=KU985G1996b. Accessed: October 22, 2023.
+* C. Mishler and K. Frank. 2019. Dinjii Vadzaih Dhidlit. IPI.
+* Dick Mueller and Lillian Garnett. March 1994. Western Gwich’in topical dictionary. Accessed: 15-Oct-2024.
+* Katherine Peter. 1979. Dinjii zhuh ginjik nagwan tr’iłtsaii: Gwich’in junior dictionary. Alaska Native Language Center.
 
 
 # Changelog
