@@ -1,6 +1,6 @@
 # Summary
 
-UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, an Athabascan language, based on material located in the Alaska Native Language Archive. 
+UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, an endangered Athabascan language, based on material located in the Alaska Native Language Archive. 
 
 # Introduction
 
