@@ -6,7 +6,7 @@ UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, an endangered Athabasc
 
 UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, the first treebank of an Athabascan language in UD. Gwich'in, also known as Dinjii zhuh gingik, is an endangered language spoken in Alaska and Canada by no more than 500 people. 
 
-This treebank began as a course project at the University of Tübingen in Germany. The data used in this treebank comes from material located in the Alaska Native Language Archive in Fairbanks, Alaska, the developer's hometown. 
+This treebank began as a course project at the University of Tübingen in Germany. The data used in this treebank is based on material located in the Alaska Native Language Archive in Fairbanks, Alaska, the developer's hometown. 
 
 # Acknowledgments
 
