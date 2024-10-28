@@ -14,7 +14,7 @@ I want to thank the native Gwich'in speakers and the Doyon Foundation whose mate
 
 ## References
 
-* Alaska Native Language Archive. n.d. Gwich’in collection - Alaska Native Language Archive (ANLA). https://www.uaf.edu/anla/collections/gwichin/. Accessed: 15-Oct-2024.
+* Alaska Native Language Archive. n.d. [Gwich’in collection - Alaska Native Language Archive (ANLA)](https://www.uaf.edu/anla/collections/gwichin/). Accessed: 15-Oct-2024.
 * Matthew Andrews. 2023. Dictionary projects. https://shoowadoo.github.io/Dictionary-projects/. Accessed: 15-Oct-2024.
 * John Busch. 2000. Finding your way through a story: Direction terms in Gwich’in narrative. Research paper (M.A. in Anthropology), University of Alaska Fairbanks. Accessed: 15-Oct-2024. 42 pp. in English with some Gwich’in vocabulary. https://www.uaf.edu/anla/record.php?identifier=KU000B2000.
 * Scott T Bushey. 2021. Western Gwich’in Classificatory Verbs. University of Alaska Fairbanks.
