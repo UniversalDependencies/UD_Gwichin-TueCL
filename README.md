@@ -30,9 +30,9 @@ The Athabascan (/ˌæθəˈbæskən/ ATH-ə-BASK-ən; also spelled Athabascan, A
 * Many Athabaskan verbs come in pairs: an intransitive form (without a direct object) and a transitive form (with a direct object). Often, these pairs are marked with prefixes or classifiers that change the verb’s meaning from “doing” something to someone/something to simply “doing” the action.
   
 Examples of Languages in the Athabascan Family:
-Navajo (Southwestern United States)
-Apachean languages (including Western Apache, Chiricahua, Mescalero in the U.S.)
-Dene languages (Northern Canada and Alaska), such as Chipewyan, Gwich'in, and Koyukon.
+* Navajo (Southwestern United States)
+* Apachean languages (including Western Apache, Chiricahua, Mescalero in the U.S.)
+* Dene languages (Northern Canada and Alaska), such as Chipewyan, Gwich'in, and Koyukon.
 
 # Acknowledgments
 
