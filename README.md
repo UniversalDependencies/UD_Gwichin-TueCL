@@ -4,35 +4,9 @@ UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, an endangered Athabasc
 
 # Introduction
 
-UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, the first treebank of an Athabascan language in UD. Gwich'in, also known as Dinjii zhuh gingik, is an endangered language spoken in Alaska and Canada by no more than 500 people. The data used in this treebank comes from material located in the Alaska Native Language Archive in Fairbanks, Alaska. 
+UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, the first treebank of an Athabascan language in UD. Gwich'in, also known as Dinjii zhuh gingik, is an endangered language spoken in Alaska and Canada by no more than 500 people. 
 
-The Athabascan (/ˌæθəˈbæskən/ ATH-ə-BASK-ən; also spelled Athabascan, Athapaskan or Athapascan, and also known as Dene) language family, primarily spoken by Indigenous groups in North America, is known for several linguistic features that set it apart. This family includes languages such as Navajo, Apache, and various Dene languages spoken in Alaska and Western Canada. Here are some of the hallmarks of Athabaskan languages:
-
-1. Complex Verb Structure:
-* Athabaskan languages are known for having extremely complex verb morphology, with verbs carrying extensive information beyond just the action. Verb forms can encode subject, object, tense, aspect, mood, and direction, all within a single word.
-* Verbs are often the core of Athabaskan sentences, with significant use of prefixes and suffixes that modify the meaning and grammatical function of the verb.
-3. Polysynthetic Language Structure:
-* Athabaskan languages are polysynthetic, meaning they often combine multiple morphemes (smallest meaningful units) to form a single word that expresses what might be a whole sentence in English.
-* For example, a single verb form in an Athabaskan language can convey information that would require multiple words in English.
-4. Classification of Verbs by “Classifier” Prefixes:
-* Athabaskan verbs are modified by a unique set of prefixes known as classifiers. These prefixes are integral to Athabaskan verb structure, marking distinctions such as transitivity, aspect, and voice (active, passive, etc.).
-* Classifiers indicate various grammatical roles and modify the core meaning of the verb, often denoting differences in how the action is performed.
-5. Tone and Phonetic Complexity:
-* Most Athabaskan languages are tonal, meaning they use pitch (high vs. low tone) to distinguish between words. The tonal nature varies, with some languages having complex tonal systems.
-* The phonetic systems of Athabaskan languages are notable for glottalized consonants (sounds made with a “glottal stop”) and aspirated sounds (sounds made with a puff of air). These phonetic features make Athabaskan languages distinct in sound.
-6. Directional and Spatial Precision:
-* Athabaskan languages often include spatial or directional components in verbs. For instance, verbs can convey movement with a specific direction (e.g., upward, downward, away from the speaker), encoding fine distinctions about the motion or location being described.
-* This feature aligns with the worldview and environment of Athabaskan-speaking communities, where orientation to the landscape is significant.
-7. Pronoun and Object Prefixes:
-* Instead of separate words for pronouns or objects, Athabaskan languages use prefixes within the verb complex to represent these. The position of the prefix in the verb complex affects the meaning of the sentence.
-* Pronoun prefixes are used extensively in verbs, encoding the person (e.g., I, you, we) and number (e.g., singular, dual, plural) of both the subject and the object.
-8. Intransitive and Transitive Verb Pairs:
-* Many Athabaskan verbs come in pairs: an intransitive form (without a direct object) and a transitive form (with a direct object). Often, these pairs are marked with prefixes or classifiers that change the verb’s meaning from “doing” something to someone/something to simply “doing” the action.
-  
-Examples of Languages in the Athabascan Family:
-* Navajo (Southwestern United States)
-* Apachean languages (including Western Apache, Chiricahua, Mescalero in the U.S.)
-* Dene languages (Northern Canada and Alaska), such as Chipewyan, Gwich'in, and Koyukon.
+This treebank was developed as a course project at the University of Tübingen in Germany. The data used in this treebank comes from material located in the Alaska Native Language Archive in Fairbanks, Alaska, the developer's hometown. 
 
 # Acknowledgments
 
