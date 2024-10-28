@@ -1,12 +1,10 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, an Athabascan language, based on material located in the Alaska Native Language Archive. 
 
 # Introduction
 
-...
-
+UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, the first treebank of an Athabascan language in UD. Gwich'in, also known as Dinjii zhuh gingik, is an endangered language spoken in Alaska and Canada by no more than 500 people. The data used in this treebank comes from material located in the Alaska Native Language Archive in Fairbanks, Alaska. 
 
 # Acknowledgments
 
@@ -23,13 +21,13 @@ I want to thank the native Gwich'in speakers and the Doyon Foundation whose mate
 * Gwich’in Social and Cultural Institute. n.d.b. Gwich’in online dictionary. https://dictionary.gwichinlanguage.org/. Accessed: 15-Oct-2024.
 * Patrick Marlow and Lillian Garnett. 1996. Beginning Athabaskan Gwich’in ANL142. https://www.uaf.edu/anla/record.php?identifier=KU985G1996b. Accessed: October 22, 2023.
 * C. Mishler and K. Frank. 2019. Dinjii Vadzaih Dhidlit. IPI. https://books.google.de/books?id=7Y_gwQEACAAJ.
-* Dick Mueller and Lillian Garnett. March 1994. Western Gwich’in topical dictionary. https://www.uaf.edu/anla/record.php?identifier=KU960M1991 Accessed: 15-Oct-2024.
+* Dick Mueller and Lillian Garnett. March 1994. Western Gwich’in topical dictionary. https://www.uaf.edu/anla/record.php?identifier=KU960M1991. Accessed: 15-Oct-2024.
 * Katherine Peter. 1979. Dinjii zhuh ginjik nagwan tr’iłtsaii: Gwich’in junior dictionary. Alaska Native Language Center.
 
 
 # Changelog
 
-* 2024-05-15 v2.14
+* 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
 
 
