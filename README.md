@@ -6,7 +6,7 @@ UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, an endangered Athabasc
 
 UD_Gwichin-TueCL is a small treebank of Alaskan Gwich'in, the first treebank of an Athabascan language in UD. Gwich'in, also known as Dinjii zhuh gingik, is an endangered language spoken in Alaska and Canada by no more than 500 people. The data used in this treebank comes from material located in the Alaska Native Language Archive in Fairbanks, Alaska. 
 
-The Athabaskan (or Athapascan) language family, primarily spoken by Indigenous groups in North America, is known for several linguistic features that set it apart. This family includes languages such as Navajo, Apache, and various Dene languages spoken in Alaska and Western Canada. Here are some of the hallmarks of Athabaskan languages:
+The Athabascan (/ˌæθəˈbæskən/ ATH-ə-BASK-ən; also spelled Athabascan, Athapaskan or Athapascan, and also known as Dene) language family, primarily spoken by Indigenous groups in North America, is known for several linguistic features that set it apart. This family includes languages such as Navajo, Apache, and various Dene languages spoken in Alaska and Western Canada. Here are some of the hallmarks of Athabaskan languages:
 
 1. Complex Verb Structure:
 Athabaskan languages are known for having extremely complex verb morphology, with verbs carrying extensive information beyond just the action. Verb forms can encode subject, object, tense, aspect, mood, and direction, all within a single word.
