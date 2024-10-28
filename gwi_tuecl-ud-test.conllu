@@ -1417,10 +1417,10 @@
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 224
-# text = John Mary hàa bingò tseegii’in ts’ą̀’ gadlàa.
-# text_en = John and Mary are playing bingo and laughing.
-1	John	John	PROPN	_	_	5	nsubj	_	Gloss=John
-2	Mary	Mary	PROPN	_	_	1	conj	_	Gloss=Mary
+# text = Jack Jill hàa bingò tseegii’in ts’ą̀’ gadlàa.
+# text_en = Jack and Jill are playing bingo and laughing.
+1	Jack	Jack	PROPN	_	_	5	nsubj	_	Gloss=John
+2	Jill	Jill	PROPN	_	_	1	conj	_	Gloss=Mary
 3	hàa	hàa	CCONJ	_	_	2	cc	_	Gloss=and
 4	bingò	bingò	NOUN	_	_	5	obj	_	Gloss=bingo
 5	tseegii’in	tsee'in	VERB	_	_	0	root	_	Gloss=they are playing|MSeg=tsee-gï-dï-’in
