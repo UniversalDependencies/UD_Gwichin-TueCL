@@ -1597,7 +1597,7 @@
 # sent_id = 243
 # text = Izhik Gwichyaa Zhee gòo’ąįį.
 # text_en = Fort Yukon is situated [right there].
-1	Izhik	izhik	ADV	_	_	4	advmod	_	Gloss=this area; this; that; there
+1	Izhik	izhik	DET	_	_	4	advmod	_	Gloss=this area; this; that
 2	Gwichyaa	gwichyaa	PROPN	_	_	3	compound	_	Gloss=a wide, flat area of land
 3	Zhee	zhee	PROPN	_	_	4	nsubj	_	Gloss=sky
 4	gòo’ąįį	_	VERB	_	_	0	root	_	SpaceAfter=No
@@ -1686,7 +1686,7 @@
 2	gwilin	gwilin	ADV	_	_	3	advmod	_	Gloss=many times
 3	trą̀ą̀hàa	niihaa	VERB	_	_	0	root	_	Gloss=we camped for the night
 4	gohch’it	gohch'it	ADV	_	_	13	advmod	_	Gloss=finally
-5	dèe	dèe	PART	_	_	4	fixed	_	Gloss=PART
+5	dèe	dèe	X	_	_	4	fixed	_	Gloss=PART
 6	shaghoii	vaghwaii	NOUN	_	_	9	nmod	_	Gloss=my brother-in-law
 7	Philip	Philip	PROPN	_	_	6	appos	_	Gloss=Phillip
 8	Peter	Peter	PROPN	_	_	7	flat	_	Gloss=Peter
@@ -1711,7 +1711,7 @@
 9	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 254
-# text = April 1938 gwiizhik Bishop Trimble Rowe, Dr. Burke hàa Vashrą̀įį̨ K’ǫǫ nirihee’àl ginyaa.
+# text = April 1938 gwiizhik Bishop Trimble Rowe, Dr. Burke hàa Vashrą̀įį K’ǫǫ nirihee’àl ginyaa.
 # text_en = In April 1938, Bishop Trimble Rowe and Dr. Burke said they would go to Arctic Village. 
 1	April	April	PROPN	_	_	14	obl	_	Gloss=April
 2	1938	1938	NUM	_	_	1	nummod	_	Gloss=1938
@@ -1723,7 +1723,7 @@
 8	Dr.	Dr.	PROPN	_	_	4	conj	_	Gloss=Dr.
 9	Burke	Burke	PROPN	_	_	8	flat	_	Gloss=Burke
 10	hàa	hàa	CCONJ	_	_	8	cc	_	Gloss=and
-11	Vashrą̀įį̨	Vashrą̀įį̨	PROPN	_	_	13	obl	_	Gloss=Arctic Village
+11	Vashrą̀įį	Vashrą̀įį	PROPN	_	_	13	obl	_	Gloss=Arctic Village
 12	K’ǫǫ	K’ǫǫ	PROPN	_	_	11	flat	_	Gloss=Artic Village
 13	nirihee’àl	nirihee'àl	VERB	_	_	14	ccomp	_	Gloss=we would go
 14	ginyaa	t'inyaa	VERB	_	_	0	root	_	Gloss=they said|SpaceAfter=No
@@ -1766,7 +1766,7 @@
 # sent_id = 258
 # text = Nijìn gwats’an inlìi?
 # text_en = Where are you from?
-1	Nijìn	nijìn	PRON	_	_	3	obl	_	Gloss=where
+1	Nijìn	nijìn	ADV	_	_	3	obl	_	Gloss=where
 2	gwats’an	gwats’an	ADP	_	_	1	case	_	Gloss=from
 3	inlìi	nilìi	VERB	_	_	0	root	_	Gloss=you are|MSeg=in-lìi|SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
@@ -1791,7 +1791,7 @@
 # sent_id = 261
 # text = Jidìi eenjit ni’ìn?
 # text_en = What are you doing that for? 
-1	Jidìi	jidìi	PRON	_	_	3	obl	_	Gloss=what
+1	Jidìi	jidìi	ADV	_	_	3	obl	_	Gloss=what
 2	eenjit	eenjit	ADP	_	_	1	case	_	Gloss=for
 3	ni’ìn	t'ii'ìn	VERB	_	_	0	root	_	Gloss=you are doing|SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
@@ -2000,7 +2000,7 @@
 # text_en = You lost some (obvious) weight.
 1	Naathài’	vaathài’	NOUN	_	_	2	nsubj	_	Gloss=your weight
 2	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there is much
-3	kwàa	kwàa	ADV	_	_	2	advmod	_	SpaceAfter=No
+3	kwàa	kwàa	PART	_	_	2	advmod	_	Gloss=not|SpaceAfter=No
 4	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 290
@@ -2083,7 +2083,7 @@
 5	neech’ahąąht’ee	neech’ahąąht’ee	NOUN	_	_	0	root	_	Gloss=airplane pilot
 6	gàa	gàa	CCONJ	_	_	10	cc	_	Gloss=but
 7	oondàk	oondàk	ADV	_	_	10	advmod	_	Gloss=toward a short distance up, inland from the river
-8	Vashrą̀įį	Vashrą̀į	PROPN	_	_	10	nsubj	_	Gloss=Arctic Village
+8	Vashrą̀įį	Vashrą̀įį	PROPN	_	_	10	nsubj	_	Gloss=Arctic Village
 9	K’ǫǫ	K’ǫǫ	PROPN	_	_	8	flat	_	Gloss=Arctic Village
 10	gwalàràa	làraa	NOUN	_	_	5	conj	_	Gloss=enough money
 11	kwaa	kwaa	PART	_	_	10	advmod	_	Gloss=not
