@@ -1623,18 +1623,18 @@
 # text = K’ì khàneiintin.
 # text_en = He... took the arrow out [of the wound].
 1	K’ì	k'i'	NOUN	_	_	2	obj	_	Gloss=arrow
-2	khàneiintin	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	khàneiintin	_	VERB	_	_	0	root	_	MSeg=khà-nee-#in-tin|MGloss=THEM.surface-ITER#3SG.PFV.Ø-stick-like in position|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 247
 # text = Tsiigehtchic gwat’san yagha’ ch’iitsii tyąh yee’aa.
 # text_en = S/he's carrying that metal pot there all the way from Arctic Red River.  
 1	Tsiigehtchic	Tsiigehtchic	PROPN	_	_	6	obl	_	Gloss=Arctic Red River
-2	gwat’san	t’san	ADP	_	_	1	case	_	Gloss=from
+2	gwat’san	t’san	ADP	_	_	1	case	_	Gloss=from|MSeg=gwï-t’san|MGloss=AR-from
 3	yagha’	yagha’	DET	_	_	5	det	_	Gloss=that one
 4	ch’iitsii	ch'iitsii	NOUN	_	_	5	nmod	_	Gloss=metal
 5	tyąh	tyąh	NOUN	_	_	6	obj	_	Gloss=pot
-6	yee’aa	_	VERB	_	_	0	root	_	Gloss=she's carrying|SpaceAfter=No
+6	yee’aa	_	VERB	_	_	0	root	_	Gloss=she's carrying|MSeg=yee#ï-'aa|MGloss=DIR#3SG.IPFV.Ø-carry|SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 248
@@ -1651,9 +1651,9 @@
 # text = Mellek chanchyąh kat neetł’it.
 # text_en = Milk has spilled on the floor. 
 1	Mellek	mellek	NOUN	_	_	4	nsubj	_	Gloss=milk
-2	chanchyąh	chanchyąh	NOUN	_	_	4	obl	_	Gloss=wood rug
+2	chanchyąh	chanchyąh	NOUN	_	_	4	obl	_	Gloss=floor|MSeg=chan-chyąh|MGloss=wood-rug
 3	kat	kat	ADP	_	_	2	case	_	Gloss=on
-4	neetł’it	_	VERB	_	_	0	root	_	Gloss=the open container has spilled|MSeg=nee#tłit|SpaceAfter=No
+4	neetł’it	_	VERB	_	_	0	root	_	Gloss=the open container has spilled|MSeg=nee#tłit|MGloss=ITER#3SG.PFV.Ø-open container spills|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 250
@@ -1662,7 +1662,7 @@
 1	Aii	aii	DET	_	_	3	det	_	Gloss=that
 2	zhoh	zhoh	NOUN	_	_	3	compound	_	Gloss=wolf
 3	tsi’	vitsi'	NOUN	_	_	4	obj	_	Gloss=tail
-4	chyąąhkhaa	_	VERB	_	_	0	root	_	Gloss=she threw it|SpaceAfter=No
+4	chyąąhkhaa	_	VERB	_	_	0	root	_	Gloss=she threw it|MSeg-ch-yï-ah-khaa|MGloss=THEM#3O-3SG.PFV.L-throw stick-like|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 251
@@ -1682,19 +1682,19 @@
 # sent_id = 252
 # text = Gwatthàn gwilin trą̀ą̀hàa gohch’it dèe shaghoii Philip Peter vanàh kak Khiitsik gòozhii k’eeridàl.
 # text_en = We camped many times going down and finally at my brother-in-law Philip Peters' place called Khiitsik, we arrived. 
-1	Gwatthàn	ootthàn	ADV	_	_	3	advmod	_	Gloss=toward a short distance downland, or towards the river
+1	Gwatthàn	ootthàn	ADV	_	_	3	advmod	_	Gloss=toward a short distance downland, or towards the river|MSeg=gwï-tthàn|MGloss=AR-downland.ALL
 2	gwilin	gwilin	ADV	_	_	3	advmod	_	Gloss=many times
-3	trą̀ą̀hàa	niihaa	VERB	_	_	0	root	_	Gloss=we camped for the night
+3	trą̀ą̀hàa	niihaa	VERB	_	_	0	root	_	Gloss=we camped for the night|MSeg=trï-nï-ah-hàa|MGloss=1PL-CNJ-3SG.PFV.Ł-camp for the night|SpaceAfter=No
 4	gohch’it	gohch'it	ADV	_	_	13	advmod	_	Gloss=finally
 5	dèe	dèe	X	_	_	4	fixed	_	Gloss=PART
-6	shaghoii	vaghwaii	NOUN	_	_	9	nmod	_	Gloss=my brother-in-law
+6	shaghoii	vaghwaii	NOUN	_	_	9	nmod	_	Gloss=my brother-in-law|MSeg=shï-ghoii|MGloss=1SG.POSS-brother-in-law
 7	Philip	Philip	PROPN	_	_	6	appos	_	Gloss=Phillip
 8	Peter	Peter	PROPN	_	_	7	flat	_	Gloss=Peter
-9	vanàh	_	NOUN	_	_	13	obl	_	Gloss=his land
+9	vanàh	_	NOUN	_	_	13	obl	_	Gloss=his land|MSeg=vï-nàh|MGloss=3SG.POSS-land
 10	kak	kak	ADP	_	_	9	case	_	Gloss=on
 11	Khiitsik	Khiitsik	PROPN	_	_	12	dep	_	Gloss=salmon river mouth
 12	gòozhii	_	VERB	_	_	9	acl	_	Gloss=called
-13	k’eeridàl	k'eeriidàl	VERB	_	_	3	conj	_	Gloss=we all arrived|SpaceAfter=No
+13	k’eeridàl	k'eeriidàl	VERB	_	_	3	conj	_	Gloss=we all arrived|MSeg=k’ee-tr'ï-ii-dàl|MGloss=?-1PL-3SG.PFV+Ł-arrive.PL.PFV|SpaceAfter=No
 14	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 253
