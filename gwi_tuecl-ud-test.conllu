@@ -160,19 +160,19 @@
 # sent_id = 27
 # text = Intł’uu.
 # text_en = You are knitting it.
-1	Intł’uu	yitł’uu	VERB	_	_	0	root	_	Gloss=You are knitting it|MSeg=in-tł’uu|SpaceAfter=No
+1	Intł’uu	yitł’uu	VERB	_	_	0	root	_	Gloss=You are knitting it|MSeg=in-tł’uu|MGloss=2SG.IPFV.DYN.Ø-knit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 28
 # text = Yitł’uu.
 # text_en = He is knitting it.
-1	Yitł’uu	yitł’uu	VERB	_	_	0	root	_	Gloss=He is knitting it|MSeg=yï-ï-tł’uu|MGloss=3SG.OBJ-3SG.IPFV.DYN-knit.IPFV.DYN|SpaceAfter=No
+1	Yitł’uu	yitł’uu	VERB	_	_	0	root	_	Gloss=He is knitting it|MSeg=yï-ï-tł’uu|MGloss=3O-3SG.IPFV.DYN-knit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 29
 # text = Ch’ihtł’uu.
 # text_en = I am knitting something. 
-1	Ch’ihtł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=I am knitting something|MSeg=ch’i-ih-tł’uu|SpaceAfter=No
+1	Ch’ihtł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=I am knitting something|MSeg=ch’i-ih-tł’uu|MGloss=|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 30
@@ -191,21 +191,21 @@
 # text = Nilįį ih’àa.
 # text_en = I am eating meat.
 1	Nilįį	nilįį	NOUN	_	_	2	obj	_	Gloss=meat
-2	ih’àa	ya’àa	VERB	_	_	0	root	_	Gloss=I am eating|MSeg=ih-’àa|SpaceAfter=No
+2	ih’àa	ya’àa	VERB	_	_	0	root	_	Gloss=I am eating|MSeg=ih-’àa|MGloss=1SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 33
 # text = Nilįį in’àa.
 # text_en = You are eating meat.
 1	Nilįį	nilįį	NOUN	_	_	2	obj	_	Gloss=meat
-2	in’àa	ya’àa	VERB	_	_	0	root	_	Gloss=You are eating|MSeg=in-’àa|SpaceAfter=No
+2	in’àa	ya’àa	VERB	_	_	0	root	_	Gloss=You are eating|MSeg=in-’àa|2SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 34
 # text = Nilįį a’àa.
 # text_en = He is eating meat.
 1	Nilįį	nilįį	NOUN	_	_	2	obj	_	Gloss=meat
-2	a’àa	ya’àa	VERB	_	_	0	root	_	Gloss=He is eating|MSeg=ï-’àa|SpaceAfter=No
+2	a’àa	ya’àa	VERB	_	_	0	root	_	Gloss=He is eating|MSeg=ï-’àa|3SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 35
@@ -230,139 +230,139 @@
 # text = Nilįį ałch’yaa.
 # text_en = I am frying meat.
 1	Nilįį	nilįį	NOUN	_	_	2	obj	_	Gloss=meat
-2	ałch’yaa	yahch'yaa	VERB	_	_	0	root	_	Gloss=I am frying|MSeg=ał-ch’yaa|SpaceAfter=No
+2	ałch’yaa	yahch'yaa	VERB	_	_	0	root	_	Gloss=I am frying|MSeg=ał-ch’yaa|MGloss=1SG.IPFV.Ł-fry.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 39
 # text = Nilįį ąhch’yaa.
 # text_en = You are frying meat. 
 1	Nilįį	nilįį	NOUN	_	_	2	obj	_	Gloss=meat
-2	ąhch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=You are frying|MSeg=ąh-ch’yaa|SpaceAfter=No
+2	ąhch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=You are frying|MSeg=ąh-ch’yaa|MGloss=2SG.IPFV.Ł-fry.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
 # text = Nilįį ahch’yaa.
 # text_en = S/he/it is frying meat. 
 1	Nilįį	nilįį	NOUN	_	_	2	obj	_	Gloss=meat
-2	ahch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=He is frying meat|MSeg=ah-ch’yaa|SpaceAfter=No
+2	ahch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=He is frying meat|MSeg=ah-ch’yaa|MGloss=3SG.IPFV.Ł-fry.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 41
 # text = Ałch’yaa.
 # text_en = I am frying it.
-1	Ałch’yaa	yahch'yaa	VERB	_	_	0	root	_	Gloss=I am frying it|MSeg=ał-ch’yaa|SpaceAfter=No
+1	Ałch’yaa	yahch'yaa	VERB	_	_	0	root	_	Gloss=I am frying it|MSeg=ał-ch’yaa|MGloss=1SG.IPFV.Ł-fry.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 42
 # text = Ąhch’yaa.
 # text_en = You are frying it.
-1	Ąhch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=You are frying it|MSeg=ąh-ch’yaa|SpaceAfter=No
+1	Ąhch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=You are frying it|MSeg=ąh-ch’yaa|MGloss=2SG.IPFV.DYN.Ł-fry.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 43
 # text = Yahch’yaa.
 # text_en = S/he/it is frying it.
-1	Yahch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=He is frying it|MSeg=yï-ah-ch'yaa|SpaceAfter=No
+1	Yahch’yaa	yahch’yaa	VERB	_	_	0	root	_	Gloss=He is frying it|MSeg=yï-ah-ch'yaa|MGloss=3O-3SG.IPFV.Ł-fry.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 44
 # text = Nał’in.
 # text_en = I see it.
-1	Nał’in	yąąh’in	VERB	_	_	0	root	_	Gloss=I see it|MSeg=nï-ał-’in|SpaceAfter=No
+1	Nał’in	yąąh’in	VERB	_	_	0	root	_	Gloss=I see it|MSeg=nï-ał-’in|MGloss=CNJ-1SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 45
 # text = Nąh’in.
 # text_en = You see it.
-1	Nąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=You see it|MSeg=nï-ąh-’in|SpaceAfter=No
+1	Nąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=You see it|MSeg=nï-ąh-’in|MGloss=CNJ-2SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 46
 # text = Yąąh’in.
 # text_en = S/he/it sees it.
-1	Yąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=She sees it|MSeg=yï-nï-ah-’in|SpaceAfter=No
+1	Yąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=She sees it|MSeg=yï-nï-ah-’in|MGloss=3O-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 47
 # text = Dinjik nah’in.
 # text_en = S/he/it sees the moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
-2	nah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=He sees|MSeg=nï-ah-'in|SpaceAfter=No
+2	nah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=He sees|MSeg=nï-ah-'in|MGloss=CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 48
 # text = Tr’ąąh’in.
 # text_en = We see it.
-1	Tr’ąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=we see it|MSeg=trï-nï-ąh-’in|SpaceAfter=No
+1	Tr’ąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=we see it|MSeg=trï-nï-ąh-’in|MGloss=1PL-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 49
 # text = Noh’in.
 # text_en = You guys see it.
-1	Noh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=you guys see it|MSeg=nï-oh-’in|SpaceAfter=No
+1	Noh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=you guys see it|MSeg=nï-oh-’in|MGloss=CNJ-2PL.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 50
 # text = Giyąąh’in.
 # text_en = They see it.
-1	Giyąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=They see it|MSeg=gï-yï-nï-ah-’in|SpaceAfter=No
+1	Giyąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=They see it|MSeg=gï-yï-nï-ah-’in|MGloss=3PL-3O-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 51
 # text = Dinjik gąąh’in.
 # text_en = They see the moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
-2	gąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=They see|MSeg=gï-nï-ah-'in|SpaceAfter=No
+2	gąąh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=They see|MSeg=gï-nï-ah-'in|MGloss=3PL-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 52
 # text = Haał’yaa.
 # text_en = I will see it.
-1	Haał’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=I will see it|MSeg=hï-nï-ał-’yaa|SpaceAfter=No
+1	Haał’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=I will see it|MSeg=hï-nï-ał-’yaa|MGloss=FUT-CNJ-1SG.FUT.Ł-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 53
 # text = Hąąh’yaa.
 # text_en = You will see it.
-1	Hąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=you will see it|MSeg=hï-nï-ąh-’yaa|SpaceAfter=No
+1	Hąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=you will see it|MSeg=hï-nï-ąh-’yaa|MGloss=FUT-CNJ-2SG.FUT.Ł-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 54
 # text = Yahąąh’yaa.
 # text_en = He will see it.
-1	Yahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=he will see it|MSeg=yï-hï-nï-ah-’yaa|SpaceAfter=No
+1	Yahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=he will see it|MSeg=yï-hï-nï-ah-’yaa|MGloss=3O-FUT-CNJ-3SG.FUT.Ł-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 55
 # text = Dinjik hąąh’yaa.
 # text_en = She will see a moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
-2	hąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=she will see|MSeg=hï-nï-ah-'yaa|SpaceAfter=No
+2	hąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=she will see|MSeg=hï-nï-ah-'yaa|MGloss=FUT-CNJ-3SG.FUT.Ł-see.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 56
 # text = Tr'ahąąh’yaa.
 # text_en = We will see it.
-1	Tr'ahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=we will see it|MSeg=tr'ï-hï-nï-ah-’yaa|SpaceAfter=No
+1	Tr'ahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=we will see it|MSeg=tr'ï-hï-nï-ah-’yaa|MGloss=1PL-FUT-CNJ-3SG.FUT.Ł-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 57
 # text = Hooh’yaa.
 # text_en = You guys will see it.
-1	Hooh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=you guys will see it|MSeg=hï-nï-oh-’yaa|SpaceAfter=No
+1	Hooh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=you guys will see it|MSeg=hï-nï-oh-’yaa|MGloss=FUT-CNJ-2PL.FUT.Ł-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 58
 # text = Giyahąąh’yaa.
 # text_en = They will see it.
-1	Giyahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=they will see it|MSeg=gï-yï-hï-nï-ah-’yaa|SpaceAfter=No
+1	Giyahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=they will see it|MSeg=gï-yï-hï-nï-ah-’yaa|MGloss=3PL-3O-FUT-CNJ-3SG.FUT.Ł-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 59
 # text = Dinjik gahąąh’yaa.
 # text_en = They will see a moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
-2	gahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=they will see|MSeg=gï-hï-nï-ah-'yaa|SpaceAfter=No
+2	gahąąh’yaa	yąąh’in	VERB	_	_	0	root	_	Gloss=they will see|MSeg=gï-hï-nï-ah-'yaa|MGloss=3PL-FUT-CNJ-3SG.FUT.Ł-see.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 60
@@ -387,87 +387,87 @@
 # text = Ch’ilik dihtth’ak.
 # text_en = I hear a song/music. 
 1	Ch’ilik	ch’ilik	NOUN	_	_	2	obj	_	Gloss=song, music
-2	dihtth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=I hear|MSeg=dï-ih-tth'ak|SpaceAfter=No
+2	dihtth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=I hear|MSeg=dï-ih-tth'ak|MGloss=CNJ-1SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 64
 # text = Ch’ilik dintth’ak.
 # text_en = You hear a song/music. 
 1	Ch’ilik	ch’ilik	NOUN	_	_	2	obj	_	Gloss=song, music
-2	dintth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=You hear|MSeg=dï-in-tth'ak|SpaceAfter=No
+2	dintth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=You hear|MSeg=dï-in-tth'ak|MGloss=CNJ-2SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 65
 # text = Ch’ilik ditth’ak.
 # text_en = He hears a song/music. 
 1	Ch’ilik	ch’ilik	NOUN	_	_	2	obj	_	Gloss=song, music
-2	ditth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=He hears|MSeg=dï-ï-tth'ak|SpaceAfter=No
+2	ditth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=He hears|MSeg=dï-ï-tth'ak|MGloss=CNJ-3SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 66
 # text = Alk'ìi.
 # text_en = I am fat.
-1	Alk'ìi	ak'ii	VERB	_	_	0	root	_	Gloss=I am fat|MSeg=al-k'ii|SpaceAfter=No
+1	Alk'ìi	ak'ii	VERB	_	_	0	root	_	Gloss=I am fat|MSeg=al-k'ii|MGloss=1SG.IPFV.L-fat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 67
 # text = Ank'ìi.
 # text_en = You are fat.
-1	Ank'ìi	ak'ii	VERB	_	_	0	root	_	Gloss=You are fat|MSeg=an-k'ii|SpaceAfter=No
+1	Ank'ìi	ak'ii	VERB	_	_	0	root	_	Gloss=You are fat|MSeg=an-k'ii|MGloss=2SG.IPFV.L-fat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 68
 # text = Ak'ìi.
 # text_en = She is fat., He is fat.
-1	Ak'ìi	ak'ii	VERB	_	_	0	root	_	Gloss=She is fat|MSeg=a-k'ii|SpaceAfter=No
+1	Ak'ìi	ak'ii	VERB	_	_	0	root	_	Gloss=She is fat|MSeg=a-k'ii|MGloss=3SG.IPFV.L-fat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 69
 # text = Algal.
 # text_en = I am running.
-1	Algal	agal	VERB	_	_	0	root	_	Gloss=I am running|MSeg=al-gal|SpaceAfter=No
+1	Algal	agal	VERB	_	_	0	root	_	Gloss=I am running|MSeg=al-gal|MGloss=1SG.IPFV.L-run.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 70
 # text = Angal.
 # text_en = You are running. 
-1	Angal	agal	VERB	_	_	0	root	_	Gloss=you are running|MSeg=an-gal|SpaceAfter=No
+1	Angal	agal	VERB	_	_	0	root	_	Gloss=you are running|MSeg=an-gal|MGloss=2SG.IPFV.L-run.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 71
 # text = Agal.
 # text_en = He is running., She is running. 
-1	Agal	agal	VERB	_	_	0	root	_	Gloss=he is running|MSeg=a-gal|SpaceAfter=No
+1	Agal	agal	VERB	_	_	0	root	_	Gloss=he is running|MSeg=a-gal|MGloss=3SG.IPFV.L-run.IPFV|SpaceAfter=No 
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 72
 # text = Ałjat.
 # text_en = I am rotten.
-1	Ałjat	ahjat	VERB	_	_	0	root	_	Gloss=I am rotten|MSeg=ał-jat|SpaceAfter=No
+1	Ałjat	ahjat	VERB	_	_	0	root	_	Gloss=I am rotten|MSeg=ał-jat|MGloss=1SG.IPFV.Ł-rotten.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 73
 # text = Ąhjat.
 # text_en = You are rotten.
-1	Ąhjat	ahjat	VERB	_	_	0	root	_	Gloss=you are rotten|MSeg=ąh-jat|SpaceAfter=No
+1	Ąhjat	ahjat	VERB	_	_	0	root	_	Gloss=you are rotten|MSeg=ąh-jat|MGloss=2SG.IPFV.Ł-rotten.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 74
 # text = Ahjat.
 # text_en = It is rotten. 
-1	Ahjat	ahjat	VERB	_	_	0	root	_	Gloss=it is rotten|MSeg=ah-jat|SpaceAfter=No
+1	Ahjat	ahjat	VERB	_	_	0	root	_	Gloss=it is rotten|MSeg=ah-jat|MGloss=3SG.IPFV.Ł-rotten.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 75
 # text = Alkoo.
 # text_en = I am coughing
-1	Alkoo	akoo	VERB	_	_	0	root	_	Gloss=I am coughing|MSeg=al-koo|SpaceAfter=No
+1	Alkoo	akoo	VERB	_	_	0	root	_	Gloss=I am coughing|MSeg=al-koo|MGloss=1SG.IPFV.L-cough.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 76
 # text = Ałvir.
 # text_en = I am boiling it. 
-1	Ałvir	yahvir	VERB	_	_	0	root	_	Gloss=I am boiling it|MSeg=ał-vir|SpaceAfter=No
+1	Ałvir	yahvir	VERB	_	_	0	root	_	Gloss=I am boiling it|MSeg=ał-vir|MGloss=1SG.IPFV.Ł-boil.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 77
@@ -480,39 +480,39 @@
 # text = Dzirh shi’įį.
 # text_en = I have mittens.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mittens
-2	shi’įį	yii’įį	VERB	_	_	0	root	_	Gloss=I have|MSeg=shi-’įį|SpaceAfter=No
+2	shi’įį	yii’įį	VERB	_	_	0	root	_	Gloss=I have|MSeg=shi-’įį|MGloss=1SG.IPFV.D-have.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 79
 # text = Dzirh ni’įį.
 # text_en = You have mittens. 
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mittens
-2	ni’įį	yii’įį	VERB	_	_	0	root	_	Gloss=you have|MSeg=ni-’įį|SpaceAfter=No
+2	ni’įį	yii’įį	VERB	_	_	0	root	_	Gloss=you have|MSeg=ni-’įį|MGloss=2SG.IPFV.D-have.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 80
 # text = Dzirh di’įį.
 # text_en = He has mittens., She has mittens.  
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mittens
-2	di’įį	yii’įį	VERB	_	_	0	root	_	Gloss=he has, she has|MSeg=di-’įį|SpaceAfter=No
+2	di’įį	yii’įį	VERB	_	_	0	root	_	Gloss=he has, she has|MSeg=di-’įį|MGloss=3SG.IPFV.D-have.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 81
 # text = Shi’įį.
 # text_en = I have it.
-1	Shi’įį	yii’įį	VERB	_	_	0	root	_	Gloss=I have it|MSeg=shi-’įį|SpaceAfter=No
+1	Shi’įį	yii’įį	VERB	_	_	0	root	_	Gloss=I have it|MSeg=shi-’įį|MGloss=1SG.IPFV.D-have.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 82
 # text = Ni’įį.
 # text_en = You have it.
-1	Ni’įį	yii’įį	VERB	_	_	0	root	_	Gloss=you have it|MSeg=ni-’įį|SpaceAfter=No
+1	Ni’įį	yii’įį	VERB	_	_	0	root	_	Gloss=you have it|MSeg=ni-’įį|MGloss=2SG.IPFV.D-have.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 83
 # text = Yii’įį.
 # text_en = He has it., She has it.
-1	Yii’įį	yii’įį	VERB	_	_	0	root	_	Gloss=he has it, she has it|MSeg=yi-i-’įį|SpaceAfter=No
+1	Yii’įį	yii’įį	VERB	_	_	0	root	_	Gloss=he has it, she has it|MSeg=yi-i-’įį|MGloss=3O-3SG.IPFV.D-have.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 84
