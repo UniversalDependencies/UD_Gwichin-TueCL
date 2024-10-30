@@ -1675,7 +1675,7 @@
 5	vadzaih	vadzaih	NOUN	_	_	7	obl	_	Gloss=caribou
 6	eenjit	eenjit	ADP	_	_	5	case	_	Gloss=for
 7	naazhrii	naazhrii	VERB	_	_	8	ccomp	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IMPFV-hunt
-8	yindhan	yiyindhan	VERB	_	_	3	advcl	_	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3.O-3SG.PFV-Ø-want
+8	yindhan	yiyindhan	VERB	_	_	3	advcl	_	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3O-3SG.PFV-Ø-want
 9	geh’àn	geh’an	SCONJ	_	_	8	mark	_	Gloss=because|SpaceAfter=No
 10	.	_	PUNCT	_	_	3	punct	_	_
 
@@ -1694,7 +1694,7 @@
 10	kak	kak	ADP	_	_	9	case	_	Gloss=on
 11	Khiitsik	Khiitsik	PROPN	_	_	12	dep	_	Gloss=salmon river mouth
 12	gòozhii	_	VERB	_	_	9	acl	_	Gloss=called
-13	k’eeridàl	k'eeriidàl	VERB	_	_	3	conj	_	Gloss=we all arrived|MSeg=k’ee-tr'ï-ii-dàl|MGloss=?-1PL-3SG.PFV+Ł-arrive.PL.PFV|SpaceAfter=No
+13	k’eeridàl	k'eeriidàl	VERB	_	_	3	conj	_	Gloss=we all arrived|MSeg=k’ee-tr'ï-ii-dàl|MGloss=?-1PL-3SG.PFV+Ø-arrive.PL.PFV|SpaceAfter=No
 14	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 253
@@ -1767,8 +1767,8 @@
 # text = Nijìn gwats’an inlìi?
 # text_en = Where are you from?
 1	Nijìn	nijìn	ADV	_	_	3	obl	_	Gloss=where
-2	gwats’an	gwats’an	ADP	_	_	1	case	_	Gloss=from
-3	inlìi	nilìi	VERB	_	_	0	root	_	Gloss=you are|MSeg=in-lìi|SpaceAfter=No
+2	gwats’an	gwats’an	ADP	_	_	1	case	_	Gloss=from|MSeg=gwï-ts’an|MGloss=AR-from
+3	inlìi	nilìi	VERB	_	_	0	root	_	Gloss=you are|MSeg=in-lìi|MGloss=2SG.IPFV.STAT.Ø-be.IPFV|SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 259
@@ -1777,7 +1777,7 @@
 1	Gwichyaa	gwichyaa	PROPN	_	_	2	compound	_	Gloss=a wide, flat area of land
 2	Zheh	zheh	NOUN	_	_	4	obl	_	Gloss=house
 3	gwats’an	ts’an	ADP	_	_	2	case	_	Gloss=from|MSeg=gwï-ts’an|MGloss=AR-from
-4	ihłìi	nilii	VERB	_	_	0	root	_	Gloss=I am|ih-łìi|SpaceAfter=No
+4	ihłìi	nilii	VERB	_	_	0	root	_	Gloss=I am|ih-łìi|MSeg=ih-lìi|MGloss=1SG.IPFV.STAT.Ø-be.IPFV|SpaceAfter=No 
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 260
@@ -1800,14 +1800,14 @@
 # text = Nijìn gwinch’ìi?
 # text_en = Where do you live?
 1	Nijìn	nijìn	ADV	_	_	2	advmod	_	Gloss=where
-2	gwinch’ìi	gwich’ìi	VERB	_	_	0	root	_	Gloss=you live|SpaceAfter=No
+2	gwinch’ìi	gwich’ìi	VERB	_	_	0	root	_	Gloss=you live|MSeg=gwï-in-ch’ìi|MGloss=AR-2SG.IPFV.Ø-live.IPFV|SpaceAfter=No
 3	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 263
 # text = Geech’oohaałtan eenjit gogwal’èe.
 # text_en = I am studying to teach.
 1	Geech’oohaałtan	geech'oąąhtan	VERB	_	_	3	advcl	_	Gloss=I will teach
-2	eenjit	eenjit	SCONJ	_	_	1	mark	_	_
+2	eenjit	eenjit	SCONJ	_	_	1	mark	_	Gloss=for
 3	gogwal’èe	gogwaa’èe	VERB	_	_	0	root	_	Gloss=I am studying|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
@@ -1823,13 +1823,13 @@
 # text_en = I live in Fort Yukon.
 1	Gwichyaa	gwichyaa	PROPN	_	_	2	compound	_	Gloss=a wide, flat area of land
 2	Zheh	zheh	NOUN	_	_	3	obj	_	Gloss=house
-3	gwihch’ìi	gwich’ìi	VERB	_	_	0	root	_	Gloss=I live (somewhere)|SpaceAfter=No
+3	gwihch’ìi	gwich’ìi	VERB	_	_	0	root	_	Gloss=I live (somewhere)|MSeg=gwï-ih-ch’ìi|MGloss=AR-1SG.IPFV.Ø-live.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 266
 # text = Voozhrì’ John òozhìi.
 # text_en = His name is John. 
-1	Voozhrì’	voozhrì’	NOUN	_	_	3	nsubj	_	Gloss=his name|MSeg=v-oozhrì’
+1	Voozhrì’	voozhrì’	NOUN	_	_	3	nsubj	_	Gloss=his name|MSeg=vï-oozhrì’|MGloss=3SG.POSS-name
 2	John	John	PROPN	_	_	3	obj	_	Gloss=John
 3	òozhìi	òozhìi	VERB	_	_	0	root	_	Gloss=it is called|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1838,20 +1838,20 @@
 # text = Nijuk inhàa?
 # text_en = Where are you going? 
 1	Nijuk	nijùk	ADV	_	_	2	advmod	_	Gloss=to where
-2	inhàa	ahàa	VERB	_	_	0	root	_	Gloss=you go (walk)|SpaceAfter=No
+2	inhàa	ahàa	VERB	_	_	0	root	_	Gloss=you go (walk)|MSeg=in-hàa|MGloss=2SG.IPFV.Ø-go.IPFV|SpaceAfter=No
 3	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 268
 # text = Neenahąąl’yàa.
 # text_en = I’ll see you.
-1	Neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|SpaceAfter=No
+1	Neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|MSeg=nee#-nï-hï-nï-al-'yàa|MGloss=ITER#2O-FUT-CNJ-1SG.FUT+L-see.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 269
-# text = Nant'ee Neenahąąl’yàa.
+# text = Nant'ee neenahąąl’yàa.
 # text_en = I’ll see you too.
 1	Nant'ee	nant'ee	ADV	_	_	2	advmod	_	Gloss=you too
-2	Neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|SpaceAfter=No
+2	neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 270
