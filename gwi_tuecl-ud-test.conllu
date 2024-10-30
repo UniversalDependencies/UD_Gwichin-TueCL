@@ -1684,7 +1684,7 @@
 # text_en = We camped many times going down and finally at my brother-in-law Philip Peters' place called Khiitsik, we arrived. 
 1	Gwatthàn	ootthàn	ADV	_	_	3	advmod	_	Gloss=toward a short distance downland, or towards the river|MSeg=gwï-tthàn|MGloss=AR-downland.ALL
 2	gwilin	gwilin	ADV	_	_	3	advmod	_	Gloss=many times
-3	trą̀ą̀hàa	niihaa	VERB	_	_	0	root	_	Gloss=we camped for the night|MSeg=trï-nï-ah-hàa|MGloss=1PL-CNJ-3SG.PFV.Ł-camp for the night|SpaceAfter=No
+3	trą̀ą̀hàa	niihaa	VERB	_	_	0	root	_	Gloss=we camped for the night|MSeg=trï-nï-ah-hàa|MGloss=1PL-CNJ-3SG.PFV.Ł-camp for the night
 4	gohch’it	gohch'it	ADV	_	_	13	advmod	_	Gloss=finally
 5	dèe	dèe	X	_	_	4	fixed	_	Gloss=PART
 6	shaghoii	vaghwaii	NOUN	_	_	9	nmod	_	Gloss=my brother-in-law|MSeg=shï-ghoii|MGloss=1SG.POSS-brother-in-law
