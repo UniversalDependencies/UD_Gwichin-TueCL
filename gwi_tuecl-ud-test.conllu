@@ -224,7 +224,6 @@
 # text = Ch’a’àa.
 # text_en = She is eating something., He is eating something., It is eating something. 
 1	Ch’a’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=She is eating something|MSeg=ch’ï-ï-’àa|MGloss=INDF-3SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
-
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 38
