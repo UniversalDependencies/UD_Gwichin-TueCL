@@ -437,7 +437,7 @@
 # sent_id = 71
 # text = Agal.
 # text_en = He is running., She is running. 
-1	Agal	agal	VERB	_	_	0	root	_	Gloss=he is running|MSeg=a-gal|MGloss=3SG.IPFV.L-run.IPFV|SpaceAfter=No 
+1	Agal	agal	VERB	_	_	0	root	_	Gloss=he is running|MSeg=a-gal|MGloss=3SG.IPFV.L-run.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 72
@@ -688,7 +688,7 @@
 # text = Dak al'èe.
 # text_en = I am lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	al'èe	_	VERB	_	_	0	root	_	MSeg=al-'ee|MGloss=1SG.IPFV.L-lie.IPFV|SpaceAfter=No  
+2	al'èe	_	VERB	_	_	0	root	_	MSeg=al-'ee|MGloss=1SG.IPFV.L-lie.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 112
@@ -944,7 +944,7 @@
 # sent_id = 152
 # text = Hałtsyaa.
 # text_en = I will make it.
-1	Hałtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=I will make it|MSeg=hï-ał-tsyaa|Gloss=FUT-1SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
+1	Hałtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=I will make it|MSeg=hï-ał-tsyaa|MGloss=FUT-1SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 153
