@@ -172,19 +172,19 @@
 # sent_id = 29
 # text = Ch’ihtł’uu.
 # text_en = I am knitting something. 
-1	Ch’ihtł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=I am knitting something|MSeg=ch’i-ih-tł’uu|MGloss=|SpaceAfter=No
+1	Ch’ihtł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=I am knitting something|MSeg=ch’i-ih-tł’uu|MGloss=INDF-1SG.IPFV.DYN.Ø-knit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 30
 # text = Ch’intł’uu.
 # text_en = You are knitting something. 
-1	Ch’intł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=You are knitting something|MSeg=ch’i-in-tł’uu|SpaceAfter=No
+1	Ch’intł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=You are knitting something|MSeg=ch’i-in-tł’uu|MGloss=INDF-2SG.IPFV.DYN.Ø-knit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 31
 # text = Ch’itł’uu.
 # text_en = He is knitting something. 
-1	Ch’itł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=He is knitting something|MSeg=ch’i-i-tł’uu|SpaceAfter=No
+1	Ch’itł’uu	ch'itł’uu	VERB	_	_	0	root	_	Gloss=He is knitting something|MSeg=ch’i-i-tł’uu|MGloss=INDF-3SG.IPFV.DYN.Ø-knit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 32
@@ -211,19 +211,20 @@
 # sent_id = 35
 # text = Ch’ih’àa.
 # text_en = I am eating something. 
-1	Ch’ih’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=I am eating something|MSeg=ch’ï-ih-’àa|SpaceAfter=No
+1	Ch’ih’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=I am eating something|MSeg=ch’ï-ih-’àa|MGloss=INDF-1SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 36
 # text = Ch’in’àa.
 # text_en = You are eating something. 
-1	Ch’in’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=You are eating something|MSeg=ch’ï-in-’àa|SpaceAfter=No
+1	Ch’in’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=You are eating something|MSeg=ch’ï-in-’àa|MGloss=INDF-2SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 37
 # text = Ch’a’àa.
 # text_en = She is eating something., He is eating something., It is eating something. 
-1	Ch’a’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=She is eating something|MSeg=ch’ï-ï-’àa|SpaceAfter=No
+1	Ch’a’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=She is eating something|MSeg=ch’ï-ï-’àa|MGloss=INDF-3SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
+
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 38
@@ -368,19 +369,19 @@
 # sent_id = 60
 # text = Ch’iihtth’ak.
 # text_en = I hear something.
-1	Ch’iihtth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=I hear something|MSeg=ch'ï-dï-ih-tth'ak|SpaceAfter=No
+1	Ch’iihtth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=I hear something|MSeg=ch'ï-dï-ih-tth'ak|MGloss=INDF-CNJ-1SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 61
 # text = Ch’iintth’ak.
 # text_en = You hear something.
-1	Ch’iintth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=You hear something|MSeg=ch'ï-dï-in-tth'ak|SpaceAfter=No
+1	Ch’iintth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=You hear something|MSeg=ch'ï-dï-in-tth'ak|MGloss=INDF-CNJ-2SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 62
 # text = Ch’iitth’ak.
-# text_en = He hears something., She hears something.
-1	Ch’iitth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=He hears something|MSeg=ch'ï-dï-ï-tth'ak|SpaceAfter=No
+# text_en = S/he hears something.
+1	Ch’iitth’ak	ch’iitth’ak	VERB	_	_	0	root	_	Gloss=He hears something|MSeg=ch'ï-dï-ï-tth'ak|MGloss=INDF-CNJ-3SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 63
@@ -473,7 +474,7 @@
 # sent_id = 77
 # text = Ch’iihłii.
 # text_en = I am singing something.
-1	Ch’iihłii	ch'iilii	VERB	_	_	0	root	_	Gloss=I am singing something|MSeg=ch’i-ih-łii|SpaceAfter=No
+1	Ch’iihłii	ch'iilii	VERB	_	_	0	root	_	Gloss=I am singing something|MSeg=ch’i-ih-łii|MGloss=INDF-1SG.IPFV.DYN.Ø-sing.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 78
@@ -536,7 +537,7 @@
 # sent_id = 87
 # text = Ch’ishinii.
 # text_en = I am drinking something.
-1	Ch’ishinii	ch’ishinii	VERB	_	_	0	root	_	Gloss=I am drinking something|MSeg=ch'i-shi-nii|SpaceAfter=No
+1	Ch’ishinii	ch’ishinii	VERB	_	_	0	root	_	Gloss=I am drinking something|MSeg=ch'i-shi-nii|MGloss=INDF-1SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 88
@@ -602,19 +603,19 @@
 # sent_id = 98
 # text = Ch’ara’àa.
 # text_en = We are eating something.
-1	Ch’ara’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=we are eating something|MSeg=ch’a-r-a-’àa|SpaceAfter=No
+1	Ch’ara’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=we are eating something|MSeg=ch’ï-tr'ï-ï-’àa|MGloss=INDF-1PL-3SG.IPFV.Ø-eat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 99
 # text = Ch’oh’àa.
 # text_en = You guys are eating something.
-1	Ch’oh’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=you guys are eating|MSeg=ch’-oh-’àa|SpaceAfter=No
+1	Ch’oh’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=you guys are eating|MSeg=ch’ï-oh-’àa|MGloss=INDF-2PL.IPFV.Ø-eat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 100
 # text = Ch’aga’àa.
 # text_en = They are eating something.
-1	Ch’aga’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=they are eating|MSeg=ch’a-g-a-’àa|SpaceAfter=No
+1	Ch’aga’àa	ch’a’àa	VERB	_	_	0	root	_	Gloss=they are eating|MSeg=ch’ï-gï-ï-’àa|MGloss=INDF-3PL-3SG.IPFV.Ø-eat.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 101
@@ -994,73 +995,73 @@
 # sent_id = 160
 # text = Ch'ishinii.
 # text_en = I am drinking something.
-1	Ch'ishinii	yinii	VERB	_	_	0	root	_	Gloss=I am drinking something|MSeg=chï-shï-nii|SpaceAfter=No
+1	Ch'ishinii	yinii	VERB	_	_	0	root	_	Gloss=I am drinking something|MSeg=chï-shï-nii|MGloss=INDF-1SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 161
 # text = Ch'ininii.
 # text_en = You are drinking something.
-1	Ch'ininii	yinii	VERB	_	_	0	root	_	Gloss=you are drinking something|MSeg=chï-nï-nii|SpaceAfter=No
+1	Ch'ininii	yinii	VERB	_	_	0	root	_	Gloss=you are drinking something|MSeg=chï-nï-nii|MGloss=INDF-2SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 162
 # text = Ch'iinii.
 # text_en = He is drinking something., She is drinking something.
-1	Ch'iinii	yinii	VERB	_	_	0	root	_	Gloss=he is drinking something|MSeg=chï-dï-nii|SpaceAfter=No
+1	Ch'iinii	yinii	VERB	_	_	0	root	_	Gloss=he is drinking something|MSeg=chï-dï-nii|MGloss=INDF-3SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 163
 # text = Ch'ir'iinii.
 # text_en = We are drinking something.
-1	Ch'ir'iinii	yinii	VERB	_	_	0	root	_	Gloss=we are drinking something|MSeg=ch'ï-tr'ï-ii-nii|SpaceAfter=No
+1	Ch'ir'iinii	yinii	VERB	_	_	0	root	_	Gloss=we are drinking something|MSeg=ch'ï-tr'ï-ii-nii|MGloss=INDF-1PL-3SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 164
 # text = Ch'akhwanii.
 # text_en = You guys are drinking something.
-1	Ch'akhwanii	yinii	VERB	_	_	0	root	_	Gloss=you guys are drinking something|MSeg=chï-akhwan-nii|SpaceAfter=No
+1	Ch'akhwanii	yinii	VERB	_	_	0	root	_	Gloss=you guys are drinking something|MSeg=chï-akhwan-nii|MGloss=INDF-2PL.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 165
 # text = Ch'igiinii.
 # text_en = They are drinking something.
-1	Ch'igiinii	yinii	VERB	_	_	0	root	_	Gloss=they are drinking something|MSeg=ch'ï-gï-ii-nii|SpaceAfter=No
+1	Ch'igiinii	yinii	VERB	_	_	0	root	_	Gloss=they are drinking something|MSeg=ch'ï-gï-ii-nii|MGloss=INDF-3PL-3SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 166
 # text = Ch'ihishinjyaa.
 # text_en = I will drink something.
-1	Ch'ihishinjyaa	yinii	VERB	_	_	0	root	_	Gloss=I will drink something|MSeg=chï-hï-shï-njyaa|SpaceAfter=No
+1	Ch'ihishinjyaa	yinii	VERB	_	_	0	root	_	Gloss=I will drink something|MSeg=chï-hï-shï-njyaa|MGloss=INDF-FUT-1SG.FUT.D-drink.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 167
 # text = Ch'ihininjyaa.
 # text_en = You will drink something.
-1	Ch'ihininjyaa	yinii	VERB	_	_	0	root	_	Gloss=you will drink something|MSeg=chï-hï-nï-njyaa|SpaceAfter=No
+1	Ch'ihininjyaa	yinii	VERB	_	_	0	root	_	Gloss=you will drink something|MSeg=chï-hï-nï-njyaa|MGloss=INDF-FUT-2SG.FUT.D-drink.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 168
 # text = Ch'iheenjyaa.
 # text_en = He will drink something.
-1	Ch'iheenjyaa	yinii	VERB	_	_	0	root	_	Gloss=he will drink something|MSeg=chï-hï-ee-njyaa|SpaceAfter=No
+1	Ch'iheenjyaa	yinii	VERB	_	_	0	root	_	Gloss=he will drink something|MSeg=chï-hï-ee-njyaa|MGloss=INDF-FUT-3SG.FUT.D-drink.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 169
 # text = Ch'iriheenjyaa.
 # text_en = We will drink something.
-1	Ch'iriheenjyaa	yinii	VERB	_	_	0	root	_	Gloss=we will drink something|MSeg=chï-tr'ï-hï-ee-njyaa|SpaceAfter=No
+1	Ch'iriheenjyaa	yinii	VERB	_	_	0	root	_	Gloss=we will drink something|MSeg=chï-tr'ï-hï-ee-njyaa|MGloss=INDF-1PL-FUT-3SG.FUT.D-drink.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 170
 # text = Ch'ahakhwanjyaa.
 # text_en = You guys will drink something.
-1	Ch'ahakhwanjyaa	yinii	VERB	_	_	0	root	_	Gloss=you guys will drink something|MSeg=chï-hï-khwa-njyaa|SpaceAfter=No
+1	Ch'ahakhwanjyaa	yinii	VERB	_	_	0	root	_	Gloss=you guys will drink something|MSeg=chï-hï-khwa-njyaa|MGloss=INDF-FUT-2PL.FUT.D-drink.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 171
 # text = Ch'igiheenjyaa.
 # text_en = You guys will drink something.
-1	Ch'igiheenjyaa	yinii	VERB	_	_	0	root	_	Gloss=you guys will drink something|MSeg=chï-gï-hï-ee-njyaa|SpaceAfter=No
+1	Ch'igiheenjyaa	yinii	VERB	_	_	0	root	_	Gloss=you guys will drink something|MSeg=chï-gï-hï-ee-njyaa|MGloss=INDF-3PL-FUT-3SG.FUT.D-drink.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 172
@@ -1473,15 +1474,15 @@
 # text = Kǫ’ shintł’intin yindhan?
 # text_en = Please give me a match. (polite)
 1	Kǫ’	kǫ’	NOUN	_	_	2	obj	_	Gloss=match
-2	shintł’intin	_	VERB	_	_	3	ccomp	_	Gloss=you hand me|MSeg=shï-ntł’ï-in-tin
-3	yindhan	yiyindhan	VERB	_	_	0	root	_	Gloss=do you want|MSeg=yï-in-dhan|SpaceAfter=No
+2	shintł’intin	_	VERB	_	_	3	ccomp	_	Gloss=you hand me|MSeg=shï-ntł’ï-in-tin|1SG.POSS-palm-2SG.IPFV.Ø-stick-like in position
+3	yindhan	yiyindhan	VERB	_	_	0	root	_	Gloss=do you want|MSeg=yï-in-dhan|MGloss=3O-2SG.IPFV.Ø-want.IPFV|SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 231
 # text = Vakǫ̀ nàanaii.
 # text_en = He dropped his hot ember.
-1	Vakǫ̀	kǫ’	NOUN	_	_	2	obj	_	Gloss=his hot ember
-2	nàanaii	_	VERB	_	_	0	root	_	Gloss=he dropped|SpaceAfter=No
+1	Vakǫ̀	kǫ’	NOUN	_	_	2	obj	_	Gloss=his hot ember|MSeg=vï-kǫ’|MGloss=3SG.POSS-ember
+2	nàanaii	_	VERB	_	_	0	root	_	Gloss=he dropped|MSeg=nï-àa-naii|MGloss=CNJ-3SG.PFV.L-drop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 232
@@ -1491,29 +1492,29 @@
 2	tr’injaa	tr’injaa	NOUN	_	_	5	nsubj	_	Gloss=woman
 3	ląįį	ląįį	NOUN	_	_	5	obj	_	Gloss=dog
 4	tsal	tsal	ADJ	_	_	3	amod	_	Gloss=small
-5	ahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she carries animate|MSeg=ah-chyaa|MGloss=3SG.IMPFV+Ł-carry animate|SpaceAfter=No
+5	ahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she carries animate|MSeg=ah-chyaa|MGloss=3SG.IPFV+Ł-carry animate|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 233
 # text = Khit yahchyaa.
 # text_en = She always carries it. 
 1	Khit	kit	ADV	_	_	2	advmod	_	Gloss=always
-2	yahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she carries animate|MSeg=yï-ah-chyaa|MGloss=3.O-3SG.IMPFV+Ł-carry animate|SpaceAfter=No
+2	yahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she carries animate|MSeg=yï-ah-chyaa|MGloss=3O-3SG.IPFV+Ł-carry animate|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 234
 # text = Ch'ahan digii ahchyaa.
 # text_en = The mother is carrying her child.
-1	Ch'ahan	vahan	NOUN	_	_	3	nsubj	_	Gloss=mother
-2	digii	gii	NOUN	_	_	3	obj	_	Gloss=her own child
-3	ahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she is carrying|SpaceAfter=No
+1	Ch'ahan	vahan	NOUN	_	_	3	nsubj	_	Gloss=mother|MSeg=ch’ï-han|MGloss=INDF.POSS-mother
+2	digii	gii	NOUN	_	_	3	obj	_	Gloss=her own child|MSeg=dï-gii|MGloss=3SG.REFL.POSS-child
+3	ahchyaa	yahchyaa	VERB	_	_	0	root	_	Gloss=she is carrying animate|MSeg=ah-chyaa|MGloss=3SG.IPFV+Ł-carry animate|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 235
 # text = Ts'at nakhwantł’agahahtsuu.
 # text_en = They’ll give you guys a blanket.
 1	Ts'at	ts'at	NOUN	_	_	2	obj	_	Gloss=blanket
-2	nakhwantł’agahahtsuu	_	VERB	_	_	0	root	_	Gloss=they'll give you guys|MSeg=nakhwï-ntł’ï-gï-hï-ah-tsuu|MGloss=2PL.POSS-palm-PL-FUT-3SG+Ł-position_clothlike|SpaceAfter=No
+2	nakhwantł’agahahtsuu	_	VERB	_	_	0	root	_	Gloss=they'll give you guys cloth-like|MSeg=nakhwï-ntł’ï-gï-hï-ah-tsuu|MGloss=2PL.POSS-palm-PL-FUT-3SG+Ł-position_clothlike|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 236
@@ -1577,7 +1578,7 @@
 6	thah	thah	NOUN	_	_	9	obj	_	Gloss=belt
 7	zhrąįį	zhrąįį	ADJ	_	_	6	amod	_	Gloss=black
 8	chan	chan	ADV	_	_	9	advmod	_	Gloss=also
-9	nantsuu	_	VERB	_	_	11	advcl	_	MSeg=nï-an-tsuu|MGloss=CNJ-2SG.IMPFV+L-wear on upper body
+9	nantsuu	_	VERB	_	_	11	advcl	_	Gloss=you are wearing upper garments|MSeg=nï-an-tsuu|MGloss=CNJ-2SG.IMPFV+L-wear on upper body
 10	jì’	jì’	SCONJ	_	_	9	mark	_	Gloss=if
 11	gwiheezyàa	gwinzii	VERB	_	_	0	root	_	Gloss=it will be good|MSeg=gwï-hï-ee-zyàa|MGloss=AR-FUT-3SG+Ø-be good.FUT|SpaceAfter=No
 12	.	_	PUNCT	_	_	11	punct	_	_
@@ -1607,7 +1608,7 @@
 # text = Ah nirinlii.
 # text_en = We put down spruce boughs.
 1	Ah	ah	NOUN	_	_	2	obj	_	Gloss=spruce branch; spruce bough (with needles)
-2	nirinlii	_	VERB	_	_	0	root	_	Gloss=we put down plural|SpaceAfter=No
+2	nirinlii	_	VERB	_	_	0	root	_	Gloss=we put down plural|MSeg=nï-tr'ï-in-dlii|MGloss=CNJ-1PL-3SG.PFV+Ø-position plural/rope-like|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 245
@@ -1616,7 +1617,7 @@
 1	Kwaiitryah	kwaiitryah	NOUN	_	_	4	obj	_	Gloss=shoes; moccasins; slippers
 2	k'eejit	k'eejit	ADJ	_	_	1	amod	_	Gloss=new
 3	nihk'eh'àn	_	ADV	_	_	4	advmod	_	Gloss=together
-4	nakhwantł’eenlii	_	VERB	_	_	0	root	_	Gloss=s/he gave plural/rope-like|SpaceAfter=No
+4	nakhwantł’eenlii	_	VERB	_	_	0	root	_	Gloss=s/he gave plural/rope-like|MSeg=nakhwï-ntł’ee-in-dlii|MGloss=2PL.POSS-palm-3SG.PFV+Ø-position plural/rope-like|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 246
