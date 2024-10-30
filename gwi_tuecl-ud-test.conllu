@@ -1155,217 +1155,217 @@
 
 # sent_id = 187
 # text = Dhałts’ik.
-# text_en = I am sick. 
-1	Dhałts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=I am sick|MSeg=dhï-ał-ts’ik|SpaceAfter=No
+# text_en = I am sick.
+1	Dhałts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=I am sick|MSeg=dhï-ał-ts’ik|MGloss=CNJ-1SG.IPFV.Ł-sick.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 188
 # text = Dhąhts’ik.
-# text_en = You are sick. 
-1	Dhąhts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=you are sick|MSeg=dhï-ąh-ts’ik|SpaceAfter=No
+# text_en = You are sick.
+1	Dhąhts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=you are sick|MSeg=dhï-ąh-ts’ik|MGloss=CNJ-2SG.IPFV.Ł-sick.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 189
 # text = Iłts’ik.
 # text_en = He is sick. 
-1	Iłts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=he is sick|MSeg=ił-ts’ik|SpaceAfter=No
+1	Iłts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=he is sick|MSeg=ił-ts’ik|MGloss=3SG.IPFV.Ł-sick.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 190
 # text = Tr’iłts’ik.
 # text_en = We are sick. 
-1	Tr’iłts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=we are sick|MSeg=tr'ï-ił-ts’ik|SpaceAfter=No
+1	Tr’iłts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=we are sick|MSeg=tr'ï-ił-ts’ik|MGloss=1PL-3SG.IPFV.Ł-sick.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 191
 # text = Dhohts’ik.
 # text_en = You guys are sick. 
-1	Dhohts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=you guys are sick|MSeg=dhï-oh-ts’ik|SpaceAfter=No
+1	Dhohts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=you guys are sick|MSeg=dhï-oh-ts’ik|MGloss=CNJ-2PL.IPFV.Ł-sick.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 192
 # text = Giłts’ik.
 # text_en = They are sick. 
-1	Giłts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=they are sick|MSeg=gï-ił-ts’ik|SpaceAfter=No
+1	Giłts’ik	iłts’ik	VERB	_	_	0	root	_	Gloss=they are sick|MSeg=gï-ił-ts’ik|MGloss=3PL-3SG.IPFV.Ł-sick.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 193
 # text = Traa ihkyaa.
 # text_en = I am chopping wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	ihkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=I am chopping|SpaceAfter=No
+2	ihkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=I am chopping|MSeg=ih-kyaa|MGloss=1SG.IPFV.DYN.Ø-chop.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 194
 # text = Traa inkyaa.
 # text_en = You are chopping wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	inkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you are chopping|SpaceAfter=No
+2	inkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you are chopping|MSeg=in-kyaa|MGloss=2SG.IPFV.DYN.Ø-chop.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 195
 # text = Traa ikyaa.
 # text_en = He is chopping wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	ikyaa	ikyaa	VERB	_	_	0	root	_	Gloss=s/he is chopping|SpaceAfter=No
+2	ikyaa	ikyaa	VERB	_	_	0	root	_	Gloss=s/he is chopping|MSeg=ï-kyaa|MGloss=3SG.IPFV.DYN.Ø-chop.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 196
 # text = Traa tr'ikyaa.
 # text_en = We are chopping wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	tr'ikyaa	ikyaa	VERB	_	_	0	root	_	Gloss=we are chopping|SpaceAfter=No
+2	tr'ikyaa	ikyaa	VERB	_	_	0	root	_	Gloss=we are chopping|MSeg=tr'ï-ï-kyaa|MGloss=1PL-3SG.IPFV.DYN.Ø-chop.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 197
 # text = Traa ohkyaa.
 # text_en = You guys are chopping wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	ohkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you guys are chopping|SpaceAfter=No
+2	ohkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you guys are chopping|MSeg=oh-kyaa|MGloss=2PL.IPFV.DYN.Ø-chop.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 198
 # text = Traa gikyaa.
 # text_en = They are chopping wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	gikyaa	ikyaa	VERB	_	_	0	root	_	Gloss=they are chopping|SpaceAfter=No
+2	gikyaa	ikyaa	VERB	_	_	0	root	_	Gloss=they are chopping|MSeg=gï-ï-kyaa|MGloss=3PL-3SG.IPFV.DYN.Ø-chop.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 199
 # text = Traa iikil.
 # text_en = I chopped wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	iikil	ikyaa	VERB	_	_	0	root	_	Gloss=I chopped|SpaceAfter=No
+2	iikil	ikyaa	VERB	_	_	0	root	_	Gloss=I chopped|MSeg=ii-kil|MGloss=1SG.PFV.DYN.Ø-chop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 200
 # text = Traa inkil.
 # text_en = You chopped wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	inkil	ikyaa	VERB	_	_	0	root	_	Gloss=you chopped|SpaceAfter=No
+2	inkil	ikyaa	VERB	_	_	0	root	_	Gloss=you chopped|MSeg=in-kil|MGloss=2SG.PFV.DYN.Ø-chop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 201
 # text = Traa inkil.
 # text_en = He chopped wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	inkil	ikyaa	VERB	_	_	0	root	_	Gloss=s/he chopped|SpaceAfter=No
+2	inkil	ikyaa	VERB	_	_	0	root	_	Gloss=s/he chopped|MSeg=in-kil|MGloss=3SG.PFV.DYN.Ø-chop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 202
 # text = Traa tr'inkil.
 # text_en = We chopped wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	tr'inkil	ikyaa	VERB	_	_	0	root	_	Gloss=we chopped|SpaceAfter=No
+2	tr'inkil	ikyaa	VERB	_	_	0	root	_	Gloss=we chopped|MSeg=tr'ï-in-kil|MGloss=1PL-3SG.PFV.DYN.Ø-chop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 203
 # text = Traa ookil.
 # text_en = You guys chopped wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	ookil	ikyaa	VERB	_	_	0	root	_	Gloss=you guys chopped|SpaceAfter=No
+2	ookil	ikyaa	VERB	_	_	0	root	_	Gloss=you guys chopped|MSeg=oo-kil|MGloss=2PL.PFV.DYN.Ø-chop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 204
 # text = Traa ginkil.
 # text_en = They chopped wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	ginkil	ikyaa	VERB	_	_	0	root	_	Gloss=they chopped|SpaceAfter=No
+2	ginkil	ikyaa	VERB	_	_	0	root	_	Gloss=they chopped|MSeg=gï-in-kil|MGloss=3PL-3SG.PFV.DYN.Ø-chop.PFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 205
 # text = Traa hihkyaa.
 # text_en = I will chop wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	hihkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=I will chop|SpaceAfter=No
+2	hihkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=I will chop|MSeg=hï-ih-kyaa|MGloss=FUT-1SG.FUT.Ø-chop.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 206
 # text = Traa hinkyaa.
 # text_en = You will chop wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	hinkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you will chop|SpaceAfter=No
+2	hinkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you will chop|MSeg=hï-in-kyaa|MGloss=FUT-2SG.FUT.Ø-chop.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 207
 # text = Traa heekyaa.
 # text_en = He will chop wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	heekyaa	ikyaa	VERB	_	_	0	root	_	Gloss=s/he will chop|SpaceAfter=No
+2	heekyaa	ikyaa	VERB	_	_	0	root	_	Gloss=s/he will chop|MSeg=hï-ee-kyaa|MGloss=FUT-3SG.FUT.Ø-chop.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 208
 # text = Traa tr'iheekyaa.
 # text_en = We will chop wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	tr'iheekyaa	ikyaa	VERB	_	_	0	root	_	Gloss=we will chop|SpaceAfter=No
+2	tr'iheekyaa	ikyaa	VERB	_	_	0	root	_	Gloss=we will chop|MSeg=tr'ï-hï-ee-kyaa|MGloss=1PL-FUT-3SG.FUT.Ø-chop.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 209
 # text = Traa hohkyaa.
 # text_en = You guys will chop wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	hohkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you guys will chop|SpaceAfter=No
+2	hohkyaa	ikyaa	VERB	_	_	0	root	_	Gloss=you guys will chop|MSeg=hï-oh-kyaa|MGloss=FUT-2PL.FUT.Ø-chop.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 210
 # text = Traa giheekyaa.
 # text_en = They will chop wood.
 1	Traa	traa	NOUN	_	_	2	obj	_	Gloss=wood
-2	giheekyaa	ikyaa	VERB	_	_	0	root	_	Gloss=they will chop|SpaceAfter=No
+2	giheekyaa	ikyaa	VERB	_	_	0	root	_	Gloss=they will chop|MSeg=gï-hï-ee-kyaa|MGloss=3PL-FUT-3SG.FUT.Ø-chop.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 211
 # text = Ch'adhah ihthòo.
 # text_en = I am scraping skin.
-1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin
-2	ihthòo	yadhoo	VERB	_	_	0	root	_	Gloss=I am scraping|SpaceAfter=No
+1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin|MSeg=ch’ï-dhòo|MGloss=INDF.POSS-skin
+2	ihthòo	yadhoo	VERB	_	_	0	root	_	Gloss=I am scraping|MSeg=ih-dhòo|MGloss=1SG.IPFV.DYN.Ø-scrape.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 212
 # text = Ch'adhah indhòo.
 # text_en = You are scraping skin.
-1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin
-2	indhòo	yadhoo	VERB	_	_	0	root	_	Gloss=you are scraping|SpaceAfter=No
+1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin|MSeg=ch’ï-dhòo|MGloss=INDF.POSS-skin
+2	indhòo	yadhoo	VERB	_	_	0	root	_	Gloss=you are scraping|MSeg=in-dhòo|MGloss=2SG.IPFV.DYN.Ø-scrape.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 213
 # text = Ch'adhah adhòo.
 # text_en = He is scraping skin.
-1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin
-2	adhòo	yadhoo	VERB	_	_	0	root	_	Gloss=s/he is scraping|SpaceAfter=No
+1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin|MSeg=ch’ï-dhòo|MGloss=INDF.POSS-skin
+2	adhòo	yadhoo	VERB	_	_	0	root	_	Gloss=s/he is scraping|MSeg=ï-dhòo|MGloss=3SG.IPFV.DYN.Ø-scrape.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 214
 # text = Ch'adhah tr’eedhòo.
 # text_en = We are scraping skin.
-1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin
-2	tr’eedhòo	yadhoo	VERB	_	_	0	root	_	Gloss=we are scraping|SpaceAfter=No
+1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin|MSeg=ch’ï-dhòo|MGloss=INDF.POSS-skin
+2	tr’eedhòo	yadhoo	VERB	_	_	0	root	_	Gloss=we are scraping|MSeg=tr’ï-ee-dhòo|MGloss=1PL-3SG.IPFV.DYN.Ø-scrape.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 215
 # text = Ch'adhah ohthòo.
 # text_en = You guys are scraping skin.
-1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin
-2	ohthòo	yadhoo	VERB	_	_	0	root	_	Gloss=you guys are scraping|SpaceAfter=No
+1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin|MSeg=ch’ï-dhòo|MGloss=INDF.POSS-skin
+2	ohthòo	yadhoo	VERB	_	_	0	root	_	Gloss=you guys are scraping|MSeg=oh-dhòo|MGloss=2PL.IPFV.DYN.Ø-scrape.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 216
 # text = Ch'adhah gadhòo.
 # text_en = They are scrapping skin.
-1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin
-2	gadhòo	yadhoo	VERB	_	_	0	root	_	Gloss=they are scraping|SpaceAfter=No
+1	Ch'adhah	ch’adhah	NOUN	_	_	2	obj	_	Gloss=skin|MSeg=ch’ï-dhòo|MGloss=INDF.POSS-skin
+2	gadhòo	yadhoo	VERB	_	_	0	root	_	Gloss=they are scraping|MSeg=gï-ï-dhòo|MGloss=3PL-3SG.IPFV.DYN.Ø-scrape.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 217
 # text = Adlaa ts’ą̀’ ddha kak dideezhùu dîitth’àk.
 # text_en = S/he is laughing and hears her/his echo on the mountain.
-1	Adlaa	adlaa	VERB	_	_	0	root	_	Gloss=He is laughing|MSeg=a-dlaa|MGloss=
+1	Adlaa	adlaa	VERB	_	_	0	root	_	Gloss=He is laughing|MSeg=a-dlaa|MGloss=3SG.IPFV.DYN.Ø-laugh.IPFV
 2	ts’ą̀’	ts’ą̀’	CCONJ	_	_	6	cc	_	Gloss=and
 3	ddha	ddha	NOUN	_	_	6	obl	_	Gloss=mountain
 4	kak	kak	ADP	_	_	3	case	_	Gloss=on
-5	dideezhùu	videezhuh	NOUN	_	_	6	obj	_	Gloss=his own voice|MSeg=dï-deezhùu
-6	dîitth’àk	ch’iitth’ak	VERB	_	_	1	conj	_	Gloss=he hears|SpaceAfter=No
+5	dideezhùu	videezhuh	NOUN	_	_	6	obj	_	Gloss=his own voice|MSeg=dï-deezhùu|MGloss=3SG.REFL.POSS-voice
+6	dîitth’àk	ch’iitth’ak	VERB	_	_	1	conj	_	Gloss=s/he hears|MSeg=dï-ï-tth’àk|MGloss=CNJ-3SG.IPFV.DYN.Ø-hear.IPFV|SpaceAfter=No
 7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 218
@@ -1374,14 +1374,14 @@
 1	Shih	shih	NOUN	_	_	4	nsubj	_	Gloss=bear
 2	tthoo	atthoo	ADJ	_	_	1	amod	_	Gloss=brown
 3	jak	jak	NOUN	_	_	4	obj	_	Gloss=berry
-4	a'àa	ya’àa	VERB	_	_	0	root	_	Gloss=it is eating|MSeg=ï-'àa|SpaceAfter=No
+4	a'àa	ya’àa	VERB	_	_	0	root	_	Gloss=it is eating|MSeg=ï-'àa|MGloss=3SG.IPFV.DYN.Ø-eat.IPFV|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 219
 # text = Łuk kèeshi’ìn.
 # text_en = I am fishing.
 1	Łuk	łuk	NOUN	_	_	2	obj	_	Gloss=fish
-2	kèeshi’ìn	kèe’ìn	VERB	_	_	0	root	_	Gloss=I am fishing|MSeg=kèe-shï-’ìn|SpaceAfter=No
+2	kèeshi’ìn	kèe’ìn	VERB	_	_	0	root	_	Gloss=I am fishing|MSeg=kèe-shï-’ìn|MGloss=?-1SG.IPFV.D-fish.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 220
@@ -1389,7 +1389,7 @@
 # text_en = I'm fishing for king salmon.
 1	Łuk	łuk	NOUN	_	_	3	obj	_	Gloss=fish
 2	choo	choo	ADJ	_	_	1	amod	_	Gloss=big
-3	kèeshi’ìn	kèe’ìn	VERB	_	_	0	root	_	Gloss=I am fishing|MSeg=kèe-shï-’ìn|SpaceAfter=No
+3	kèeshi’ìn	kèe’ìn	VERB	_	_	0	root	_	Gloss=I am fishing|MSeg=kèe-shï-’ìn|MGloss=?-1SG.IPFV.D-fish.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 221
@@ -1397,7 +1397,7 @@
 # text_en = He is hunting for caribou.
 1	Vadzaih	vadzaih	NOUN	_	_	3	obl	_	Gloss=caribou
 2	eenjit	eenjit	ADP	_	_	1	case	_	Gloss=for
-3	naazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|SpaceAfter=No
+3	naazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 222
@@ -1405,7 +1405,7 @@
 # text_en = I am hunting for moose.
 1	Dinjik	dinjik	NOUN	_	_	3	obl	_	Gloss=moose
 2	eenjit	eenjit	ADP	_	_	1	case	_	Gloss=for
-3	nalzhrii	naazhrii	VERB	_	_	0	root	_	Gloss=I am hunting|MSeg=nï-al-zhrii|SpaceAfter=No
+3	nalzhrii	naazhrii	VERB	_	_	0	root	_	Gloss=I am hunting|MSeg=nï-al-zhrii|MGloss=CNJ-1SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 223
@@ -1413,7 +1413,7 @@
 # text_en = The man saw a wolverine.
 1	Dinjii	dinjii	NOUN	_	_	3	nsubj	_	Gloss=man
 2	nahtryąh	nahtryąh	NOUN	_	_	3	obj	_	Gloss=wolverine
-3	nah’yą̀’	yąąh’in	VERB	_	_	0	root	_	Gloss=he saw|MSeg=nï-ah-’yą̀’|SpaceAfter=No
+3	nah’yą̀’	yąąh’in	VERB	_	_	0	root	_	Gloss=he saw|MSeg=nï-ah-’yą̀’|MGloss=CNJ-3SG.PFV.Ł-see.PFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 224
@@ -1423,9 +1423,9 @@
 2	Jill	Jill	PROPN	_	_	1	conj	_	Gloss=Mary
 3	hàa	hàa	CCONJ	_	_	2	cc	_	Gloss=and
 4	bingò	bingò	NOUN	_	_	5	obj	_	Gloss=bingo
-5	tseegii’in	tsee'in	VERB	_	_	0	root	_	Gloss=they are playing|MSeg=tsee-gï-dï-’in
+5	tseegii’in	tsee'in	VERB	_	_	0	root	_	Gloss=they are playing|MSeg=tsee-gï-dï-’in|MGloss=?-3PL-3SG.IPFV.D-play.IPFV
 6	ts’ą̀’	ts’ą̀’	CCONJ	_	_	7	cc	_	Gloss=and
-7	gadlàa	adlaa	VERB	_	_	5	conj	_	Gloss=they are laughing|MSeg=gï-ï-dlaa|SpaceAfter=No
+7	gadlàa	adlaa	VERB	_	_	5	conj	_	Gloss=they are laughing|MSeg=gï-ï-dlaa|MGloss=3PL-3SG.IPFV.DYN.Ø-laugh.IPFV|SpaceAfter=No
 8	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 225
@@ -1433,7 +1433,7 @@
 # text_en = I am playing with the ball. 
 1	Nehkaii	nehkaii	NOUN	_	_	3	obl	_	Gloss=ball
 2	haa	haa	ADP	_	_	1	case	_	Gloss=with
-3	tseeshi'in	tsee'in	VERB	_	_	0	root	_	Gloss=I am playing|MSeg=tsee-shï-'in|SpaceAfter=No
+3	tseeshi'in	tsee'in	VERB	_	_	0	root	_	Gloss=I am playing|MSeg=tsee-shï-'in|MGloss=?-1SG.IPFV.D-play.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 226
@@ -1443,7 +1443,7 @@
 2	dinjik	dinjik	NOUN	_	_	3	obj	_	Gloss=moose
 3	tr’èełk’ee	yiiłk'ee	VERB	_	_	5	advcl	_	Gloss=we shot
 4	jì	jì	SCONJ	_	_	3	mark	_	Gloss=if
-5	gwiheezyàa	gwinzįį	VERB	_	_	0	root	_	Gloss=it will be good|SpaceAfter=No
+5	gwiheezyàa	gwinzįį	VERB	_	_	0	root	_	Gloss=it will be good|MSeg=gwi-hï-ee-zyàa|MGloss=AR-FUT-3SG.FUT.Ø-good.FUT|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 227
@@ -1452,13 +1452,13 @@
 1	Tr’iinin	tr'iinin	NOUN	_	_	4	nsubj	_	Gloss=children
 2	nąįį	nąįį	PART	_	_	1	dep	_	Gloss=PL
 3	chiitąįį	chiitąįį	ADV	_	_	4	advmod	_	Gloss=outside
-4	tseegii’in	tsee'in	VERB	_	_	0	root	_	Gloss=they are playing|SpaceAfter=No
+4	tseegii’in	tsee'in	VERB	_	_	0	root	_	Gloss=they are playing|MSeg=tsee-gï-dï-’in|MGloss=?-3PL-3SG.IPFV.D-play.IPFV|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 228
 # text = Shee’ii vigwitr’it gwanlįį.
 # text_en = My uncle has a lot of work to do.
-1	Shee’ii	vee'ii	NOUN	_	_	2	nmod	_	Gloss=my uncle|MSeg=sh-ee’ii|MGloss=1SG.POSS-uncle
+1	Shee’ii	vee'ii	NOUN	_	_	2	nmod	_	Gloss=my uncle|MSeg=shï-ee’ii|MGloss=1SG.POSS-uncle
 2	vigwitr’it	gwitr'it	NOUN	_	_	3	nsubj	_	Gloss=his work|MSeg=vï-gwitr’it|MGloss=3SG.POSS-work
 3	gwanlįį	gwanlįį	VERB	_	_	0	root	_	Gloss=there-is much|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1466,7 +1466,7 @@
 # sent_id = 229
 # text = Gaanahaldaii.
 # text_en = I will let you know.
-1	Gaanahaldaii	_	VERB	_	_	0	root	_	Gloss=I will let you know|MSeg=gaa-na-h-al-daii|SpaceAfter=No
+1	Gaanahaldaii	_	VERB	_	_	0	root	_	Gloss=I will let you know|MSeg=gwï-àa-nï-hï-al-daii|MGloss=AR-with-2O-FUT-1SG.FUT.L-know.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 230
