@@ -518,19 +518,19 @@
 # sent_id = 84
 # text = Gàashandàii.
 # text_en = I know.
-1	Gàashandàii	gàandàii	VERB	_	_	0	root	_	Gloss=I know|MSeg=gwï-àa-shï-ndàii|SpaceAfter=No
+1	Gàashandàii	gàandàii	VERB	_	_	0	root	_	Gloss=I know|MSeg=gwï-àa-shï-ndàii|MGloss=AR-with-1SG.IPFV.D-know.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 85
 # text = Vàashandàii.
 # text_en = I know him., I know her.
-1	Vàashandàii	yaandàii	VERB	_	_	0	root	_	Gloss=I know him, I know her|MSeg=vï-àa-shï-ndàii|SpaceAfter=No
+1	Vàashandàii	yaandàii	VERB	_	_	0	root	_	Gloss=I know him, I know her|MSeg=vï-àa-shï-ndàii|MGloss=3O-with-1SG.IPFV.D-know.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 86
 # text = Nàashandàii.
 # text_en = I know you.
-1	Nàashandàii	yaandàii	VERB	_	_	0	root	_	Gloss=I know you|MSeg=nï-àa-shï-ndàii|SpaceAfter=No
+1	Nàashandàii	yaandàii	VERB	_	_	0	root	_	Gloss=I know you|MSeg=nï-àa-shï-ndàii|MGloss=2O-with-1SG.IPFV.D-know.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 87
@@ -542,61 +542,61 @@
 # sent_id = 88
 # text = Shinii.
 # text_en = I am drinking it. 
-1	Shinii	yiinįį	VERB	_	_	0	root	_	Gloss=I am drinking it|MSeg=shi-nii|SpaceAfter=No
+1	Shinii	yiinįį	VERB	_	_	0	root	_	Gloss=I am drinking it|MSeg=shi-nii|MGloss=1SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 89
 # text = T’ishi’in.
 # text_en = I am doing it.
-1	T’ishi’in	t'ii'ìn	VERB	_	_	0	root	_	Gloss=I am doing it|MSeg=t'i-shi-'in|SpaceAfter=No
+1	T’ishi’in	t'ii'ìn	VERB	_	_	0	root	_	Gloss=I am doing it|MSeg=t'i-shi-'in|MGloss=CNJ-1SG.IPFV.D-do.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 90
 # text = Tseeshi’in.
 # text_en = I am playing.
-1	Tseeshi’in	tsee'in	VERB	_	_	0	root	_	Gloss=I am playing|MSeg=tsee-shi'-in|SpaceAfter=No
+1	Tseeshi’in	tsee'in	VERB	_	_	0	root	_	Gloss=I am playing|MSeg=tsee-shi'-in|MGloss=CNJ-1SG.IPFV.D-play.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 91
 # text = Deeshi’in?
 # text_en = What am I doing? 
-1	Deeshi’in	dèe'ìn?	VERB	_	_	0	root	_	Gloss=What am I doing|MSeg=dee-shi-'in|SpaceAfter=No
+1	Deeshi’in	dèe'ìn?	VERB	_	_	0	root	_	Gloss=What am I doing|MSeg=dee-shi-'in|MGloss=INT-1SG.IPFV.D-do.IPFV|SpaceAfter=No
 2	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 92
 # text = Tr’intsìi.
 # text_en = We are big.
-1	Tr’intsìi	nitsìi	VERB	_	_	0	root	_	Gloss=we are big|MSeg=tr’i-ni-tsìi|SpaceAfter=No
+1	Tr’intsìi	nitsìi	VERB	_	_	0	root	_	Gloss=we are big|MSeg=tr’i-ni-tsìi|MGloss=1PL-3SG.IPFV.STAT.Ø-big.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 93
 # text = Ohtsìi.
 # text_en = You guys are big.
-1	Ohtsìi	nitsìi	VERB	_	_	0	root	_	Gloss=you guys are big|MSeg=oh-tsìi|SpaceAfter=No
+1	Ohtsìi	nitsìi	VERB	_	_	0	root	_	Gloss=you guys are big|MSeg=oh-tsìi|MGloss=2PL.IPFV.STAT.Ø-big.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 94
 # text = Gintsìi.
 # text_en = They are big.
-1	Gintsìi	nitsìi	VERB	_	_	0	root	_	Gloss=they are big|MSeg=gi-ni-tsìi|SpaceAfter=No
+1	Gintsìi	nitsìi	VERB	_	_	0	root	_	Gloss=they are big|MSeg=gi-ni-tsìi|MGloss=3PL-3SG.IPFV.STAT.Ø-big.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 95
 # text = Tr’itree.
 # text_en = We are crying. 
-1	Tr’itree	itree	VERB	_	_	0	root	_	Gloss=we are crying|MSeg=tr’i-i-tree|SpaceAfter=No
+1	Tr’itree	itree	VERB	_	_	0	root	_	Gloss=we are crying|MSeg=tr’ï-ï-tree|MGloss=1PL-3SG.IPFV.Ø-cry.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 96
 # text = Ohtree.
 # text_en = You are crying. 
-1	Ohtree	itree	VERB	_	_	0	root	_	Gloss=you guys are crying|MSeg=oh-tree|SpaceAfter=No
+1	Ohtree	itree	VERB	_	_	0	root	_	Gloss=you guys are crying|MSeg=oh-tree|MGloss=2PL.IPFV.Ø-cry.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 97
 # text = Gitree.
 # text_en = They are crying. 
-1	Gitree	itree	VERB	_	_	0	root	_	Gloss=they are crying|MSeg=gi-i-tree|SpaceAfter=No
+1	Gitree	itree	VERB	_	_	0	root	_	Gloss=they are crying|MSeg=gï-ï-tree|MGloss=3PL-3SG.IPFV.Ø-cry.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 98
@@ -621,374 +621,374 @@
 # text = Aih ałtsii.
 # text_en = I am making snowshoes.
 1	Aih	aih	NOUN	_	_	2	obj	_	Gloss=snowshoe
-2	ałtsii	yahtsii	VERB	_	_	0	root	_	Gloss=I am making|MSeg=ał-tsii|SpaceAfter=No
+2	ałtsii	yahtsii	VERB	_	_	0	root	_	Gloss=I am making|MSeg=ał-tsii|MGloss=1SG.IPFV.Ł-make.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 102
 # text = Aih ąhtsii.
 # text_en = You are making snowshoes.
 1	Aih	aih	NOUN	_	_	2	obj	_	Gloss=snowshoe
-2	ąhtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you are making|MSeg=ąh-tsii|SpaceAfter=No
+2	ąhtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you are making|MSeg=ąh-tsii|MGloss=2SG.IPFV.Ł-make.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 103
 # text = Aih ahtsii.
 # text_en = She is making snowshoes., He is making snowshoes.
 1	Aih	aih	NOUN	_	_	2	obj	_	Gloss=snowshoe
-2	ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=he is making|MSeg=ah-tsii|SpaceAfter=No
+2	ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=he is making|MSeg=ah-tsii|MGloss=3SG.IPFV.Ł-make.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 104
 # text = Aih tr’ahtsii.
 # text_en = We are making snowshoes.
 1	Aih	aih	NOUN	_	_	2	obj	_	Gloss=snowshoe
-2	tr’ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=we are making|MSeg=tr’-ah-tsii|SpaceAfter=No
+2	tr’ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=we are making|MSeg=tr’ï-ah-tsii|MGloss=1PL-3SG.IPFV.Ł-make.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 105
 # text = Aih ohtsii.
 # text_en = You are making snowshoes.
 1	Aih	aih	NOUN	_	_	2	obj	_	Gloss=snowshoe
-2	ohtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you guys are making|MSeg=oh-tsii|SpaceAfter=No
+2	ohtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you guys are making|MSeg=oh-tsii|MGloss=2PL.IPFV.Ł-make.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 106
 # text = Aih gahtsii.
 # text_en = They are making snowshoes.
 1	Aih	aih	NOUN	_	_	2	obj	_	Gloss=snowshoe
-2	gahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=they are making|MSeg=g-ah-tsii|SpaceAfter=No
+2	gahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=they are making|MSeg=gï-ah-tsii|MGloss=3PL-3SG.IPFV.Ł-make.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 107
 # text = Tr’aah’in.
 # text_en = We see something.
-1	Tr’aah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=we see something|MSeg=trï-nï-ah-’in|SpaceAfter=No
+1	Tr’aah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=we see something|MSeg=trï-nï-ah-’in|MGloss=1PL-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 108
 # text = Noh’in.
 # text_en = You guys see something.
-1	Noh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=you guys see something|MSeg=nï-oh-’in|SpaceAfter=No
+1	Noh’in	yąąh’in	VERB	_	_	0	root	_	Gloss=you guys see something|MSeg=nï-oh-’in|MGloss=CNJ-2PL.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 109
 # text = Giyaah’in.
 # text_en = They see something. it?
-1	Giyaah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=they see something|MSeg=gï-yï-nï-ah-’in|SpaceAfter=No
+1	Giyaah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=they see something|MSeg=gï-yï-nï-ah-’in|MGloss=3PL-3O-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 110
 # text = Dinjik gaah’in.
 # text_en = They see a moose.
 1	Dinjik	dinjik	NOUN	_	_	2	obj	_	Gloss=moose
-2	gaah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=they see|MSeg=gï-nï-ah-'in|SpaceAfter=No
+2	gaah’in	yąąh’in	VERB	_	_	0	root	_	Gloss=they see|MSeg=gï-nï-ah-'in|MGloss=3PL-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 111
 # text = Dak al'èe.
 # text_en = I am lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	al'èe	_	VERB	_	_	0	root	_	MSeg=al-'ee|SpaceAfter=No
+2	al'èe	_	VERB	_	_	0	root	_	MSeg=al-'ee|MGloss=1SG.IPFV.L-lie.IPFV|SpaceAfter=No  
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 112
 # text = Dak an'èe.
 # text_en = You are lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	an'èe	_	VERB	_	_	0	root	_	MSeg=an-'ee|SpaceAfter=No
+2	an'èe	_	VERB	_	_	0	root	_	MSeg=an-'ee|MGloss=2SG.IPFV.L-lie.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 113
 # text = Dak a'èe.
 # text_en = He is lying down., She is lying down.
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	a'èe	_	VERB	_	_	0	root	_	MSeg=a-'ee|SpaceAfter=No
+2	a'èe	_	VERB	_	_	0	root	_	MSeg=a-'ee|MGloss=3SG.IPFV.L-lie.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 114
 # text = Dak tr'aa'èe.
-# text_en = We are lying down. 
+# text_en = We are lying down.
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	tr'aa'èe	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	tr'aa'èe	_	VERB	_	_	0	root	_	MSeg=tr'ï-aa-'ee|MGloss=1PL-3SG.IPFV.L-lie.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 115
 # text = Dak oo'èe.
 # text_en = You guys are lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	oo'èe	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	oo'èe	_	VERB	_	_	0	root	_	MSeg=oo-'ee|MGloss=2PL.IPFV.L-lie.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 116
 # text = Dak gaa'èe.
 # text_en = They are lying down. 
 1	Dak	_	ADV	_	_	2	advmod	_	_
-2	gaa'èe	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	gaa'èe	_	VERB	_	_	0	root	_	MSeg=gï-aa-'ee|MGloss=3PL-3SG.IPFV.L-lie.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 117
 # text = Nalzhrii.
 # text_en = I am hunting.
-1	Nalzhrii	naazhrii	VERB	_	_	0	root	_	Gloss=I am hunting|MSeg=nï-al-zhrii|SpaceAfter=No
+1	Nalzhrii	naazhrii	VERB	_	_	0	root	_	Gloss=I am hunting|MSeg=nï-al-zhrii|MGloss=CNJ-1SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 118
 # text = Nanzhrii.
 # text_en = You are hunting.
-1	Nanzhrii	naazhrii	VERB	_	_	0	root	_	Gloss=you are hunting|MSeg=nï-an-zhrii|SpaceAfter=No
+1	Nanzhrii	naazhrii	VERB	_	_	0	root	_	Gloss=you are hunting|MSeg=nï-an-zhrii|MGloss=CNJ-2SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 119
 # text = Naazhrii.
 # text_en = He/she is hunting.
-1	Naazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|SpaceAfter=No
+1	Naazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=he is hunting|MSeg=nï-aa-zhrii|MGloss=CNJ-3SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 120
 # text = Naraazhrii.
 # text_en = We are hunting.
-1	Naraazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=we are hunting|MSeg=nï-tr'ï-aa-zhrii|SpaceAfter=No
+1	Naraazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=we are hunting|MSeg=nï-tr'ï-aa-zhrii|MGloss=CNJ-1PL-3SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 121
 # text = Noozhrii.
 # text_en = You guys are hunting.
-1	Noozhrii	naazhrii	VERB	_	_	0	root	_	Gloss=you guys are hunting|MSeg=nï-oo-zhrii|SpaceAfter=No
+1	Noozhrii	naazhrii	VERB	_	_	0	root	_	Gloss=you guys are hunting|MSeg=nï-oo-zhrii|MGloss=CNJ-2PL.IPFV.L-hunt.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 122
 # text = Nagaazhrii.
 # text_en = They are hunting.
-1	Nagaazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=they are hunting|MSeg=nï-gï-aa-zhrii|SpaceAfter=No
+1	Nagaazhrii	naazhrii	VERB	_	_	0	root	_	Gloss=they are hunting|MSeg=nï-gï-aa-zhrii|MGloss=CNJ-3PL-3SG.IPFV.L-hunt.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 123
 # text = Shinii.
 # text_en = I am drinking something.
-1	Shinii	yinii	VERB	_	_	0	root	_	Gloss=I am drinking something|MSeg=shï-nii|SpaceAfter=No
+1	Shinii	yinii	VERB	_	_	0	root	_	Gloss=I am drinking something|MSeg=shï-nii|MGloss=1SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 124
 # text = Ninii.
 # text_en = You are drinking something.
-1	Ninii	yinii	VERB	_	_	0	root	_	Gloss=you are drinking something|MSeg=nï-nii|SpaceAfter=No
+1	Ninii	yinii	VERB	_	_	0	root	_	Gloss=you are drinking something|MSeg=nï-nii|MGloss=2SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 125
 # text = Dinii.
 # text_en = He is drinking something., She is drinking something.
-1	Dinii	yinii	VERB	_	_	0	root	_	Gloss=he is drinking something|MSeg=dï-nii|SpaceAfter=No
+1	Dinii	yinii	VERB	_	_	0	root	_	Gloss=he is drinking something|MSeg=dï-nii|MGloss=3SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 126
 # text = Tr'iinii.
 # text_en = We are drinking something.
-1	Tr'iinii	yinii	VERB	_	_	0	root	_	Gloss=we are drinking something|MSeg=tr'ï-ii-nii|SpaceAfter=No
+1	Tr'iinii	yinii	VERB	_	_	0	root	_	Gloss=we are drinking something|MSeg=tr'ï-ii-nii|MGloss=1PL-3SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 127
 # text = Akhwanii.
 # text_en = You guys are drinking something.
-1	Akhwanii	yinii	VERB	_	_	0	root	_	Gloss=you guys are drinking something|MSeg=akhwa-nii|SpaceAfter=No
+1	Akhwanii	yinii	VERB	_	_	0	root	_	Gloss=you guys are drinking something|MSeg=akhwa-nii|MGloss=2PL.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 128
 # text = Giinii.
 # text_en = They are drinking something.
-1	Giinii	yinii	VERB	_	_	0	root	_	Gloss=they are drinking something|MSeg=gï-ii-nii|SpaceAfter=No
+1	Giinii	yinii	VERB	_	_	0	root	_	Gloss=they are drinking something|MSeg=gï-ii-nii|MGloss=3PL-3SG.IPFV.D-drink.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 129
 # text = Ihkhan.
 # text_en = I am making them.
-1	Ihkhan	yaghan	VERB	_	_	0	root	_	Gloss=I am making them|MSeg=ih-ghan|SpaceAfter=No
+1	Ihkhan	yaghan	VERB	_	_	0	root	_	Gloss=I am making them|MSeg=ih-ghan|MGloss=1SG.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 130
 # text = Inghan.
 # text_en = You are making them. 
-1	Inghan	yaghan	VERB	_	_	0	root	_	Gloss=you are making them|MSeg=in-ghan|SpaceAfter=No
+1	Inghan	yaghan	VERB	_	_	0	root	_	Gloss=you are making them|MSeg=in-ghan|MGloss=2SG.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 131
 # text = Dzirh aghan.
 # text_en = He is making mittens., She is making mittens.  
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mittens
-2	aghan	yaghan	VERB	_	_	0	root	_	Gloss=he is making|MSeg=ï-ghan|SpaceAfter=No
+2	aghan	yaghan	VERB	_	_	0	root	_	Gloss=he is making|MSeg=ï-ghan|MGloss=3SG.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 132
 # text = Yaghan.
 # text_en = He is making them., She is making them.
-1	Yaghan	yaghan	VERB	_	_	0	root	_	Gloss=he is making them|MSeg=yï-ï-ghan|SpaceAfter=No
+1	Yaghan	yaghan	VERB	_	_	0	root	_	Gloss=he is making them|MSeg=yï-ï-ghan|MGloss=3O-3SG.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 133
 # text = Tr'aghan.
 # text_en = We are making them.
-1	Tr'aghan	yaghan	VERB	_	_	0	root	_	Gloss=we are making them|MSeg=tr'ï-ï-ghan|SpaceAfter=No
+1	Tr'aghan	yaghan	VERB	_	_	0	root	_	Gloss=we are making them|MSeg=tr'ï-ï-ghan|MGloss=1PL-3SG.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 134
 # text = Ohkhan.
 # text_en = You guys are making them.
-1	Ohkhan	yaghan	VERB	_	_	0	root	_	Gloss=you guys are making them|MSeg=oh-ghan|SpaceAfter=No
+1	Ohkhan	yaghan	VERB	_	_	0	root	_	Gloss=you guys are making them|MSeg=oh-ghan|MGloss=2PL.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 135
 # text = Giyaghan.
 # text_en = They are making them.
-1	Giyaghan	yaghan	VERB	_	_	0	root	_	Gloss=they are making them|MSeg=gï-yï-ï-ghan|SpaceAfter=No
+1	Giyaghan	yaghan	VERB	_	_	0	root	_	Gloss=they are making them|MSeg=gï-yï-ï-ghan|MGloss=3PL-3O-3SG.IPFV.DYN.Ø-make-plural.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 136
 # text = Hihkhaa.
 # text_en = I will make them.
-1	Hihkhaa	yaghan	VERB	_	_	0	root	_	Gloss=I will make them|MSeg=hï-ih-ghaa|SpaceAfter=No
+1	Hihkhaa	yaghan	VERB	_	_	0	root	_	Gloss=I will make them|MSeg=hï-ih-ghaa|MGloss=FUT-1SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 137
 # text = Hinghaa.
 # text_en = You will make them.
-1	Hinghaa	yaghan	VERB	_	_	0	root	_	Gloss=you will make them|MSeg=hï-in-ghaa|SpaceAfter=No
+1	Hinghaa	yaghan	VERB	_	_	0	root	_	Gloss=you will make them|MSeg=hï-in-ghaa|MGloss=FUT-2SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 138
 # text = Dzirh heeghaa.
-# text_en = He will make mittens., She will make mittens.
+# text_en = S/he will make those mittens.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mittens
-2	heeghaa	yaghan	VERB	_	_	0	root	_	Gloss=he will make|MSeg=hï-ee-ghaa|SpaceAfter=No
+2	heeghaa	yaghan	VERB	_	_	0	root	_	Gloss=he will make|MSeg=hï-ee-ghaa|MGloss=FUT-3SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 139
 # text = Yiheeghaa.
-# text_en = He will make it., She will make it.
-1	Yiheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=she will make it|MSeg=yï-hï-ee-ghaa|SpaceAfter=No
+# text_en = S/he will make it.
+1	Yiheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=she will make it|MSeg=yï-hï-ee-ghaa|MGloss=3O-FUT-3SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 140
 # text = Tr'iheeghaa.
 # text_en = We will make them.
-1	Tr'iheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=she will make it|MSeg=tr'ï-hï-ee-ghaa|SpaceAfter=No
+1	Tr'iheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=she will make it|MSeg=tr'ï-hï-ee-ghaa|MGloss=3PL-FUT-3SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 141
 # text = Hohkhaa.
 # text_en = You guys will make them.
-1	Hohkhaa	yaghan	VERB	_	_	0	root	_	Gloss=you guys will make them|MSeg=hï-oh-ghaa|SpaceAfter=No
+1	Hohkhaa	yaghan	VERB	_	_	0	root	_	Gloss=you guys will make them|MSeg=hï-oh-ghaa|MGloss=FUT-2PL.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 142
 # text = Dzirh giheeghaa.
-# text_en = They will make mittens.
+# text_en = They will make those mittens.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mittens
-2	giheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=they will make|MSeg=gï-hï-ee-ghaa|SpaceAfter=No
+2	giheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=they will make|MSeg=gï-hï-ee-ghaa|MGloss=3PL-FUT-3SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 143
 # text = Giiheeghaa.
 # text_en = They will make them.
-1	Giiheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=they will make them|MSeg=gï-yï-hï-ee-ghaa|SpaceAfter=No
+1	Giiheeghaa	yaghan	VERB	_	_	0	root	_	Gloss=they will make them|MSeg=gï-yï-hï-ee-ghaa|MGloss=3PL-3O-FUT-3SG.FUT.DYN.Ø-make-plural.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 144
 # text = Ałtsii.
 # text_en = I am making it.
-1	Ałtsii	yahtsii	VERB	_	_	0	root	_	Gloss=I am making it|MSeg=ał-tsii|SpaceAfter=No
+1	Ałtsii	yahtsii	VERB	_	_	0	root	_	Gloss=I am making it|MSeg=ał-tsii|MGloss=1SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 145
 # text = Ąhtsii.
 # text_en = You are making it.
-1	Ąhtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you are making it|MSeg=ąh-tsii|SpaceAfter=No
+1	Ąhtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you are making it|MSeg=ąh-tsii|MGloss=2SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 146
 # text = Dzirh ahtsii.
 # text_en = He is making a mitten., She is making a mitten.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mitten
-2	ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=he is making|MSeg=ah-tsii|SpaceAfter=No
+2	ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=he is making|MSeg=ah-tsii|MGloss=3SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 147
 # text = Yahtsii.
 # text_en = He is making it., She is making it.
-1	Yahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=he is making it|MSeg=yï-ah-tsii|SpaceAfter=No
+1	Yahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=he is making it|MSeg=yï-ah-tsii|MGloss=3O-3SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 148
 # text = Tr'ahtsii.
 # text_en = We are making it.
-1	Tr'ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=we are making it|MSeg=tr'ï-ah-tsii|SpaceAfter=No
+1	Tr'ahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=we are making it|MSeg=tr'ï-ah-tsii|MGloss=1PL-3SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 149
 # text = Ohtsii.
 # text_en = You guys are making it.
-1	Ohtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you guys are making it|MSeg=oh-tsii|SpaceAfter=No
+1	Ohtsii	yahtsii	VERB	_	_	0	root	_	Gloss=you guys are making it|MSeg=oh-tsii|MGloss=2PL.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 150
 # text = Giyahtsii.
 # text_en = They are making it.
-1	Giyahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=they are making it|MSeg=gï-yï-ah-tsii|SpaceAfter=No
+1	Giyahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=they are making it|MSeg=gï-yï-ah-tsii|MGloss=3PL-3O-3SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 151
 # text = Dzirh gahtsii.
 # text_en = They are making a mitten.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mitten
-2	gahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=they are making|MSeg=gï-ah-tsii|SpaceAfter=No
+2	gahtsii	yahtsii	VERB	_	_	0	root	_	Gloss=they are making|MSeg=gï-ah-tsii|MGloss=3PL-3SG.IPFV.Ł-make-singular.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 152
 # text = Hałtsyaa.
 # text_en = I will make it.
-1	Hałtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=I will make it|MSeg=hï-ał-tsyaa|SpaceAfter=No
+1	Hałtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=I will make it|MSeg=hï-ał-tsyaa|Gloss=FUT-1SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 153
 # text = Hąhtsyaa.
 # text_en = You will make it.
-1	Hąhtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=you will make it|MSeg=hï-ąh-tsyaa|SpaceAfter=No
+1	Hąhtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=you will make it|MSeg=hï-ąh-tsyaa|MGloss=FUT-2SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 154
 # text = Yahahtsyaa.
 # text_en = He will make it.
-1	Yahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=he will make it|MSeg=yï-hï-ah-tsyaa|SpaceAfter=No
+1	Yahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=he will make it|MSeg=yï-hï-ah-tsyaa|MGloss=3O-FUT-3SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 155
 # text = Dzirh hahtsyaa.
 # text_en = He will make a mitten.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mitten
-2	hahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=he will make|MSeg=hï-ah-tsyaa|SpaceAfter=No
+2	hahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=he will make|MSeg=hï-ah-tsyaa|MGloss=FUT-3SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 156
 # text = Tr'ahahtsyaa.
 # text_en = We will make it.
-1	Tr'ahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=we will make it|MSeg=tr'ï-hï-ah-tsyaa|SpaceAfter=No
+1	Tr'ahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=we will make it|MSeg=tr'ï-hï-ah-tsyaa|MGloss=1PL-FUT-3SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 157
 # text = Hohtsyaa.
 # text_en = You guys will make it.
-1	Hohtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=you guys will make it|MSeg=hï-oh-tsyaa|SpaceAfter=No
+1	Hohtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=you guys will make it|MSeg=hï-oh-tsyaa|MGloss=FUT-2PL.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 158
 # text = Giyahahtsyaa.
 # text_en = They will make it.
-1	Giyahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=they will make it|MSeg=gï-yï-hï-ah-tsyaa|SpaceAfter=No
+1	Giyahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=they will make it|MSeg=gï-yï-hï-ah-tsyaa|MGloss=3PL-3O-FUT-3SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 159
 # text = Dzirh gahahtsyaa.
 # text_en = They will make a mitten.
 1	Dzirh	dzirh	NOUN	_	_	2	obj	_	Gloss=mitten
-2	gahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=they will make|MSeg=gï-hï-ah-tsyaa|SpaceAfter=No
+2	gahahtsyaa	yahtsii	VERB	_	_	0	root	_	Gloss=they will make|MSeg=gï-hï-ah-tsyaa|MGloss=3PL-FUT-3SG.FUT.Ł-make-singular.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 160
@@ -1065,92 +1065,92 @@
 
 # sent_id = 172
 # text = Iitrii.
-# text_en = I cried. 
-1	Iitrii	itree	VERB	_	_	0	root	_	Gloss=I cried|MSeg=ii-trii|SpaceAfter=No
+# text_en = I cried.
+1	Iitrii	itree	VERB	_	_	0	root	_	Gloss=I cried|MSeg=ii-trii|MGloss=1SG.PFV.DYN.Ø-cry.PFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 173
 # text = Intrii.
 # text_en = You cried.
-1	Intrii	itree	VERB	_	_	0	root	_	Gloss=you cried|MSeg=in-trii|SpaceAfter=No
+1	Intrii	itree	VERB	_	_	0	root	_	Gloss=you cried|MSeg=in-trii|MGloss=2SG.PFV.DYN.Ø-cry.PFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 174
 # text = Intrii.
 # text_en = He cried. 
-1	Intrii	itree	VERB	_	_	0	root	_	Gloss=he cried|MSeg=in-trii|SpaceAfter=No
+1	Intrii	itree	VERB	_	_	0	root	_	Gloss=he cried|MSeg=in-trii|MGloss=3SG.PFV.DYN.Ø-cry.PFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 175
 # text = Tr'intrii.
 # text_en = We cried. 
-1	Tr'intrii	itree	VERB	_	_	0	root	_	Gloss=we cried|MSeg=tr'ï-in-trii|SpaceAfter=No
+1	Tr'intrii	itree	VERB	_	_	0	root	_	Gloss=we cried|MSeg=tr'ï-in-trii|MGloss=1PL-3SG.PFV.DYN.Ø-cry.PFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 176
 # text = Ootrii.
 # text_en = You guys cried. 
-1	Ootrii	itree	VERB	_	_	0	root	_	Gloss=you guys cried|MSeg=oo-trii|SpaceAfter=No
+1	Ootrii	itree	VERB	_	_	0	root	_	Gloss=you guys cried|MSeg=oo-trii|MGloss=2PL.PFV.DYN.Ø-cry.PFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 177
 # text = Gintrii.
 # text_en = They cried. 
-1	Gintrii	itree	VERB	_	_	0	root	_	Gloss=they cried|MSeg=gï-in-trii|SpaceAfter=No
+1	Gintrii	itree	VERB	_	_	0	root	_	Gloss=they cried|MSeg=gï-in-trii|MGloss=3PL-3SG.PFV.DYN.Ø-cry.PFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 178
 # text = Dhiidii.
 # text_en = I am sitting. 
-1	Dhiidii	dhidii	VERB	_	_	0	root	_	Gloss=I am sitting|MSeg=dhï-ii-dii|SpaceAfter=No
+1	Dhiidii	dhidii	VERB	_	_	0	root	_	Gloss=I am sitting|MSeg=dhï-ii-dii|MGloss=CNJ-1SG.IPFV.Ø-sit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 179
 # text = Dhindii.
 # text_en = You are sitting. 
-1	Dhindii	dhidii	VERB	_	_	0	root	_	Gloss=you are sitting|MSeg=dhï-in-dii|SpaceAfter=No
+1	Dhindii	dhidii	VERB	_	_	0	root	_	Gloss=you are sitting|MSeg=dhï-in-dii|MGloss=CNJ-2SG.IPFV.Ø-sit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 180
 # text = Dhidii.
 # text_en = He is sitting. 
-1	Dhidii	dhidii	VERB	_	_	0	root	_	Gloss=he is sitting|MSeg=dhï-ii-dii|SpaceAfter=No
+1	Dhidii	dhidii	VERB	_	_	0	root	_	Gloss=he is sitting|MSeg=dhï-ii-dii|MGloss=CNJ-3SG.IPFV.Ø-sit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 181
 # text = Tr'aadii.
 # text_en = We two are sitting.
-1	Tr'aadii	dhidii	VERB	_	_	0	root	_	Gloss=we two are sitting|MSeg=tr'ï-aa-dii|SpaceAfter=No
+1	Tr'aadii	dhidii	VERB	_	_	0	root	_	Gloss=we two are sitting|MSeg=tr'ï-aa-dii|MGloss=1PL-3SG.IPFV.Ø-sit.DU.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 182
 # text = Dhoodii.
 # text_en = You two guys are sitting.
-1	Dhoodii	dhidii	VERB	_	_	0	root	_	Gloss=you two guys are sitting|MSeg=dhï-oo-dii|SpaceAfter=No
+1	Dhoodii	dhidii	VERB	_	_	0	root	_	Gloss=you two guys are sitting|MSeg=dhï-oo-dii|MGloss=CNJ-2PL.IPFV.Ø-sit.DU.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 183
 # text = Gaadii.
 # text_en = They two are sitting.
-1	Gaadii	dhidii	VERB	_	_	0	root	_	Gloss=they two are sitting|MSeg=gï-aa-dii|SpaceAfter=No
+1	Gaadii	dhidii	VERB	_	_	0	root	_	Gloss=they two are sitting|MSeg=gï-aa-dii|MGloss=3PL-3SG.IPFV.Ø-sit.DU.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 184
 # text = Tr'ilk'ii.
 # text_en = We are sitting.
-1	Tr'ilk'ii	dhidii	VERB	_	_	0	root	_	Gloss=we are sitting|MSeg=tr'ï-il-k'ii|SpaceAfter=No
+1	Tr'ilk'ii	dhidii	VERB	_	_	0	root	_	Gloss=we are sitting|MSeg=tr'ï-il-k'ii|MGloss=1PL-3SG.IPFV.Ø-sit.PL.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 185
 # text = Dhook'ii.
 # text_en = You guys are sitting.
-1	Dhook'ii	dhidii	VERB	_	_	0	root	_	Gloss=you guys are sitting|MSeg=dhï-oo-k'ii|SpaceAfter=No
+1	Dhook'ii	dhidii	VERB	_	_	0	root	_	Gloss=you guys are sitting|MSeg=dhï-oo-k'ii|MGloss=CNJ-2PL.IPFV.Ø-sit.PL.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 186
 # text = Gilk'ii.
 # text_en = They are sitting.
-1	Gilk'ii	dhidii	VERB	_	_	0	root	_	Gloss=they are sitting|MSeg=gï-il-k'ii|SpaceAfter=No
+1	Gilk'ii	dhidii	VERB	_	_	0	root	_	Gloss=they are sitting|MSeg=gï-il-k'ii|MGloss=3PL-3SG.IPFV.Ø-sit.PL.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 187
