@@ -1726,7 +1726,7 @@
 11	Vashrą̀įį	Vashrą̀įį	PROPN	_	_	13	obl	_	Gloss=Arctic Village
 12	K’ǫǫ	K’ǫǫ	PROPN	_	_	11	flat	_	Gloss=Artic Village
 13	nirihee’àl	nirihee'àl	VERB	_	_	14	ccomp	_	Gloss=we would go
-14	ginyaa	t'inyaa	VERB	_	_	0	root	_	Gloss=they said|SpaceAfter=No
+14	ginyaa	t'inyaa	VERB	_	_	0	root	_	Gloss=they said|MSeg=gï-ï-nyaa|MGloss=3PL-3SG.PFV.Ø-say.PFV|SpaceAfter=No
 15	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 255
@@ -1744,21 +1744,21 @@
 10	łąįį	łąįį	NOUN	_	_	11	compound	_	Gloss=dog
 11	ghwàa	ghwàa	NOUN	_	_	14	obl	_	Gloss=pack
 12	hàa	hàa	ADP	_	_	11	case	_	Gloss=with
-13	oodàk	oodàk	ADV	_	_	14	advmod	_	Gloss=up above|MGloss=PROX-up_above.ALL
+13	oodàk	oodàk	ADV	_	_	14	advmod	_	Gloss=up above|MSeg=oo-dàk|MGloss=PROX-up_above.ALL
 14	tr’ahàajil	tr'ahàajil	VERB	_	_	0	root	_	Gloss=we all left|MGloss=1PL-left|SpaceAfter=No
 15	.	_	PUNCT	_	_	14	punct	_	_
 
 # sent_id = 256
 # text = Noozhrì’ dòozhìi?
 # text_en = What is your name? 
-1	Noozhrì’	voozhrì’	NOUN	_	_	2	nsubj	_	Gloss=your name|MSeg=n-oozhrì’
+1	Noozhrì’	voozhrì’	NOUN	_	_	2	nsubj	_	Gloss=your name|MSeg=n-oozhrì’|MGloss=2SG.POSS-name
 2	dòozhìi	doozhii	VERB	_	_	0	root	_	Gloss=what is it called|SpaceAfter=No
 3	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 257
 # text = Shoozhrì’ Matthew òozhìi.
 # text_en = My name is Matthew. 
-1	Shoozhrì’	voozhri’	NOUN	_	_	3	nsubj	_	Gloss=my name|MSeg=sh-oozhrì’
+1	Shoozhrì’	voozhri’	NOUN	_	_	3	nsubj	_	Gloss=my name|MSeg=shï-oozhrì’|MGloss-1SG.POSS-name
 2	Matthew	Matthew	PROPN	_	_	3	obj	_	Gloss=Matthew
 3	òozhìi	oozhii	VERB	_	_	0	root	_	Gloss=it is called|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1850,8 +1850,8 @@
 # sent_id = 269
 # text = Nant'ee neenahąąl’yàa.
 # text_en = I’ll see you too.
-1	Nant'ee	nant'ee	ADV	_	_	2	advmod	_	Gloss=you too
-2	neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|SpaceAfter=No
+1	Nant'ee	nant'ee	ADV	_	_	2	advmod	_	Gloss=you too|MSeg=nï-ant'ee|MGloss=2SG-too
+2	neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|MSeg=nee#-nï-hï-nï-al-'yàa|MGloss=ITER#2O-FUT-CNJ-1SG.FUT+L-see.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 270
@@ -1859,15 +1859,15 @@
 # text_en = Yes, I’ll see you.
 1	Àąhą’	aahà'	INTJ	_	_	3	discourse	_	Gloss=yes|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|SpaceAfter=No
+3	neenahąąl’yàa	neenahaal'yàa	VERB	_	_	0	root	_	Gloss=I’ll see you|MSeg=nee#-nï-hï-nï-al-'yàa|MGloss=ITER#2O-FUT-CNJ-1SG.FUT+L-see.FUT|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 271
 # text = Vashrąįįk’oo gwats’an nilìi.
-# text_en = She is from Arctic Village., He is from Arctic Village
+# text_en = S/he is from Arctic Village.
 1	Vashrąįįk’oo	Vashrąįįk’oo	PROPN	_	_	3	obl	_	Gloss=Arctic Village
-2	gwats’an	_	ADP	_	_	1	case	_	Gloss=from
-3	nilìi	_	VERB	_	_	0	root	_	Gloss=she is, he is|SpaceAfter=No
+2	gwats’an	_	ADP	_	_	1	case	_	Gloss=from|MSeg=gwï-ts’an|MGloss=AR-from
+3	nilìi	_	VERB	_	_	0	root	_	Gloss=she is, he is|MSeg=nï-lìi|MGloss=3SG.IPFV.STAT.Ø-be.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 272
@@ -1879,86 +1879,86 @@
 # sent_id = 273
 # text = Neenjit dòonch’yàa?
 # text_en = How are you? 
-1	Neenjit	eenjit	ADP	_	_	2	obl	_	Gloss=for you|MSeg=n-eenjit
+1	Neenjit	eenjit	ADP	_	_	2	obl	_	Gloss=for you|MSeg=nï-eenjit|MGloss=2SG-for
 2	dòonch’yàa	dòonch’yàa	VERB	_	_	0	root	_	Gloss=how are things?|SpaceAfter=No
 3	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 274
 # text = Gwinzìi.
 # text_en = It is good. 
-1	Gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|SpaceAfter=No
+1	Gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|MSeg=gwi-n-zìi|MGloss=AR-3SG-good|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 275
 # text = Sheenjit gwinzìi.
 # text_en = I am fine.  
-1	Sheenjit	eenjit	ADP	_	_	2	obl	_	Gloss=for me|MSeg=sh-eenjit
-2	gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|SpaceAfter=No
+1	Sheenjit	eenjit	ADP	_	_	2	obl	_	Gloss=for me|MSeg=shï-eenjit|MGloss=1SG-for
+2	gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|MSeg=gwi-n-zìi|MGloss=AR-3SG-good|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 276
 # text = John veenjit gwinzìi.
 # text_en = John is fine.  
 1	John	John	PROPN	_	_	3	obl	_	Gloss=John
-2	veenjit	eenjit	ADP	_	_	1	case	_	Gloss=for him|MSeg=v-eenjit
-3	gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|SpaceAfter=No
+2	veenjit	eenjit	ADP	_	_	1	case	_	Gloss=for him|MSeg=vï-eenjit|MGloss=3SG-for
+3	gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|MSeg=gwi-n-zìi|MGloss=AR-3SG-good|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 277
 # text = Shant’ee sheenjit gwinzìi.
 # text_en = Me too, I am fine.  
-1	Shant’ee	shant’ee	ADV	_	_	3	advmod	_	Gloss=me too
-2	sheenjit	eenjit	ADP	_	_	3	obl	_	Gloss=for me|MSeg=sh-eenjit
-3	gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|SpaceAfter=No
+1	Shant’ee	shant’ee	ADV	_	_	3	advmod	_	Gloss=me too|MSeg=shï-ant’ee|MGloss=1SG-too
+2	sheenjit	eenjit	ADP	_	_	3	obl	_	Gloss=for me|MSeg=shï-eenjit|MGloss=1SG-for
+3	gwinzìi	gwinzįį	VERB	_	_	0	root	_	Gloss=it is good|MSeg=gwi-n-zìi|MGloss=AR-3SG-good|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 278
 # text = Nizhìt gwìłts’ik?
 # text_en = Are you hungry? 
-1	Nizhìt	zhìt	ADP	_	_	2	obl	_	Gloss=inside you|MSeg=ni-zhìt
-2	gwìłts’ik	gwiłts'ik	VERB	_	_	0	root	_	Gloss=It is sore.; It is hurting|SpaceAfter=No
+1	Nizhìt	zhìt	ADP	_	_	2	obl	_	Gloss=inside you|MSeg=nï-zhìt|MGloss=2SG-inside
+2	gwìłts’ik	gwiłts'ik	VERB	_	_	0	root	_	Gloss=it is sore; it is hurting|MSeg=gwï-ił-ts’ik|MGloss=AR-3SG.IPFV.Ł-hurt.IPFV|SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 279
 # text = Shizhìt gwìłts’ìk.
 # text_en = I am hungry. 
-1	Shizhìt	zhìt	ADP	_	_	2	obl	_	Gloss=inside me|MSeg=shi-zhìt
-2	gwìłts’ìk	gwiłts'ik	VERB	_	_	0	root	_	Gloss=It is sore.; It is hurting|SpaceAfter=No
+1	Shizhìt	zhìt	ADP	_	_	2	obl	_	Gloss=inside me|MSeg=shï-zhìt|MGloss=1SG-inside
+2	gwìłts’ìk	gwiłts'ik	VERB	_	_	0	root	_	Gloss=it is sore; it is hurting|MSeg=gwï-ił-ts’ik|MGloss=AR-3SG.IPFV.Ł-hurt.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 280
 # text = Mary vizhìt gwìłts’ìk.
 # text_en = Mary is hungry. 
 1	Mary	Mary	PROPN	_	_	3	obl	_	Gloss=Mary
-2	vizhìt	zhìt	ADP	_	_	1	case	_	Gloss=inside her|MSeg=vi-zhìt
-3	gwìłts’ìk	gwiłts'ik	VERB	_	_	0	root	_	Gloss=It is sore.; It is hurting|SpaceAfter=No
+2	vizhìt	zhìt	ADP	_	_	1	case	_	Gloss=inside her|MSeg=vï-zhìt|MGloss=3SG-inside
+3	gwìłts’ìk	gwiłts'ik	VERB	_	_	0	root	_	Gloss=it is sore; it is hurting|MSeg=gwï-ił-ts’ik|MGloss=AR-3SG.IPFV.Ł-hurt.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 281
 # text = Ch'in'àl?
 # text_en = Did you eat? 
-1	Ch'in'àl	ch'a'àa	VERB	_	_	0	root	_	Gloss=did you eat|MSeg=chi-in-àl|SpaceAfter=No
+1	Ch'in'àl	ch'a'àa	VERB	_	_	0	root	_	Gloss=did you eat|MSeg=chï-in-àl|MGloss=INDF-2SG.PFV.Ø-eat.PFV|SpaceAfter=No
 2	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 282
 # text = Dhindìi.
 # text_en = Sit down.  
-1	Dhindìi	dhidii	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi|SpaceAfter=No
+1	Dhindìi	dhidii	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhï-in-dìi|MGloss=CNJ-2SG.IPFV.Ø-sit.IPFV|SpaceAfter=No
 2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 283
 # text = Shàa dhindìi.
 # text_en = Sit with me. 
-1	Shàa	hàa	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa
-2	dhindìi	dhidii	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi|SpaceAfter=No
+1	Shàa	hàa	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa|MGloss=1SG-with
+2	dhindìi	dhidii	VERB	_	_	0	root	_	Gloss=you sit|MSeg=dhi-in-dìi|MGloss=CNJ-2SG.IPFV.Ø-sit.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 284
 # text = Shàa dhindìi ch’ih’àa gwiizhik.
 # text_en = Sit with me while I’m eating. 
-1	Shàa	hàa	ADP	_	_	2	obl	_	Gloss=with me|MSeg=sh-àa
-2	dhindìi	dhidii	VERB	_	_	0	root	_	Gloss=sit down
-3	ch’ih’àa	ch'a'àa	VERB	_	_	2	advcl	_	Gloss=I am eating
+1	Shàa	hàa	ADP	_	_	2	obl	_	Gloss=with me|MSeg=shï-àa|MGloss=1SG-with
+2	dhindìi	dhidii	VERB	_	_	0	root	_	Gloss=sit down|MSeg=dhï-in-dìi|MGloss=CNJ-2SG.IPFV.Ø-sit.IPFV
+3	ch’ih’àa	ch'a'àa	VERB	_	_	2	advcl	_	Gloss=I am eating|MSeg=ch’ï-ih-’àa|MGloss=INDF-1SG.IPFV.Ø-eat.IPFV
 4	gwiizhik	gwiizhik	SCONJ	_	_	3	mark	_	Gloss=while|SpaceAfter=No
 5	.	_	PUNCT	_	_	2	punct	_	_
 
@@ -1966,21 +1966,21 @@
 # text = Coffèe hishinjyàa.
 # text_en = I will drink coffee. 
 1	Coffèe	coffèe	NOUN	_	_	2	obj	_	Gloss=coffee
-2	hishinjyàa	dinii	VERB	_	_	0	root	_	Gloss=I will drink|MSeg=hi-shi-njyàa|SpaceAfter=No
+2	hishinjyàa	dinii	VERB	_	_	0	root	_	Gloss=I will drink|MSeg=hï-shï-njyàa|MGloss=FUT-1SG.FUT.D-drink.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 286
 # text = Lidii hishinjyàa.
 # text_en = I will drink tea.  
 1	Lidii	lidii	NOUN	_	_	2	obj	_	Gloss=tea
-2	hishinjyàa	dinii	VERB	_	_	0	root	_	Gloss=I will drink|MSeg=hi-shi-njyàa|SpaceAfter=No
+2	hishinjyàa	dinii	VERB	_	_	0	root	_	Gloss=I will drink|MSeg=hï-shï-njyàa|MGloss=FUT-1SG.FUT.D-drink.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 287
 # text = Chuu hishinjyàa.
 # text_en = I will drink water. 
 1	Chuu	chuu	NOUN	_	_	2	obj	_	Gloss=water
-2	hishinjyàa	dinii	VERB	_	_	0	root	_	Gloss=I will drink|MSeg=hi-shi-njyàa|SpaceAfter=No
+2	hishinjyàa	dinii	VERB	_	_	0	root	_	Gloss=I will drink|MSeg=hi-shi-njyàa|MSeg=hï-shï-njyàa|MGloss=FUT-1SG.FUT.D-drink.FUT|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 288
