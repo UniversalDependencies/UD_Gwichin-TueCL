@@ -1986,43 +1986,43 @@
 # sent_id = 288
 # text = Vikì’ kal gwànlii ts’ą̀’ ts’èh dhaa yindhàn.
 # text_en = He is bald so he wants a warm hat.
-1	Vikì’	viki'	NOUN	_	_	3	nsubj	_	Gloss=his head
+1	Vikì’	vikì’	NOUN	_	_	3	nsubj	_	Gloss=his head|MSeg=vï-kì’|MGloss=3SG.POSS-head
 2	kal	kal	ADJ	_	_	1	amod	_	Gloss=bald
-3	gwànlii	gwànlįį	VERB	_	_	0	root	_	Gloss=there is much
+3	gwànlii	gwànlįį	VERB	_	_	0	root	_	Gloss=there is much|MSeg=gwàn-lii|MGloss=AR-be
 4	ts’ą̀’	ts’ą̀’	CCONJ	_	_	7	cc	_	Gloss=and so
 5	ts’èh	ts’èh	NOUN	_	_	7	obj	_	Gloss=hat
 6	dhaa	dhaa	ADJ	_	_	5	amod	_	Gloss=warm
-7	yindhàn	yindhan	VERB	_	_	3	conj	_	Gloss=he wants|SpaceAfter=No
+7	yindhàn	yindhan	VERB	_	_	3	conj	_	Gloss=he wants|MSeg=
 8	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 289
 # text = Naathài’ gwànlii kwàa.
 # text_en = You lost some (obvious) weight.
-1	Naathài’	vaathài’	NOUN	_	_	2	nsubj	_	Gloss=your weight
-2	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there is much
+1	Naathài’	vaathài’	NOUN	_	_	2	nsubj	_	Gloss=your weight|MSeg=nï-athài’|MGloss=2SG.POSS-weight?
+2	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there is much|MSeg=gwàn-lii|MGloss=AR-be
 3	kwàa	kwàa	PART	_	_	2	advmod	_	Gloss=not|SpaceAfter=No
 4	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 290
 # text = Shigii dǫǫ gwanlįį.
 # text_en = I have four children.
-1	Shigii	vigii	NOUN	_	_	3	nsubj	_	Gloss=my children|MSeg=shï-gii
+1	Shigii	vigii	NOUN	_	_	3	nsubj	_	Gloss=my children|MSeg=shï-gii|MGloss=1SG.POSS-children
 2	dǫǫ	dǫǫ	NUM	_	_	1	nummod	_	Gloss=four
-3	gwanlįį	gwanlįį	VERB	_	_	0	root	_	Gloss=there is much|MSeg=?|SpaceAfter=No
+3	gwanlįį	gwanlįį	VERB	_	_	0	root	_	Gloss=there is much|MSeg=gwan-lįį|MGloss=AR-be|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 291
 # text = Shįį shidęhtły’aa gwanlįį.
 # text_en = I have lots of books. 
 1	Shįį	shįį	PRON	_	_	2	nmod	_	Gloss=I
-2	shidęhtły’aa	dęhtłly’aa	NOUN	_	_	3	nsubj	_	Gloss=my books|MSeg=shï-dęhtły’aa
-3	gwanlįį	_	VERB	_	_	0	root	_	Gloss=there is much|SpaceAfter=No
+2	shidęhtły’aa	dęhtłly’aa	NOUN	_	_	3	nsubj	_	Gloss=my books|MSeg=shï-dęhtły’aa|MGloss=1SG.POSS-book
+3	gwanlįį	_	VERB	_	_	0	root	_	Gloss=there is much|MSeg=gwan-lįį|MGloss=AR-be|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 292
 # text = Shidęhtłly’aa kwaa.
 # text_en = I don’t have any books. 
-1	Shidęhtłly’aa	dęhtłly’aa	NOUN	_	_	0	root	_	Gloss=my books|MSeg=shï-dęhtły’aa
+1	Shidęhtłly’aa	dęhtłly’aa	NOUN	_	_	0	root	_	Gloss=my books|MSeg=shï-dęhtły’aa|MGloss=1SG.POSS-book
 2	kwaa	kwaa	PART	_	_	1	advmod	_	Gloss=not|SpaceAfter=No
 3	.	_	PUNCT	_	_	1	punct	_	_
 
@@ -2032,40 +2032,40 @@
 1	Daatsoo	daatsoo	NOUN	_	_	6	nsubj	_	Gloss=mouse
 2	aii	aii	SCONJ	_	_	5	mark	_	Gloss=that
 3	Neegǫǫ	neegǫǫ	NOUN	_	_	5	obl	_	Gloss=Fox
-4	vizhit	zhit	ADP	_	_	3	case	_	Gloss=inside him
-5	gwiłts’ik	gwiłts’ik	VERB	_	_	6	ccomp	_	Gloss=It is sore.; It is hurting.
-6	yàandàii	yaandàii	VERB	_	_	0	root	_	Gloss=s/he knows it|SpaceAfter=No
+4	vizhit	zhit	ADP	_	_	3	case	_	Gloss=inside him|MSeg=vï-zhit|MGloss=3SG-inside
+5	gwiłts’ik	gwiłts’ik	VERB	_	_	6	ccomp	_	Gloss=it is sore; it is hurting.|MSeg=gwï-ił-ts’ik|MGloss=AR-3SG.IPFV.Ł-hurt.IPFV
+6	yàandàii	yaandàii	VERB	_	_	0	root	_	Gloss=s/he knows it|MSeg=yï-dï-ndàii|MGloss=3O.3SG.IPFV.D-know.IPFV|SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 294
 # text = Shicheii tsal veenjit kwaiitryah ałtsii.
 # text_en = I am making moccasins for my little grandchild.
-1	Shicheii	vicheii	NOUN	_	_	5	obl	_	Gloss=my grandchild
+1	Shicheii	vicheii	NOUN	_	_	5	obl	_	Gloss=my grandchild|MSeg=shï-cheii|MGloss=1SG.POSS-grandchild
 2	tsal	tsal	ADJ	_	_	1	nmod	_	Gloss=little
-3	veenjit	eenjit	ADP	_	_	1	case	_	Gloss=for
+3	veenjit	eenjit	ADP	_	_	1	case	_	Gloss=for|MSeg=vï-eenjit|MGloss=3SG-for
 4	kwaiitryah	kwaiitryah	NOUN	_	_	5	obj	_	Gloss=moccasins
-5	ałtsii	yahtsii	VERB	_	_	0	root	_	Gloss=I a making it|SpaceAfter=No
+5	ałtsii	yahtsii	VERB	_	_	0	root	_	Gloss=I a making it|MSeg=ał-tsii|MGloss=1SG.IPFV.Ø-make.IPFV|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 295
 # text = Nagaii haa k’eech’ąąhkaii?
-# text_en = Do you sew with beads? 
+# text_en = Do you sew with beads?
 1	Nagaii	nagaii	NOUN	_	_	3	obl	_	Gloss=beads
 2	haa	haa	ADP	_	_	1	case	_	Gloss=with
-3	k’eech’ąąhkaii	k'èech'aahkaii	VERB	_	_	0	root	_	Gloss=you sew|SpaceAfter=No
+3	k’eech’ąąhkaii	k'èech'aahkaii	VERB	_	_	0	root	_	Gloss=you sew|MSeg=k’eech’ą-ąh-kaii|MGloss=?-2SG.IPFV.Ł-sew.IPFV|SpaceAfter=No
 4	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 296
 # text = K’eech’aałkaii geet’ihthan.
 # text_en = I love to sew. 
-1	K’eech’aałkaii	k'èech'aahkaii	VERB	_	_	2	ccomp	_	Gloss=I sew
-2	geet’ihthan	geet'indhan	VERB	_	_	0	root	_	Gloss=I love to|SpaceAfter=No
+1	K’eech’aałkaii	k'èech'aahkaii	VERB	_	_	2	ccomp	_	Gloss=I sew|MSeg=k’eech’a-ał-kaii|MGloss=?-1SG.IPFV.Ł-sew.IPFV
+2	geet’ihthan	geet'indhan	VERB	_	_	0	root	_	Gloss=I love to|MSeg=geet’-ih-than|MGloss=?-1SG.IPFV.Ø-love.IPFV|SpaceAfter=No
 3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 297
 # text = Nanjat kwaa ts’a’ neenichii, beebii.
-# text_en = Don’t be scared and go back to sleep, my baby. 
-1	Nanjat	naajat	VERB	_	_	0	root	_	Gloss=you are scared
+# text_en = Don’t be scared and go back to sleep, my baby.
+1	Nanjat	naajat	VERB	_	_	0	root	_	Gloss=you are scared|MSeg=nï-an-jat|MGloss=CNJ-2SG.IPFV.L-scared.IPFV
 2	kwaa	kwaa	PART	_	_	1	advmod	_	Gloss=not
 3	ts’a’	ts’a’	CCONJ	_	_	4	cc	_	Gloss=and
 4	neenichii	_	VERB	_	_	1	conj	_	Gloss=you go back to sleep|SpaceAfter=No
@@ -2074,7 +2074,7 @@
 7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 298
-# text = Zhat dą̀į’ Jim Dodson neech’ahąąht’ee gàa oondàk Vashrą̀įį K’ǫǫ gwalàràa kwaa ts’à’ zhat gwąąhi’in kwaa.
+# text = Zhat dą̀į’ Jim Dodson neech’ahąąht’ee gàa oondàk Vashrą̀įį K’ǫǫ gwalàràa kwaa ts’à’ zhat gwąąh’in kwaa.
 # text_en = At that time, Jim Dodson was flying, but up at Arctic Village there was no money, so he didn't come there. 
 1	Zhat	zhat	ADV	_	_	5	advmod	_	Gloss=that area; there
 2	dą̀į’	dą̀į’	ADV	_	_	5	advmod	_	Gloss=when (referring to the past)
@@ -2082,14 +2082,14 @@
 4	Dodson	Dodson	PROPN	_	_	3	flat	_	Gloss=Dodson
 5	neech’ahąąht’ee	neech’ahąąht’ee	NOUN	_	_	0	root	_	Gloss=airplane pilot
 6	gàa	gàa	CCONJ	_	_	10	cc	_	Gloss=but
-7	oondàk	oondàk	ADV	_	_	10	advmod	_	Gloss=toward a short distance up, inland from the river
+7	oondàk	oondàk	ADV	_	_	10	advmod	_	Gloss=toward a short distance up, inland from the river|MSeg=oon-dàk|MGloss=PROX-up from shore, inland.ALL
 8	Vashrą̀įį	Vashrą̀įį	PROPN	_	_	10	nsubj	_	Gloss=Arctic Village
 9	K’ǫǫ	K’ǫǫ	PROPN	_	_	8	flat	_	Gloss=Arctic Village
-10	gwalàràa	làraa	NOUN	_	_	5	conj	_	Gloss=enough money
+10	gwalàràa	làraa	NOUN	_	_	5	conj	_	Gloss=enough money|MSeg=gwï-làràa|MGloss=AR-money
 11	kwaa	kwaa	PART	_	_	10	advmod	_	Gloss=not
 12	ts’à’	ts’à’	CCONJ	_	_	14	cc	_	Gloss=and
 13	zhat	zhat	ADV	_	_	14	advmod	_	Gloss=that area; there
-14	gwąąhi’in	gwąąh'in	VERB	_	_	5	conj	_	Gloss=S/he is looking.; S/he sees.
+14	gwąąh’in	gwąąh'in	VERB	_	_	5	conj	_	Gloss=s/he is looking; s/he sees|MSeg=gwï-nï-ah-’in|MGloss=AR-CNJ-3SG.IPFV.Ł-see.IPFV
 15	kwaa	kwaa	PART	_	_	14	advmod	_	Gloss=not|SpaceAfter=No
 16	.	_	PUNCT	_	_	5	punct	_	_
 
@@ -2101,17 +2101,17 @@
 3	kak	kak	ADP	_	_	2	case	_	Gloss=on
 4	tthaa	tthaa	NOUN	_	_	6	nsubj	_	Gloss=ground squirrels
 5	lęįį	lęįį	ADJ	_	_	4	amod	_	Gloss=many
-6	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there are many|SpaceAfter=No
+6	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there are many|MSeg=gwàn-lii|MGloss=AR-be
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 300
 # text = Vatthài’ gwànlii kwaa ts’ą̀’ gwinzii vigweech’ìn.
 # text_en = S/he is not that heavy and looks very good. 
-1	Vatthài’	Vatthài’	NOUN	_	_	2	nsubj	_	Gloss=her weight
-2	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there is much
+1	Vatthài’	Vatthài’	NOUN	_	_	2	nsubj	_	Gloss=her weight|MSeg=vï-tthài’|MGloss=3SG.POSS-weight
+2	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there is much|MSeg=gwàn-lii|MGloss=AR-be
 3	kwaa	kwaa	PART	_	_	2	advmod	_	Gloss=not
 4	ts’ą̀’	ts’ą̀’	CCONJ	_	_	6	cc	_	Gloss=and
-5	gwinzii	gwinzii	ADV	_	_	6	advmod	_	Gloss=it is good
+5	gwinzii	gwinzii	ADV	_	_	6	advmod	_	Gloss=it is good|MSeg=gwïn-nzii|MGloss=AR-good
 6	vigweech’ìn	vigweech'in	VERB	_	_	2	conj	_	Gloss=S/he/it is visible.; S/he/it is in sight|SpaceAfter=No
 7	.	_	PUNCT	_	_	2	punct	_	_
 
@@ -2119,11 +2119,11 @@
 # text = Ch'anjaa nilii gàa vatth’àn tth’ąįį nizii ts’ą̀’ nint’ą̀įį.
 # text_en = S/he is old but her/his legs are still (good and) strong.
 1	Ch'anjaa	ch'anjaa	NOUN	_	_	2	obj	_	Gloss=elder; adult; older person
-2	nilii	nilii	VERB	_	_	0	root	_	Gloss=s/he is
+2	nilii	nilii	VERB	_	_	0	root	_	Gloss=s/he is|MSeg=ni-lii|MGloss=3SG.STAT.IPFV.Ø-be.IPFV
 3	gàa	gàa	CCONJ	_	_	6	cc	_	Gloss=but
-4	vatth’àn	vatth’àn	NOUN	_	_	6	nsubj	_	Gloss=his/her/its leg
+4	vatth’àn	vatth’àn	NOUN	_	_	6	nsubj	_	Gloss=his/her/its leg|MSeg=vï-tth’àn|MGloss=3SG.POSS-leg
 5	tth’ąįį	tth’ąįį	ADV	_	_	6	advmod	_	Gloss=more
-6	nizii	nizii	VERB	_	_	2	conj	_	Gloss=s/he/it is good
+6	nizii	nizii	VERB	_	_	2	conj	_	Gloss=s/he/it is good|MSeg=nï-zii|MGloss=3SG.STAT.IPFV.Ø-good.IPFV
 7	ts’ą̀’	ts’ą̀’	CCONJ	_	_	8	cc	_	Gloss=and
 8	nint’ą̀įį	nint’ą̀įį	VERB	_	_	6	conj	_	Gloss=it is strong|SpaceAfter=No
 9	.	_	PUNCT	_	_	2	punct	_	_
@@ -2131,10 +2131,10 @@
 # sent_id = 302
 # text = Ninleetth'àk iłts’ik geh’àn k’èech’ąąhkaii kwaa.
 # text_en = You don’t sew because your fingers hurt. 
-1	Ninleetth'àk	vinleetth'àk	NOUN	_	_	2	nsubj	_	Gloss=your fingers
-2	iłts’ik	iłts’ik	VERB	_	_	4	advcl	_	Gloss=s/he/it is sick
+1	Ninleetth'àk	vinleetth'àk	NOUN	_	_	2	nsubj	_	Gloss=your fingers|MSeg=nï-inleetth'àk|MGloss=2SG.POSS-fingers
+2	iłts’ik	iłts’ik	VERB	_	_	4	advcl	_	Gloss=s/he/it is sick|MSeg=ił-ts’ik|MGloss=3SG.IPFV.Ł-sick.IPFV
 3	geh’àn	geh’àn	SCONJ	_	_	2	mark	_	Gloss=because
-4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew
+4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew|MSeg=k’èech’ą-ąh-kaii|MGloss=?-2SG.IPFV.Ł-sew.IPFV|SpaceAfter=No
 5	kwaa	kwaa	PART	_	_	4	advmod	_	Gloss=no|SpaceAfter=No
 6	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -2146,7 +2146,7 @@
 3	dats’an	dats’an	NOUN	_	_	4	compound	_	Gloss=duck
 4	ghòo	ghòo	NOUN	_	_	6	nsubj	_	Gloss=egg
 5	łyâa	łyâa	ADV	_	_	6	advmod	_	Gloss=really
-6	nitsii	nitsii	VERB	_	_	0	root	_	Gloss=s/he/it is big|SpaceAfter=No
+6	nitsii	nitsii	VERB	_	_	0	root	_	Gloss=s/he/it is big|MSeg=nï-tsii|MGloss=3SG.STAT.IPFV.Ø-big.IPFV|SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 304
@@ -2154,48 +2154,48 @@
 # text_en = The squirrel jumped on the house and disappeared.  
 1	Dlak	dlak	NOUN	_	_	4	nsubj	_	Gloss=squirrel
 2	zhêh	zhêh	NOUN	_	_	4	obl	_	Gloss=house
-3	gwakat	gwakat	ADP	_	_	2	case	_	Gloss=on
-4	dìltł’ee	_	VERB	_	_	0	root	_	Gloss=jumped
+3	gwakat	gwakat	ADP	_	_	2	case	_	Gloss=on|MSeg=gwï-kat|MGloss=AR-on
+4	dìltł’ee	_	VERB	_	_	0	root	_	Gloss=jumped|MSeg=dìl-tł’ee
 5	ts’ą̀’	ts’ą̀’	CCONJ	_	_	6	cc	_	Gloss=and
-6	k’igwaaną̀įį	k’igwaaną̀įį	VERB	_	_	4	conj	_	Gloss=it disappeared|SpaceAfter=No
+6	k’igwaaną̀įį	k’igwaaną̀įį	VERB	_	_	4	conj	_	Gloss=it disappeared|MSeg=k'i-gwï-a-ną̀įį|SpaceAfter=No
 7	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 305
 # text = Shitsii vagwàndak eet’ihthàn.
 # text_en = I like stories of my grandfather.
-1	Shitsii	vitsii	NOUN	_	_	2	nmod	_	Gloss=my grandfather
-2	vagwàndak	gwàndak	NOUN	_	_	3	obj	_	Gloss=his story
-3	eet’ihthàn	eet'indhan	VERB	_	_	0	root	_	Gloss=I like|SpaceAfter=No
+1	Shitsii	vitsii	NOUN	_	_	2	nmod	_	Gloss=my grandfather|MSeg=shï-tsii|MGloss=1SG.POSS-grandfather
+2	vagwàndak	gwàndak	NOUN	_	_	3	obj	_	Gloss=his story|MSeg=vï-gwàndak|MGloss=3SG.POSS-story
+3	eet’ihthàn	eet'indhan	VERB	_	_	0	root	_	Gloss=I like|MSeg=eet'-ih-thàn|MGloss=?-1SG.IPFV.Ø-like.IPFV|SpaceAfter=No
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 306
 # text = Vits’ee veenjit natsal ts’à’ vidzee daatsik.
 # text_en = His/her hat is too small for him/her so s/he has red ears.
-1	Vits’ee	ts'ee	NOUN	_	_	3	nsubj	_	Gloss=his/her hat|MSeg=vï-ts'ee|Variant=vits'eh
-2	veenjit	eenjit	ADP	_	_	3	obl	_	Gloss=for him/her|MSeg=vï-eenjit
-3	natsal	natsal	VERB	_	_	0	root	_	Gloss=it is small|MSeg=nï-tsal
+1	Vits’ee	ts'ee	NOUN	_	_	3	nsubj	_	Gloss=his/her hat|MSeg=vï-ts'ee|Variant=vits'eh|MGloss=3SG.POSS-hat
+2	veenjit	eenjit	ADP	_	_	3	obl	_	Gloss=for him/her|MSeg=vï-eenjit|MGloss=3SG-for
+3	natsal	natsal	VERB	_	_	0	root	_	Gloss=it is small|MSeg=nï-tsal|MGloss=3SG.STAT.IPFV.Ø-small.IPFV
 4	ts’à’	ts’à’	CCONJ	_	_	6	cc	_	Gloss=so/and
-5	vidzee	vidzee	NOUN	_	_	6	nsubj	_	Gloss=his/her ear|MSeg=vï-dzee
-6	daatsik	daatsik	VERB	_	_	3	conj	_	Gloss=it is red|MSeg=?|SpaceAfter=No
+5	vidzee	vidzee	NOUN	_	_	6	nsubj	_	Gloss=his/her ear|MSeg=vï-dzee|MGloss=3SG.POSS-ear
+6	daatsik	daatsik	VERB	_	_	3	conj	_	Gloss=it is red|MSeg=dï-a-tsik|MGloss=CNJ-3SG.IPFV.L-red.IPFV|SpaceAfter=No
 7	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 307
 # text = Nan daatràt ts’ą̀’ nàljat.
-# text_en = There is an earthquake and I’m scared. 
+# text_en = There is an earthquake and I’m scared.
 1	Nan	nan	NOUN	_	_	2	nsubj	_	Gloss=earth
-2	daatràt	daatràt	VERB	_	_	0	root	_	Gloss=it is trembling
+2	daatràt	daatràt	VERB	_	_	0	root	_	Gloss=it is trembling|MSeg=dï-a-tràt|MGloss=CNJ-3SG.IPFV.L-tremble.IPFV|SpaceAfter=No
 3	ts’ą̀’	ts’ą̀’	CCONJ	_	_	4	cc	_	Gloss=and
-4	nàljat	nàljat	VERB	_	_	2	conj	_	Gloss=I am scared|MSeg=nï-al-jat|SpaceAfter=No
+4	nàljat	nàljat	VERB	_	_	2	conj	_	Gloss=I am scared|MSeg=nï-al-jat|MGloss=CNJ-1SG.IPFV.L-scared.IPFV|SpaceAfter=No
 5	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 308
 # text = Gwintsàl dinjii zhuh k’yàa ch’îihtth’ak ts’ą̀’ jidìi eegìnkhii gàashandàii.
 # text_en = I understand the Gwich’in language a little, so I know what you are talking about.
-1	Gwintsàl	gwintsal	ADV	_	_	5	advmod	_	Gloss=a little
+1	Gwintsàl	gwintsal	ADV	_	_	5	advmod	_	Gloss=a little|MSeg=gwin-tsàl
 2	dinjii	dinjii	PROPN	_	_	5	obj	_	Gloss=man
 3	zhuh	zhuh	PROPN	_	_	2	flat	_	Gloss=native
 4	k’yàa	_	PROPN	_	_	2	flat	_	Gloss=
-5	ch’îihtth’ak	_	VERB	_	_	0	root	_	Gloss=I understand
+5	ch’îihtth’ak	ch'îitth'ak	VERB	_	_	0	root	_	Gloss=I understand|MSeg=chï-ih-tth’ak|MGloss=INDF-1SG.IPFV.Ø-hear.IPFV|SpaceAfter=No
 6	ts’ą̀’	ts’ą̀’	CCONJ	_	_	9	cc	_	Gloss=and
 7	jidìi	jidìi	PRON	_	_	9	obj	_	Gloss=what
 8	eegìnkhii	_	VERB	_	_	7	acl	_	Gloss=you are talking about|MSeg=ee-g-ìn-khii
@@ -2209,7 +2209,7 @@
 2	ts’ą̀’	ts’ą̀’	ADP	_	_	1	case	_	Gloss=to
 3	vadzaih	vadzaih	NOUN	_	_	4	compound	_	Gloss=caribou
 4	tsìk	vitsik	NOUN	_	_	5	obj	_	Gloss=rib
-5	keech’ahch’yàa	vikeech’ahch’yàa	VERB	_	_	0	root	_	Gloss=she is cooking|SpaceAfter=No
+5	keech’ahch’yàa	vikeech’ahch’yàa	VERB	_	_	0	root	_	Gloss=she is cooking|MSeg=keech'-ah-ch'yàa|MGloss=?-3SG.IPFV.Ł-cook.IPFV|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 310
@@ -2218,17 +2218,17 @@
 1	Airplane	airplane	NOUN	_	_	5	obl	_	Gloss=airplane
 2	haa	haa	ADP	_	_	1	case	_	Gloss=with
 3	Fairbanks	Fairbanks	PROPN	_	_	5	obl	_	Gloss=Fairbanks
-4	gwats’a’	ts'a'	ADP	_	_	3	case	_	Gloss=to|gwï-ts'a'
-5	hihshyaa	ahàa	VERB	_	_	0	root	_	Gloss=I will go|MSeg=hï-ih-shyaa|SpaceAfter=No
+4	gwats’a’	ts'a'	ADP	_	_	3	case	_	Gloss=to|MSeg=gwï-ts'a'|MGloss=AR-to
+5	hihshyaa	ahàa	VERB	_	_	0	root	_	Gloss=I will go|MSeg=hï-ih-shyaa|MGloss=FUT-1SG.FUT.Ø-go.FUT|SpaceAfter=No
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 311
-# text = Van kat dinjik tr’aah’in.
+# text = Van kat dinjik tr’ąąh’in.
 # text_en = On the lake we see a moose.
 1	Van	van	NOUN	_	_	4	obl	_	Gloss=lake
 2	kat	kat	ADP	_	_	1	case	_	Gloss=on
 3	dinjik	dinjik	NOUN	_	_	4	obj	_	Gloss=moose
-4	tr’aah’in	_	VERB	_	_	0	root	_	Gloss=we see|SpaceAfter=No
+4	tr’ąąh’in	nah'in	VERB	_	_	0	root	_	Gloss=we see|MSeg=trï-nï-ah-'in|MGloss=1PL-CNJ-3SG.IPFV.Ł-see.IPFV|SpaceAfter=No
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 312
