@@ -1992,7 +1992,7 @@
 4	ts’ą̀’	ts’ą̀’	CCONJ	_	_	7	cc	_	Gloss=and so
 5	ts’èh	ts’èh	NOUN	_	_	7	obj	_	Gloss=hat
 6	dhaa	dhaa	ADJ	_	_	5	amod	_	Gloss=warm
-7	yindhàn	yindhan	VERB	_	_	3	conj	_	Gloss=he wants|MSeg=
+7	yindhàn	yindhan	VERB	_	_	3	conj	_	Gloss=he wants|MSeg=yï-in-dhan|MGloss=3O-3SG.IPFV.Ø-want.IPFV|SpaceAfter=No
 8	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 289
@@ -2101,7 +2101,7 @@
 3	kak	kak	ADP	_	_	2	case	_	Gloss=on
 4	tthaa	tthaa	NOUN	_	_	6	nsubj	_	Gloss=ground squirrels
 5	lęįį	lęįį	ADJ	_	_	4	amod	_	Gloss=many
-6	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there are many|MSeg=gwàn-lii|MGloss=AR-be
+6	gwànlii	gwànlii	VERB	_	_	0	root	_	Gloss=there are many|MSeg=gwàn-lii|MGloss=AR-be|SpaceAfter=No
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 300
@@ -2134,7 +2134,7 @@
 1	Ninleetth'àk	vinleetth'àk	NOUN	_	_	2	nsubj	_	Gloss=your fingers|MSeg=nï-inleetth'àk|MGloss=2SG.POSS-fingers
 2	iłts’ik	iłts’ik	VERB	_	_	4	advcl	_	Gloss=s/he/it is sick|MSeg=ił-ts’ik|MGloss=3SG.IPFV.Ł-sick.IPFV
 3	geh’àn	geh’àn	SCONJ	_	_	2	mark	_	Gloss=because
-4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew|MSeg=k’èech’ą-ąh-kaii|MGloss=?-2SG.IPFV.Ł-sew.IPFV|SpaceAfter=No
+4	k’èech’ąąhkaii	k’èech’aahkaii	VERB	_	_	0	root	_	Gloss=you sew|MSeg=k’èech’ą-ąh-kaii|MGloss=?-2SG.IPFV.Ł-sew.IPFV
 5	kwaa	kwaa	PART	_	_	4	advmod	_	Gloss=no|SpaceAfter=No
 6	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -2183,7 +2183,7 @@
 # text = Nan daatràt ts’ą̀’ nàljat.
 # text_en = There is an earthquake and I’m scared.
 1	Nan	nan	NOUN	_	_	2	nsubj	_	Gloss=earth
-2	daatràt	daatràt	VERB	_	_	0	root	_	Gloss=it is trembling|MSeg=dï-a-tràt|MGloss=CNJ-3SG.IPFV.L-tremble.IPFV|SpaceAfter=No
+2	daatràt	daatràt	VERB	_	_	0	root	_	Gloss=it is trembling|MSeg=dï-a-tràt|MGloss=CNJ-3SG.IPFV.L-tremble.IPFV
 3	ts’ą̀’	ts’ą̀’	CCONJ	_	_	4	cc	_	Gloss=and
 4	nàljat	nàljat	VERB	_	_	2	conj	_	Gloss=I am scared|MSeg=nï-al-jat|MGloss=CNJ-1SG.IPFV.L-scared.IPFV|SpaceAfter=No
 5	.	_	PUNCT	_	_	2	punct	_	_
@@ -2195,7 +2195,7 @@
 2	dinjii	dinjii	PROPN	_	_	5	obj	_	Gloss=man
 3	zhuh	zhuh	PROPN	_	_	2	flat	_	Gloss=native
 4	k’yàa	_	PROPN	_	_	2	flat	_	Gloss=
-5	ch’îihtth’ak	ch'îitth'ak	VERB	_	_	0	root	_	Gloss=I understand|MSeg=chï-ih-tth’ak|MGloss=INDF-1SG.IPFV.Ø-hear.IPFV|SpaceAfter=No
+5	ch’îihtth’ak	ch'îitth'ak	VERB	_	_	0	root	_	Gloss=I understand|MSeg=chï-ih-tth’ak|MGloss=INDF-1SG.IPFV.Ø-hear.IPFV
 6	ts’ą̀’	ts’ą̀’	CCONJ	_	_	9	cc	_	Gloss=and
 7	jidìi	jidìi	PRON	_	_	9	obj	_	Gloss=what
 8	eegìnkhii	_	VERB	_	_	7	acl	_	Gloss=you are talking about|MSeg=ee-g-ìn-khii
