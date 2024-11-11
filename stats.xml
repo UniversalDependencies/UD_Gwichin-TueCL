@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>313</sentences><tokens>1008</tokens><words>1008</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>313</sentences><tokens>1008</tokens><words>1008</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="282" /><!-- yahtsii, yąąh’in, ikyaa, traa, yinii, yaghan, dzirh, dhidii, eenjit, itree, naazhrii, nilįį, ts’ą̀’, dinjik, ch’iitth’ak -->
+  <forms unique="498" /><!-- ., Traa, ?, Dzirh, ,, ts’ą̀’, dinjik, Nilįį, kwaa, Aih, Ch'adhah, Dak, eenjit, dąį’, gwinzìi -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">10</tag><!-- tsal, zhrąįį, atthoo, choo, dhaa, k'eejit, kal, lęįį -->
+    <tag name="ADP">41</tag><!-- eenjit, zhìt, hàa, kat, haa, kak, zhit, _, gwakat, gwats’an -->
+    <tag name="ADV">40</tag><!-- _, dąį’, zhat, gwiizhik, nijìn, ch'iitąįį, chan, chiitąįį, dàk, dą̀į’ -->
+    <tag name="CCONJ">16</tag><!-- ts’ą̀’, ts’à’, gàa, hàa, ts’a’ -->
+    <tag name="DET">5</tag><!-- izhik, yagha’, aii -->
+    <tag name="INTJ">1</tag><!-- aahà' -->
+    <tag name="NOUN">167</tag><!-- traa, dzirh, dinjik, aih, ch’adhah, nilįį, vadzaih, ch’ilik, ddhah, kǫ’ -->
+    <tag name="NUM">4</tag><!-- 1938, ch'ihłak, dǫǫ -->
+    <tag name="PART">10</tag><!-- kwaa, nąįį, kwàa -->
+    <tag name="PRON">4</tag><!-- jidìi, shįį -->
+    <tag name="PROPN">33</tag><!-- gwichyaa, John, K’ǫǫ, Vashrą̀įį, Alice, April, Bishop, Burke, Dodson, Dr. -->
+    <tag name="PUNCT">324</tag><!-- _, ,, ? -->
+    <tag name="SCONJ">7</tag><!-- aii, eenjit, geh’an, geh’àn, gwiizhik, jì, jì’ -->
+    <tag name="VERB">343</tag><!-- _, yahtsii, yąąh’in, ikyaa, yinii, yaghan, dhidii, itree, naazhrii, ch’iitth’ak -->
+    <tag name="X">3</tag><!-- _, dèe, t'ee -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="26">
+    <dep name="acl">2</dep>
+    <dep name="advcl">10</dep>
+    <dep name="advmod">46</dep>
+    <dep name="amod">9</dep>
+    <dep name="appos">1</dep>
+    <dep name="case">33</dep>
+    <dep name="cc">17</dep>
+    <dep name="ccomp">6</dep>
+    <dep name="compound">14</dep>
+    <dep name="conj">19</dep>
+    <dep name="dep">4</dep>
+    <dep name="det">4</dep>
+    <dep name="discourse">1</dep>
+    <dep name="fixed">1</dep>
+    <dep name="flat">9</dep>
+    <dep name="iobj">1</dep>
+    <dep name="mark">7</dep>
+    <dep name="nmod">8</dep>
+    <dep name="nsubj">32</dep>
+    <dep name="nummod">4</dep>
+    <dep name="obj">100</dep>
+    <dep name="obl">41</dep>
+    <dep name="punct">324</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">313</dep>
+    <dep name="vocative">1</dep>
+  </deps>
+</treebank>
