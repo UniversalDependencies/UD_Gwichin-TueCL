@@ -38,6 +38,7 @@ I want to thank the native Gwich'in speakers and the Doyon Foundation whose mate
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
@@ -46,6 +47,6 @@ Features: not available
 Relations: manual native
 Contributors: Andrews, Matthew; Çöltekin, Çağrı
 Contributing: here
-Contact: matthew.andrews@student.uni-tuebingen.de, cagri.coeltekin@uni-tuebingen.de
+Contact: m.kirkandrews@gmail.com, cagri.coeltekin@uni-tuebingen.de
 ===============================================================================
 </pre>
