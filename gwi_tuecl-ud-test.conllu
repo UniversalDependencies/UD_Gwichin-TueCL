@@ -1640,8 +1640,8 @@
 # sent_id = 248
 # text = Oodee ddhah kat aat’oo neiinghaa.
 # text_en = A birch tree fell up on the hill.
-1	Oodee	oodee	ADV	_	_	4	advmod	_	Gloss=at a point up above|MSeg=oo-dee|MGloss=PROX-PNCT.up_above
-2	ddhah	ddhah	NOUN	_	_	4	obl	_	Gloss=mountain
+1	Oodee	oodee	ADV	_	_	5	advmod	_	Gloss=at a point up above|MSeg=oo-dee|MGloss=PROX-PNCT.up_above
+2	ddhah	ddhah	NOUN	_	_	5	obl	_	Gloss=mountain
 3	kat	kat	ADP	_	_	2	case	_	Gloss=on
 4	aat’oo	aat'oo	NOUN	_	_	5	nsubj	_	Gloss=birch
 5	neiinghaa	_	VERB	_	_	0	root	_	Gloss=the stick-like object fell|MSeg=nee#iin-ghaa|MGloss=ITER-3SG.PFV.Ø-stick_like_falls|SpaceAfter=No
