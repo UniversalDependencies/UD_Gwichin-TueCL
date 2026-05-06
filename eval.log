@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Gwichin-TueCL:
-commit b5aa9319e6228258bdfa52a3407ecda9ae39d7b0
-Merge: d38ee11 a114e6f
+commit e12ed60fa96e416d035076f5cb84ecbca31ba86c
+Merge: e87195c 5b705f8
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'gwi_tuecl'
@@ -25,9 +25,8 @@ Universal relations: 26 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang gwi --max-err=10 UD_Gwichin-TueCL/gwi_tuecl-ud-test.conllu
-[Line 1644 Sent 248]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'aat’oo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1688 Sent 252]: [L3 Warning fixed-without-extpos] Fixed expression 'gohch’it dèe' does not have the 'ExtPos' feature
-Warnings: 2
+[Line 1688 Sent 252]: [L3 WARNING fixed-without-extpos] Fixed expression 'gohch’it dèe' does not have the 'ExtPos' feature
+Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
