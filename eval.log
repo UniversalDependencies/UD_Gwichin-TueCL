@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Gwichin-TueCL:
-commit e12ed60fa96e416d035076f5cb84ecbca31ba86c
-Merge: e87195c 5b705f8
+commit d2447c5b547defd3f1ada7bb3b3eaa9b129ad6e6
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 12:53:07 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'gwi_tuecl'
 Language code (from CoNLL-U file name) = 'gwi'
